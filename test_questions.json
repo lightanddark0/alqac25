@@ -1,0 +1,14 @@
+[
+  {
+    "question_id": "train_alqac25_1",
+    "question_type": "Đúng/Sai",
+    "text": "Người nghiện ma túy từ đủ 18 tuổi trở lên bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc theo quy định của Luật Xử lý vi phạm hành chính khi bị phát hiện sử dụng chất ma túy một cách trái phép trong thời gian cai nghiện ma túy tự nguyện, đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Phòng, chống ma túy",
+        "article_id": "32"
+      }
+    ],
+    "answer": "Đúng"
+  }
+]

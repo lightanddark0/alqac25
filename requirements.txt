@@ -1,0 +1,30 @@
+# Core libraries
+numpy>=1.21.0
+torch>=1.9.0
+transformers>=4.20.0
+scikit-learn>=1.0.0
+
+# Text processing
+underthesea>=1.3.0
+rank-bm25>=0.2.2
+
+# HTTP requests
+requests>=2.25.0
+
+# Utilities
+tqdm>=4.62.0
+dataclasses>=0.6; python_version<"3.7"
+pathlib>=1.0.1; python_version<"3.4"
+
+# Optional: For better performance
+faiss-cpu>=1.7.0
+# faiss-gpu>=1.7.0  # Uncomment if using GPU
+
+# Optional: For sentence embeddings
+sentence-transformers>=2.2.0
+
+# Optional: For logging and monitoring
+wandb>=0.12.0
+
+# Optional: For API calls (if using OpenAI or other APIs)
+openai>=0.27.0 

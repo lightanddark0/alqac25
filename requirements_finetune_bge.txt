@@ -1,0 +1,6 @@
+torch>=1.10
+sentence-transformers>=2.2.2
+transformers>=4.30
+scikit-learn>=1.0
+tqdm
+numpy 

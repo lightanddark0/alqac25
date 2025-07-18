@@ -1,0 +1,18 @@
+# Core libraries
+numpy>=1.21.0
+torch>=1.9.0
+transformers>=4.20.0
+
+# Text processing and retrieval
+rank-bm25>=0.2.2
+sentence-transformers>=2.2.0
+
+# Vector search
+faiss-cpu>=1.7.0
+# faiss-gpu>=1.7.0  # Uncomment if using GPU
+
+# Progress bars
+tqdm>=4.62.0
+
+# Optional: For better performance with sentence transformers
+accelerate>=0.20.0 

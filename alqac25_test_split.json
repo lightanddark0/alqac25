@@ -1,0 +1,530 @@
+[
+  {
+    "question_id": "train_alqac25_381",
+    "question_type": "Trắc nghiệm",
+    "text": "Bảo vệ tổ quốc Việt Nam xã hội chủ nghĩa là sự nghiệp của ai?",
+    "relevant_articles": [
+      {
+        "law_id": "Hiến pháp",
+        "article_id": "64"
+      }
+    ],
+    "choices": {
+      "A": "Nhà nước.",
+      "B": "Các cơ quan, tổ chức liên quan.",
+      "C": "lực lượng vũ trang.",
+      "D": "toàn dân."
+    },
+    "answer": "D"
+  },
+  {
+    "question_id": "train_alqac25_439",
+    "question_type": "Tự luận",
+    "text": "việc theo dõi liên tục, định kỳ, đột xuất, có hệ thống về thành phần môi trường, các nhân tố tác động đến môi trường, chất thải nhằm cung cấp thông tin đánh giá hiện trạng môi trường, diễn biến chất lượng môi trường và tác động xấu đến môi trường là gì?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Bảo vệ môi trường",
+        "article_id": "3"
+      }
+    ],
+    "answer": "Quan trắc môi trường"
+  },
+  {
+    "question_id": "train_alqac25_475",
+    "question_type": "Đúng/Sai",
+    "text": "Chính phủ quy định mọi trình tự, thủ tục áp dụng biện pháp bảo vệ an ninh mạng, đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật An ninh mạng",
+        "article_id": "5"
+      }
+    ],
+    "answer": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_386",
+    "question_type": "Đúng/Sai",
+    "text": "Chỉ có một người nắm quyền làm chủ nhà nước, tất cả quyền lực nhà nước tập trung trong tay chủ tịch nước, đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Hiến pháp",
+        "article_id": "2"
+      }
+    ],
+    "answer": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_284",
+    "question_type": "Tự luận",
+    "text": "Vụ án có điều kiện nào sẽ được giải quyết theo thủ tục rút gọn?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tố tụng hành chính",
+        "article_id": "246"
+      }
+    ],
+    "answer": "Vụ án có tình tiết đơn giản, tài liệu, chứng cứ đầy đủ, rõ ràng, bảo đảm đủ căn cứ giải quyết vụ án và Tòa án không phải thu thập tài liệu, chứng cứ; các đương sự đều có địa chỉ nơi cư trú, trụ sở rõ ràng; không có đương sự cư trú ở nước ngoài, trừ trường hợp đương sự ở nước ngoài có thỏa thuận với đương sự ở Việt Nam đề nghị Tòa án giải quyết theo thủ tục rút gọn."
+  },
+  {
+    "question_id": "train_alqac25_250",
+    "question_type": "Trắc nghiệm",
+    "text": "Tại phiên tòa, quyền quyết định việc thay đổi thẩm phán, hội thẩm nhân dân, thư kí tòa án là của ai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tố tụng hành chính",
+        "article_id": "37"
+      }
+    ],
+    "choices": {
+      "A": "Do đại diện viện kiểm sát",
+      "B": "Do chánh án tòa án nhân dân",
+      "C": "Không thể thay đổi tại phiên tòa",
+      "D": "Do hội đồng xét xử, chánh án tòa án nhân dân chỉ được thay đổi trước phiên tòa"
+    },
+    "answer": "D"
+  },
+  {
+    "question_id": "train_alqac25_263",
+    "question_type": "Đúng/Sai",
+    "text": "Tất cả mọi người khi vào phòng xử án đều phải chấp hành kiểm tra an ninh của lực lượng bảo vệ phiên tòa đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tố tụng hành chính",
+        "article_id": "153"
+      }
+    ],
+    "answer": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_261",
+    "question_type": "Tự luận",
+    "text": "Trường hợp đơn khởi kiện thể hiện nội dung yêu cầu giải quyết tranh chấp đất đai, nhưng người khởi kiện chỉ yêu cầu Tòa án hủy giấy chứng nhận quyền sử dụng đất đã cấp. Trường hợp này thụ lý vụ án dân sự hay vụ án hành chính để xem xét giải quyết?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tố tụng hành chính",
+        "article_id": "8"
+      }
+    ],
+    "answer": "Trường hợp người khởi kiện chỉ yêu cầu hủy giấy chứng nhận quyền sử dụng đất thì Tòa án phải tôn trọng “Quyền quyết định và tự định đoạt của người khởi kiện”. Theo đó thì Tòa án phải xem xét thụ lý, giải quyết vụ án theo quy định của Luật Tố tụng hành chính"
+  },
+  {
+    "question_id": "train_alqac25_252",
+    "question_type": "Trắc nghiệm",
+    "text": "Trong quá trình giải quyết vụ án, đương sự có quyền gì liên quan đến tài liệu, chứng cứ?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tố tụng hành chính",
+        "article_id": "55"
+      }
+    ],
+    "choices": {
+      "A": "\nChỉ được yêu cầu cơ quan quản lý tài liệu, chứng cứ cung cấp",
+      "B": "\nChỉ có thể yêu cầu tổ chức không có quản lý tài liệu, chứng cứ cung cấp",
+      "C": "Có quyền yêu cầu cơ quan, tổ chức, cá nhân lưu giữ, quản lý tài liệu, cung cấp chứng cớ",
+      "D": "\nChỉ có thể yêu cầu cơ quan lưu giữ tài liệu, chứng cứ cung cấp"
+    },
+    "answer": "C"
+  },
+  {
+    "question_id": "train_alqac25_279",
+    "question_type": "Trắc nghiệm",
+    "text": "Khi người đại diện theo pháp luật của đương sự là người chưa thành niên hoặc người mất năng lực hành vi dân sự, ai phải ký tên hoặc điểm chỉ trong đơn kháng cáo?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tố tụng hành chính",
+        "article_id": "205"
+      }
+    ],
+    "choices": {
+      "A": "Người đại diện theo pháp luật",
+      "B": "Người kháng cáo",
+      "C": "Người đại diện theo ủy quyền",
+      "D": "Cả A, B và C sai."
+    },
+    "answer": "B"
+  },
+  {
+    "question_id": "train_alqac25_390",
+    "question_type": "Đúng/Sai",
+    "text": "Một trong những tiêu chí xây dựng nền kinh tế của nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam được là độc lập và tự chủ.",
+    "relevant_articles": [
+      {
+        "law_id": "Hiến pháp",
+        "article_id": "50"
+      }
+    ],
+    "answer": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_269",
+    "question_type": "Tự luận",
+    "text": "Hành vi nào liên quan đến phiên dịch được coi là hành vi cản trở thu thập xác minh chứng cớ của tòa án?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tố tụng hành chính",
+        "article_id": "318"
+      }
+    ],
+    "answer": "Dịch sai sự thật"
+  },
+  {
+    "question_id": "train_alqac25_362",
+    "question_type": "Trắc nghiệm",
+    "text": "Ai có quyền quyết định việc cung cấp thông tin liên quan đến bí mật kinh doanh, đời sống riêng tư, bí mật cá nhân, bí mật gia đình trong trường hợp cần thiết vì lợi ích công cộng?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tiếp cận thông tin",
+        "article_id": "7"
+      }
+    ],
+    "choices": {
+      "A": "Người sở hữu thông tin.",
+      "B": "Người đứng đầu cơ quan nhà nước.",
+      "C": "Cộng đồng.",
+      "D": "Thành viên gia đình."
+    },
+    "answer": "B"
+  },
+  {
+    "question_id": "train_alqac25_597",
+    "question_type": "Trắc nghiệm",
+    "text": "Thời hạn đăng ký tạm trú tối đa là bao lâu?",
+    "choices": {
+      "A": "06 tháng. ",
+      "B": "01 năm.",
+      "C": "02 năm.",
+      "D": "03 năm."
+    },
+    "relevant_articles": [
+      {
+        "law_id": "Luật Cư trú",
+        "article_id": "27"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "train_alqac25_570",
+    "question_type": "Đúng/Sai",
+    "text": "Chung sống như vợ chồng là việc nam, nữ tổ chức cuộc sống chung và coi nhau là vợ chồng, đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Hôn nhân và gia đình",
+        "article_id": "3"
+      }
+    ],
+    "answer": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_420",
+    "question_type": "Đúng/Sai",
+    "text": "Ông X là chủ dự án đầu tư của 1 dự án tại khu dân cư Y, huyện Z, tỉnh A. Ông X không cần phải thực hiện tham vấn cộng đồng dân cư, cá nhân chịu tác động trực tiếp bởi dự án của ông vì đấy không phải chuyên môn của ông. Đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Bảo vệ môi trường",
+        "article_id": "33"
+      }
+    ],
+    "answer": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_498",
+    "question_type": "Trắc nghiệm",
+    "text": "Luật An ninh mạng năm 2018 có hiệu lực từ ngày nào?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật An ninh mạng",
+        "article_id": "43"
+      }
+    ],
+    "choices": {
+      "A": "1/1/2018",
+      "B": "1/7/2018",
+      "C": "1/1/2019",
+      "D": "1/7/2019"
+    },
+    "answer": "C"
+  },
+  {
+    "question_id": "train_alqac25_175",
+    "question_type": "Trắc nghiệm",
+    "text": "Việc thực hiện nhiệm vụ, tổ chức bộ máy, nhân sự và tài chính của trường công lập được quy định như thế nào?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Giáo dục",
+        "article_id": "60"
+      }
+    ],
+    "choices": {
+      "A": "Cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông thực hiện quy chế dân chủ trong nhà trường; có trách nhiệm giải trình với xã hội, người học, cơ quan quản lý; bảo đảm việc tham gia của người học, gia đình và xã hội trong quản lý nhà trường. Việc quản lý trong cơ sở giáo dục mầm non và cơ sở giáo dục phổ thông công lập thực hiện theo quy định của Chính phủ",
+      "B": "Cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học thực hiện quyền tự chủ, trách nhiệm giải trình theo quy định của Luật Giáo dục nghề nghiệp, Luật Giáo dục đại học và quy định khác của pháp luật có liên quan",
+      "C": "Cả A, B đều đúng",
+      "D": "Cả A, B đều sai"
+    },
+    "answer": "C"
+  },
+  {
+    "question_id": "train_alqac25_579",
+    "question_type": "Trắc nghiệm",
+    "text": "Trường hợp nào dưới đây tòa án có thể từ chối thụ lý khi các bên tranh chấp đã có thỏa thuận trọng tài?",
+    "choices": {
+      "A": "Một bên khởi kiện lại tòa án thụ lý.",
+      "B": "Một bên khởi kiện lại tòa án và thỏa thuận trọng tài vô hiệu",
+      "C": "Một bên khởi kiện tòa án và thỏa thuận trọng tài không thể thực hiện được",
+      "D": "Cả 3 phương án trên đều đúng"
+    },
+    "relevant_articles": [
+      {
+        "law_id": "Luật Trọng tài thương mại",
+        "article_id": "6"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "train_alqac25_465",
+    "question_type": "Trắc nghiệm",
+    "text": "Theo quy định của luật Trọng tài thương mại, phán quyết trọng tài phải có bao nhiêu nội dung chủ yếu?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Trọng tài thương mại",
+        "article_id": "61"
+      }
+    ],
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "answer": "D"
+  },
+  {
+    "question_id": "train_alqac25_707",
+    "question_type": "Trắc nghiệm",
+    "text": "Các khu vực nào sau đây cần phải có trong cơ sở cai nghiện ma túy công lập?",
+    "choices": {
+      "A": "Khu lưu trú tạm thời",
+      "B": "Khu cai nghiện ma túy bắt buộc",
+      "C": "Khu cai nghiện ma túy tự nguyện",
+      "D": "Cả A, B, C đều đúng"
+    },
+    "relevant_articles": [
+      {
+        "law_id": "Luật Phòng, chống ma túy",
+        "article_id": "35"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "train_alqac25_633",
+    "question_type": "Đúng/Sai",
+    "text": "Phán quyết trọng tài không bị xem xét lại theo thủ tục phúc thẩm, đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Trọng tài thương mại",
+        "article_id": "4"
+      }
+    ],
+    "answer": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_717",
+    "question_type": "Trắc nghiệm",
+    "text": "Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch quốc tế không bao gồm thứ gì sau đây?",
+    "choices": {
+      "A": "Sơ yếu lý lịch có xác nhận của Ủy ban nhân dân cấp xã nơi cư trú.",
+      "B": "02 ảnh chân dung màu cỡ 3 cm x 4 cm.",
+      "C": "02 ảnh chân dung màu cỡ 4 cm x 6 cm.",
+      "D": "Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định."
+    },
+    "relevant_articles": [
+      {
+        "law_id": "Luật Du lịch",
+        "article_id": "60"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question_id": "train_alqac25_725",
+    "question_type": "Trắc nghiệm",
+    "text": "Nguyên tắc bảo đảm quyền tiếp cận thông tin theo quy định của Luật Tiếp cận thông tin bao gồm mấy nguyên tắc?",
+    "choices": {
+      "A": "1",
+      "B": "3",
+      "C": "6",
+      "D": "9"
+    },
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tiếp cận thông tin",
+        "article_id": "3"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question_id": "train_alqac25_404",
+    "question_type": "Đúng/Sai",
+    "text": "Công ty hóa chất B có cơ sở đặt tại quận Bình Thạnh, thành phố Hồ Chí Minh. Cơ sở này có sử dụng hóa chất độc hại trong quá trình hoạt động nhưng lại không có biện pháp bảo đảm không rò rỉ, phát tán hóa chất độc hại, chất phóng xạ vào nguồn nước dưới đất vì người quản lý cơ sở cho rằng điều này không cần thiết và cơ sở không hề vi phạm luật bảo vệ môi trường. Đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Bảo vệ môi trường",
+        "article_id": "10"
+      }
+    ],
+    "answer": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_356",
+    "question_type": "Trắc nghiệm",
+    "text": "Thông tin nào sẽ gây nguy hại đến lợi ích của Nhà nước nếu để công dân tiếp cận?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tiếp cận thông tin",
+        "article_id": "6"
+      }
+    ],
+    "choices": {
+      "A": "Thông tin về sức khỏe của cộng đồng",
+      "B": "Thông tin về cuộc họp nội bộ của cơ quan nhà nước",
+      "C": "Thông tin thuộc bí mật công tác",
+      "D": "Tất cả các thông tin trên"
+    },
+    "answer": "D"
+  },
+  {
+    "question_id": "train_alqac25_153",
+    "question_type": "Đúng/Sai",
+    "text": "Cơ sở giáo dục thường xuyên bao gồm trường đại học hay viện nghiên cứu, đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Giáo dục",
+        "article_id": "44"
+      }
+    ],
+    "answer": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_344",
+    "question_type": "Đúng/Sai",
+    "text": "Thông tin liên quan đến bí mật gia đình có thể được tiếp cận không cần tất cả các thành viên gia đình đều đồng ý, đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tiếp cận thông tin",
+        "article_id": "7"
+      }
+    ],
+    "answer": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_248",
+    "question_type": "Đúng/Sai",
+    "text": "Thẩm phán không có quyền xử lý hành vi cản trở hoạt động tố tụng hành chính theo quy định của pháp luật đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tố tụng hành chính",
+        "article_id": "38"
+      }
+    ],
+    "answer": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_42",
+    "question_type": "Đúng/Sai",
+    "text": "Hợp tác quốc tế, nghiên cứu khoa học, chuyển giao công nghệ, cung cấp dịch vụ kỹ thuật số để phát triển điện ảnh là một trong các chính sách của nhà nước về phát triển điện ảnh, công nghiệp điện ảnh là đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Điện ảnh",
+        "article_id": "5"
+      }
+    ],
+    "answer": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_10",
+    "question_type": "Đúng/Sai",
+    "text": "Việc sinh con bằng kỹ thuật hỗ trợ sinh sản là hành vi trong đó con người sử dụng phương pháp nhân tạo thụ tinh hoặc thụ tinh trong ống nghiệm để sinh con.",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Hôn nhân và gia đình",
+        "article_id": "3"
+      }
+    ],
+    "answer": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_14",
+    "question_type": "Đúng/Sai",
+    "text": "Chồng có nguồn thu nhập nhiều hơn vợ thì chồng có quyền chiếm hữu, sử dụng tài sản chung nhiều hơn so với vợ, đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Hôn nhân và gia đình",
+        "article_id": "29"
+      }
+    ],
+    "answer": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_70",
+    "question_type": "Trắc nghiệm",
+    "text": "Trong tố tụng trọng tài, các bên có thể thương lượng, hòa giải với nhau như thế nào?",
+    "choices": {
+      "A": "Các bên có quyền tự do thương lượng thỏa thuận với nhau về việc giải quyết tranh chấp nhưng không có quyền yêu cầu Hội đồng trọng tài hòa giải để các bên thỏa thuận với nhau về việc giải quyết tranh chấp.",
+      "B": "Các bên có quyền tự do thương lượng, thỏa thuận với nhau về việc giải quyết tranh chấp hoặc yêu cầu Hội đồng trọng tài hòa giải để các bên thỏa thuận với nhau về việc giải quyết tranh chấp.",
+      "C": "Các bên không có quyền tự do thương lượng, hòa giải với nhau mà phải yêu cầu Hội đồng trọng tài hòa giải để các bên có thể thỏa thuận với nhau về việc giải quyết tranh chấp",
+      "D": "Các bên không có quyền tự do thương lượng, hòa giải cũng như yêu cầu Hội đồng trọng tài hòa giải cho các bên thỏa thuận về việc giải quyết tranh chấp."
+    },
+    "relevant_articles": [
+      {
+        "law_id": "Luật Trọng tài thương mại",
+        "article_id": "9"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question_id": "train_alqac25_582",
+    "question_type": "Trắc nghiệm",
+    "text": "Người xem dưới 16 tuổi được xem phim có nội dung thuộc phân loại nào sau đây?",
+    "choices": {
+      "A": "T18 (18+)",
+      "B": "T16 (16+)",
+      "C": "C",
+      "D": "K"
+    },
+    "relevant_articles": [
+      {
+        "law_id": "Luật Điện ảnh",
+        "article_id": "32"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question_id": "train_alqac25_661",
+    "question_type": "Đúng/Sai",
+    "text": "Hội đồng trọng tài có thể không dùng pháp luật Việt Nam để giải quyết tranh chấp, đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Trọng tài thương mại",
+        "article_id": "14"
+      }
+    ],
+    "answer": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_345",
+    "question_type": "Đúng/Sai",
+    "text": "Người đứng đầu cơ quan nhà nước có quyền quyết định cung cấp thông tin liên quan đến bí mật kinh doanh, đời sống riêng tư, bí mật cá nhân, bí mật gia đình trong trường hợp cần thiết vì lợi ích công cộng, đúng hay sai?",
+    "relevant_articles": [
+      {
+        "law_id": "Luật Tiếp cận thông tin",
+        "article_id": "7"
+      }
+    ],
+    "answer": "Đúng"
+  }
+]

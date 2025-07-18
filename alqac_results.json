@@ -1,0 +1,6270 @@
+{
+  "summary_metrics": {
+    "task1": {
+      "avg_precision": 0.17142857142857137,
+      "avg_recall": 0.8571428571428571,
+      "avg_f2": 0.4761904761904763,
+      "std_precision": 0.06998542122237653,
+      "std_recall": 0.34992710611188266,
+      "std_f2": 0.19440394783993473
+    },
+    "task2": {
+      "accuracy": 0.24675324675324675,
+      "correct_answers": 19,
+      "total_questions": 77
+    }
+  },
+  "total_questions": 77,
+  "results": [
+    {
+      "question_id": "train_alqac25_381",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Bảo vệ tổ quốc Việt Nam xã hội chủ nghĩa là sự nghiệp của ai?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Hiến pháp_64",
+          "law_id": "Hiến pháp",
+          "article_id": "64",
+          "score": 8.772806167602539,
+          "stage_scores": {
+            "bm25": 27.713036658522796,
+            "bert": 0.6555644869804382,
+            "combined": 8.772806167602539
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_11",
+          "law_id": "Hiến pháp",
+          "article_id": "11",
+          "score": 5.479020118713379,
+          "stage_scores": {
+            "bm25": 17.19609415795643,
+            "bert": 0.4574173092842102,
+            "combined": 5.479020118713379
+          }
+        },
+        {
+          "doc_id": "Luật Thanh niên_4",
+          "law_id": "Luật Thanh niên",
+          "article_id": "4",
+          "score": 4.94500207901001,
+          "stage_scores": {
+            "bm25": 15.342300321755012,
+            "bert": 0.48901674151420593,
+            "combined": 4.94500207901001
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_157",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "157",
+          "score": 4.71311092376709,
+          "stage_scores": {
+            "bm25": 14.424682952443064,
+            "bert": 0.5510088205337524,
+            "combined": 4.71311092376709
+          }
+        },
+        {
+          "doc_id": "Luật Thanh niên_31",
+          "law_id": "Luật Thanh niên",
+          "article_id": "31",
+          "score": 4.366586208343506,
+          "stage_scores": {
+            "bm25": 13.131611987389482,
+            "bert": 0.6101468205451965,
+            "combined": 4.366586208343506
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Hiến pháp",
+          "article_id": "64"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.0
+      },
+      "processing_time": 0.6124114990234375,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_439",
+      "question_type": "Tự luận",
+      "question_text": "việc theo dõi liên tục, định kỳ, đột xuất, có hệ thống về thành phần môi trường, các nhân tố tác động đến môi trường, chất thải nhằm cung cấp thông tin đánh giá hiện trạng môi trường, diễn biến chất lượng môi trường và tác động xấu đến môi trường là gì?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "Quan trắc môi trường",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Bảo vệ môi trường_3",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "3",
+          "score": 21.24547576904297,
+          "stage_scores": {
+            "bm25": 69.1174782123361,
+            "bert": 0.7289050817489624,
+            "combined": 21.24547576904297
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_32",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "32",
+          "score": 18.03826904296875,
+          "stage_scores": {
+            "bm25": 58.51912541134281,
+            "bert": 0.689328670501709,
+            "combined": 18.03826904296875
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_107",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "107",
+          "score": 17.128042221069336,
+          "stage_scores": {
+            "bm25": 55.6122896964806,
+            "bert": 0.634791910648346,
+            "combined": 17.128042221069336
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_12",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "12",
+          "score": 17.0319766998291,
+          "stage_scores": {
+            "bm25": 55.74584655165691,
+            "bert": 0.4403175115585327,
+            "combined": 17.0319766998291
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_136",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "136",
+          "score": 16.56856918334961,
+          "stage_scores": {
+            "bm25": 53.74061302560864,
+            "bert": 0.6376931667327881,
+            "combined": 16.56856918334961
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "3"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.0
+      },
+      "processing_time": 1.0812058448791504,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_475",
+      "question_type": "Đúng/Sai",
+      "question_text": "Chính phủ quy định mọi trình tự, thủ tục áp dụng biện pháp bảo vệ an ninh mạng, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật An ninh mạng_5",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "5",
+          "score": 10.249412536621094,
+          "stage_scores": {
+            "bm25": 32.626307665949625,
+            "bert": 0.6593145132064819,
+            "combined": 10.249412536621094
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_24",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "24",
+          "score": 7.174819469451904,
+          "stage_scores": {
+            "bm25": 22.40311909210584,
+            "bert": 0.648405134677887,
+            "combined": 7.174819469451904
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_21",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "21",
+          "score": 7.162800312042236,
+          "stage_scores": {
+            "bm25": 22.475379192594346,
+            "bert": 0.6002667546272278,
+            "combined": 7.162800312042236
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_31",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "31",
+          "score": 7.039109706878662,
+          "stage_scores": {
+            "bm25": 22.684455581970436,
+            "bert": 0.3339615762233734,
+            "combined": 7.039109706878662
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_12",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "12",
+          "score": 6.904154300689697,
+          "stage_scores": {
+            "bm25": 21.775439108657427,
+            "bert": 0.5307462215423584,
+            "combined": 6.904154300689697
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật An ninh mạng",
+          "article_id": "5"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.0
+      },
+      "processing_time": 0.9585504531860352,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_386",
+      "question_type": "Đúng/Sai",
+      "question_text": "Chỉ có một người nắm quyền làm chủ nhà nước, tất cả quyền lực nhà nước tập trung trong tay chủ tịch nước, đúng hay sai?",
+      "predicted_answer": "Sai",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Hiến pháp_2",
+          "law_id": "Hiến pháp",
+          "article_id": "2",
+          "score": 11.72757625579834,
+          "stage_scores": {
+            "bm25": 38.087605320976756,
+            "bert": 0.4304206073284149,
+            "combined": 11.72757625579834
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_6",
+          "law_id": "Hiến pháp",
+          "article_id": "6",
+          "score": 5.718716621398926,
+          "stage_scores": {
+            "bm25": 17.307107560453957,
+            "bert": 0.7522631883621216,
+            "combined": 5.718716621398926
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_3",
+          "law_id": "Hiến pháp",
+          "article_id": "3",
+          "score": 5.516872406005859,
+          "stage_scores": {
+            "bm25": 16.664630027877035,
+            "bert": 0.7392618060112,
+            "combined": 5.516872406005859
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_128",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "128",
+          "score": 5.279782772064209,
+          "stage_scores": {
+            "bm25": 16.313804284766622,
+            "bert": 0.550916314125061,
+            "combined": 5.279782772064209
+          }
+        },
+        {
+          "doc_id": "Luật Đất đai_194",
+          "law_id": "Luật Đất đai",
+          "article_id": "194",
+          "score": 5.042318820953369,
+          "stage_scores": {
+            "bm25": 15.434870675893052,
+            "bert": 0.58836829662323,
+            "combined": 5.042318820953369
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Hiến pháp",
+          "article_id": "2"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.25
+      },
+      "processing_time": 0.4916083812713623,
+      "answer_confidence": 0.45454545454545453
+    },
+    {
+      "question_id": "train_alqac25_284",
+      "question_type": "Tự luận",
+      "question_text": "Vụ án có điều kiện nào sẽ được giải quyết theo thủ tục rút gọn?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "Vụ án có tình tiết đơn giản, tài liệu, chứng cứ đầy đủ, rõ ràng, bảo đảm đủ căn cứ giải quyết vụ án và Tòa án không phải thu thập tài liệu, chứng cứ; các đương sự đều có địa chỉ nơi cư trú, trụ sở rõ ràng; không có đương sự cư trú ở nước ngoài, trừ trường hợp đương sự ở nước ngoài có thỏa thuận với đương sự ở Việt Nam đề nghị Tòa án giải quyết theo thủ tục rút gọn.",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_245",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "245",
+          "score": 13.336946487426758,
+          "stage_scores": {
+            "bm25": 43.01738153927743,
+            "bert": 0.6167607307434082,
+            "combined": 13.336946487426758
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_248",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "248",
+          "score": 12.59462833404541,
+          "stage_scores": {
+            "bm25": 40.52681129954361,
+            "bert": 0.6236926317214966,
+            "combined": 12.59462833404541
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_246",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "246",
+          "score": 12.090343475341797,
+          "stage_scores": {
+            "bm25": 38.72821443039251,
+            "bert": 0.6741124391555786,
+            "combined": 12.090343475341797
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ quyền lợi người tiêu dùng_78",
+          "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+          "article_id": "78",
+          "score": 12.033429145812988,
+          "stage_scores": {
+            "bm25": 38.74042731084556,
+            "bert": 0.5875723361968994,
+            "combined": 12.033429145812988
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_247",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "247",
+          "score": 11.860840797424316,
+          "stage_scores": {
+            "bm25": 38.183160136325085,
+            "bert": 0.5798457264900208,
+            "combined": 11.860840797424316
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "246"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2
+      },
+      "processing_time": 0.6578822135925293,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_250",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Tại phiên tòa, quyền quyết định việc thay đổi thẩm phán, hội thẩm nhân dân, thư kí tòa án là của ai?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_49",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "49",
+          "score": 14.08255386352539,
+          "stage_scores": {
+            "bm25": 45.41485662402519,
+            "bert": 0.6544233560562134,
+            "combined": 14.08255386352539
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_48",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "48",
+          "score": 12.074263572692871,
+          "stage_scores": {
+            "bm25": 38.71711806747349,
+            "bert": 0.6558982729911804,
+            "combined": 12.074263572692871
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_155",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "155",
+          "score": 11.070364952087402,
+          "stage_scores": {
+            "bm25": 35.657228679343305,
+            "bert": 0.5331383943557739,
+            "combined": 11.070364952087402
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_37",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "37",
+          "score": 9.836006164550781,
+          "stage_scores": {
+            "bm25": 31.099406306658096,
+            "bert": 0.7231205701828003,
+            "combined": 9.836006164550781
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_146",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "146",
+          "score": 9.504303932189941,
+          "stage_scores": {
+            "bm25": 30.40376218875017,
+            "bert": 0.5473929643630981,
+            "combined": 9.504303932189941
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "37"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.16666666666666666
+      },
+      "processing_time": 0.6607155799865723,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_263",
+      "question_type": "Đúng/Sai",
+      "question_text": "Tất cả mọi người khi vào phòng xử án đều phải chấp hành kiểm tra an ninh của lực lượng bảo vệ phiên tòa đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_153",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "153",
+          "score": 16.106576919555664,
+          "stage_scores": {
+            "bm25": 52.1870461428595,
+            "bert": 0.6435185074806213,
+            "combined": 16.106576919555664
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_167",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "167",
+          "score": 12.265266418457031,
+          "stage_scores": {
+            "bm25": 39.86441658167385,
+            "bert": 0.4370587468147278,
+            "combined": 12.265266418457031
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_151",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "151",
+          "score": 10.352596282958984,
+          "stage_scores": {
+            "bm25": 33.03235902226043,
+            "bert": 0.6326981782913208,
+            "combined": 10.352596282958984
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_316",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "316",
+          "score": 9.989787101745605,
+          "stage_scores": {
+            "bm25": 31.843146441741872,
+            "bert": 0.624060869216919,
+            "combined": 9.989787101745605
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_164",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "164",
+          "score": 9.231223106384277,
+          "stage_scores": {
+            "bm25": 29.456557468482508,
+            "bert": 0.5632220506668091,
+            "combined": 9.231223106384277
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "153"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.2857142857142857
+      },
+      "processing_time": 0.8053300380706787,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_261",
+      "question_type": "Tự luận",
+      "question_text": "Trường hợp đơn khởi kiện thể hiện nội dung yêu cầu giải quyết tranh chấp đất đai, nhưng người khởi kiện chỉ yêu cầu Tòa án hủy giấy chứng nhận quyền sử dụng đất đã cấp. Trường hợp này thụ lý vụ án dân sự hay vụ án hành chính để xem xét giải quyết?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "Trường hợp người khởi kiện chỉ yêu cầu hủy giấy chứng nhận quyền sử dụng đất thì Tòa án phải tôn trọng “Quyền quyết định và tự định đoạt của người khởi kiện”. Theo đó thì Tòa án phải xem xét thụ lý, giải quyết vụ án theo quy định của Luật Tố tụng hành chính",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_33",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "33",
+          "score": 22.94113540649414,
+          "stage_scores": {
+            "bm25": 74.79464951217395,
+            "bert": 0.7182002067565918,
+            "combined": 22.94113540649414
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_8",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "8",
+          "score": 22.45223045349121,
+          "stage_scores": {
+            "bm25": 72.8902015634909,
+            "bert": 0.8359569907188416,
+            "combined": 22.45223045349121
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_35",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "35",
+          "score": 21.94794464111328,
+          "stage_scores": {
+            "bm25": 71.52197758159976,
+            "bert": 0.7019326090812683,
+            "combined": 21.94794464111328
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_125",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "125",
+          "score": 20.694528579711914,
+          "stage_scores": {
+            "bm25": 67.5484261754868,
+            "bert": 0.6142852902412415,
+            "combined": 20.694528579711914
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_126",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "126",
+          "score": 20.68208122253418,
+          "stage_scores": {
+            "bm25": 67.48590201297168,
+            "bert": 0.6233000755310059,
+            "combined": 20.68208122253418
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "8"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.25
+      },
+      "processing_time": 1.0208508968353271,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_252",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Trong quá trình giải quyết vụ án, đương sự có quyền gì liên quan đến tài liệu, chứng cứ?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "C",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_83",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "83",
+          "score": 11.608966827392578,
+          "stage_scores": {
+            "bm25": 37.21311120007998,
+            "bert": 0.6357617378234863,
+            "combined": 11.608966827392578
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_133",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "133",
+          "score": 11.444194793701172,
+          "stage_scores": {
+            "bm25": 37.20600291661493,
+            "bert": 0.4034188985824585,
+            "combined": 11.444194793701172
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_259",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "259",
+          "score": 11.354005813598633,
+          "stage_scores": {
+            "bm25": 36.764397779531734,
+            "bert": 0.46383702754974365,
+            "combined": 11.354005813598633
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_246",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "246",
+          "score": 11.076952934265137,
+          "stage_scores": {
+            "bm25": 35.48097016570612,
+            "bert": 0.6180886626243591,
+            "combined": 11.076952934265137
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_80",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "80",
+          "score": 10.93196964263916,
+          "stage_scores": {
+            "bm25": 35.47779067496934,
+            "bert": 0.41233253479003906,
+            "combined": 10.93196964263916
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "55"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2222222222222222
+      },
+      "processing_time": 0.7372705936431885,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_279",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Khi người đại diện theo pháp luật của đương sự là người chưa thành niên hoặc người mất năng lực hành vi dân sự, ai phải ký tên hoặc điểm chỉ trong đơn kháng cáo?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "B",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_205",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "205",
+          "score": 19.650577545166016,
+          "stage_scores": {
+            "bm25": 63.84435523519375,
+            "bert": 0.710387647151947,
+            "combined": 19.650577545166016
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_117",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "117",
+          "score": 14.528139114379883,
+          "stage_scores": {
+            "bm25": 46.83572242249977,
+            "bert": 0.6820330619812012,
+            "combined": 14.528139114379883
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_125",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "125",
+          "score": 13.71511173248291,
+          "stage_scores": {
+            "bm25": 44.202649775785964,
+            "bert": 0.6490244269371033,
+            "combined": 13.71511173248291
+          }
+        },
+        {
+          "doc_id": "Luật Khám bệnh, chữa bệnh_15",
+          "law_id": "Luật Khám bệnh, chữa bệnh",
+          "article_id": "15",
+          "score": 12.783273696899414,
+          "stage_scores": {
+            "bm25": 41.224579015018506,
+            "bert": 0.5941430926322937,
+            "combined": 12.783273696899414
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_54",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "54",
+          "score": 12.408252716064453,
+          "stage_scores": {
+            "bm25": 39.95330155758344,
+            "bert": 0.6032310128211975,
+            "combined": 12.408252716064453
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "205"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2
+      },
+      "processing_time": 0.855886697769165,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_390",
+      "question_type": "Đúng/Sai",
+      "question_text": "Một trong những tiêu chí xây dựng nền kinh tế của nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam được là độc lập và tự chủ.",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Hiến pháp_50",
+          "law_id": "Hiến pháp",
+          "article_id": "50",
+          "score": 12.068469047546387,
+          "stage_scores": {
+            "bm25": 38.88976765746161,
+            "bert": 0.5736269950866699,
+            "combined": 12.068469047546387
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_12",
+          "law_id": "Hiến pháp",
+          "article_id": "12",
+          "score": 8.022472381591797,
+          "stage_scores": {
+            "bm25": 25.401039835093915,
+            "bert": 0.5745149850845337,
+            "combined": 8.022472381591797
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_13",
+          "law_id": "Hiến pháp",
+          "article_id": "13",
+          "score": 7.746285438537598,
+          "stage_scores": {
+            "bm25": 24.664656504221774,
+            "bert": 0.4955552816390991,
+            "combined": 7.746285438537598
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_52",
+          "law_id": "Hiến pháp",
+          "article_id": "52",
+          "score": 6.4612040519714355,
+          "stage_scores": {
+            "bm25": 20.53128497914257,
+            "bert": 0.43116915225982666,
+            "combined": 6.4612040519714355
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_51",
+          "law_id": "Hiến pháp",
+          "article_id": "51",
+          "score": 6.401042461395264,
+          "stage_scores": {
+            "bm25": 20.094519374680655,
+            "bert": 0.5324099659919739,
+            "combined": 6.401042461395264
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Hiến pháp",
+          "article_id": "50"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.2727272727272727
+      },
+      "processing_time": 0.6601614952087402,
+      "answer_confidence": 0.6071428571428571
+    },
+    {
+      "question_id": "train_alqac25_269",
+      "question_type": "Tự luận",
+      "question_text": "Hành vi nào liên quan đến phiên dịch được coi là hành vi cản trở thu thập xác minh chứng cớ của tòa án?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "Dịch sai sự thật",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_318",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "318",
+          "score": 10.511383056640625,
+          "stage_scores": {
+            "bm25": 33.69714093377843,
+            "bert": 0.5746299028396606,
+            "combined": 10.511383056640625
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_38",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "38",
+          "score": 7.661930561065674,
+          "stage_scores": {
+            "bm25": 24.28215303205643,
+            "bert": 0.5389778017997742,
+            "combined": 7.661930561065674
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_164",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "164",
+          "score": 6.745480537414551,
+          "stage_scores": {
+            "bm25": 21.922876564856278,
+            "bert": 0.2408824861049652,
+            "combined": 6.745480537414551
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_169",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "169",
+          "score": 6.693829536437988,
+          "stage_scores": {
+            "bm25": 20.88226901726219,
+            "bert": 0.6130696535110474,
+            "combined": 6.693829536437988
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_84",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "84",
+          "score": 6.520615100860596,
+          "stage_scores": {
+            "bm25": 20.5426630797,
+            "bert": 0.511165976524353,
+            "combined": 6.520615100860596
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "318"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.25
+      },
+      "processing_time": 0.6311767101287842,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_362",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Ai có quyền quyết định việc cung cấp thông tin liên quan đến bí mật kinh doanh, đời sống riêng tư, bí mật cá nhân, bí mật gia đình trong trường hợp cần thiết vì lợi ích công cộng?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "B",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_7",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7",
+          "score": 25.21424102783203,
+          "stage_scores": {
+            "bm25": 83.25773031505666,
+            "bert": 0.33845794200897217,
+            "combined": 25.21424102783203
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_21",
+          "law_id": "Hiến pháp",
+          "article_id": "21",
+          "score": 20.89346694946289,
+          "stage_scores": {
+            "bm25": 68.85921355738319,
+            "bert": 0.33671921491622925,
+            "combined": 20.89346694946289
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_17",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "17",
+          "score": 19.984966278076172,
+          "stage_scores": {
+            "bm25": 65.10748963882364,
+            "bert": 0.6467397212982178,
+            "combined": 19.984966278076172
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_38",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "38",
+          "score": 19.94386100769043,
+          "stage_scores": {
+            "bm25": 65.58756661027002,
+            "bert": 0.3822745382785797,
+            "combined": 19.94386100769043
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_23",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "23",
+          "score": 17.576692581176758,
+          "stage_scores": {
+            "bm25": 57.0195125907115,
+            "bert": 0.672627329826355,
+            "combined": 17.576692581176758
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.23076923076923078
+      },
+      "processing_time": 0.6718807220458984,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_597",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Thời hạn đăng ký tạm trú tối đa là bao lâu?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "C",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Cư trú_27",
+          "law_id": "Luật Cư trú",
+          "article_id": "27",
+          "score": 8.220151901245117,
+          "stage_scores": {
+            "bm25": 26.04290413129899,
+            "bert": 0.581828773021698,
+            "combined": 8.220151901245117
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_28",
+          "law_id": "Luật Cư trú",
+          "article_id": "28",
+          "score": 7.175502777099609,
+          "stage_scores": {
+            "bm25": 22.62855008712214,
+            "bert": 0.5527679920196533,
+            "combined": 7.175502777099609
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_29",
+          "law_id": "Luật Cư trú",
+          "article_id": "29",
+          "score": 6.176361083984375,
+          "stage_scores": {
+            "bm25": 19.38390816482101,
+            "bert": 0.5159833431243896,
+            "combined": 6.176361083984375
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_7",
+          "law_id": "Luật Cư trú",
+          "article_id": "7",
+          "score": 5.9123148918151855,
+          "stage_scores": {
+            "bm25": 18.35323905539729,
+            "bert": 0.5804897546768188,
+            "combined": 5.9123148918151855
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_19",
+          "law_id": "Luật Cư trú",
+          "article_id": "19",
+          "score": 5.302270889282227,
+          "stage_scores": {
+            "bm25": 16.339507469207287,
+            "bert": 0.5720264911651611,
+            "combined": 5.302270889282227
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Cư trú",
+          "article_id": "27"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.21428571428571427
+      },
+      "processing_time": 0.6641151905059814,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_570",
+      "question_type": "Đúng/Sai",
+      "question_text": "Chung sống như vợ chồng là việc nam, nữ tổ chức cuộc sống chung và coi nhau là vợ chồng, đúng hay sai?",
+      "predicted_answer": "Sai",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_15",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "15",
+          "score": 19.685848236083984,
+          "stage_scores": {
+            "bm25": 64.07906215241468,
+            "bert": 0.6601843237876892,
+            "combined": 19.685848236083984
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_14",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "14",
+          "score": 18.994340896606445,
+          "stage_scores": {
+            "bm25": 62.41298545456364,
+            "bert": 0.3863496780395508,
+            "combined": 18.994340896606445
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_130",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "130",
+          "score": 18.87859344482422,
+          "stage_scores": {
+            "bm25": 61.71144748118756,
+            "bert": 0.5216565728187561,
+            "combined": 18.87859344482422
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_16",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "16",
+          "score": 18.869245529174805,
+          "stage_scores": {
+            "bm25": 62.242512100896036,
+            "bert": 0.2807023525238037,
+            "combined": 18.869245529174805
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_61",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "61",
+          "score": 12.559372901916504,
+          "stage_scores": {
+            "bm25": 40.596741926160135,
+            "bert": 0.5433576703071594,
+            "combined": 12.559372901916504
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "3"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2
+      },
+      "processing_time": 0.5868051052093506,
+      "answer_confidence": 0.47368421052631576
+    },
+    {
+      "question_id": "train_alqac25_420",
+      "question_type": "Đúng/Sai",
+      "question_text": "Ông X là chủ dự án đầu tư của 1 dự án tại khu dân cư Y, huyện Z, tỉnh A. Ông X không cần phải thực hiện tham vấn cộng đồng dân cư, cá nhân chịu tác động trực tiếp bởi dự án của ông vì đấy không phải chuyên môn của ông. Đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Bảo vệ môi trường_33",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "33",
+          "score": 20.412710189819336,
+          "stage_scores": {
+            "bm25": 66.65138320829672,
+            "bert": 0.5961354970932007,
+            "combined": 20.412710189819336
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_159",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "159",
+          "score": 17.056745529174805,
+          "stage_scores": {
+            "bm25": 55.287944159522596,
+            "bert": 0.6719453930854797,
+            "combined": 17.056745529174805
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_36",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "36",
+          "score": 14.611845970153809,
+          "stage_scores": {
+            "bm25": 47.36360192050037,
+            "bert": 0.57537841796875,
+            "combined": 14.611845970153809
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_651",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "651",
+          "score": 14.51573371887207,
+          "stage_scores": {
+            "bm25": 47.04763294740366,
+            "bert": 0.5734913349151611,
+            "combined": 14.51573371887207
+          }
+        },
+        {
+          "doc_id": "Luật Nhà ở_121",
+          "law_id": "Luật Nhà ở",
+          "article_id": "121",
+          "score": 13.482266426086426,
+          "stage_scores": {
+            "bm25": 43.440615286911715,
+            "bert": 0.6429738998413086,
+            "combined": 13.482266426086426
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "33"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.1875
+      },
+      "processing_time": 0.8272759914398193,
+      "answer_confidence": 0.6222222222222222
+    },
+    {
+      "question_id": "train_alqac25_498",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Luật An ninh mạng năm 2018 có hiệu lực từ ngày nào?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "C",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật An ninh mạng_43",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "43",
+          "score": 8.276286125183105,
+          "stage_scores": {
+            "bm25": 26.3663152243103,
+            "bert": 0.52341628074646,
+            "combined": 8.276286125183105
+          }
+        },
+        {
+          "doc_id": "Luật Viễn thông_72",
+          "law_id": "Luật Viễn thông",
+          "article_id": "72",
+          "score": 7.9164042472839355,
+          "stage_scores": {
+            "bm25": 25.1909193843296,
+            "bert": 0.5130406022071838,
+            "combined": 7.9164042472839355
+          }
+        },
+        {
+          "doc_id": "Luật Du lịch_77",
+          "law_id": "Luật Du lịch",
+          "article_id": "77",
+          "score": 7.247812271118164,
+          "stage_scores": {
+            "bm25": 22.812451926611054,
+            "bert": 0.5772520303726196,
+            "combined": 7.247812271118164
+          }
+        },
+        {
+          "doc_id": "Luật Viễn thông_73",
+          "law_id": "Luật Viễn thông",
+          "article_id": "73",
+          "score": 6.923659324645996,
+          "stage_scores": {
+            "bm25": 21.96694163132077,
+            "bert": 0.4765383005142212,
+            "combined": 6.923659324645996
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_170",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "170",
+          "score": 6.761695384979248,
+          "stage_scores": {
+            "bm25": 21.23285691792006,
+            "bert": 0.559768795967102,
+            "combined": 6.761695384979248
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật An ninh mạng",
+          "article_id": "43"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.17647058823529413
+      },
+      "processing_time": 0.5526206493377686,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_175",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Việc thực hiện nhiệm vụ, tổ chức bộ máy, nhân sự và tài chính của trường công lập được quy định như thế nào?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "C",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Viên chức_9",
+          "law_id": "Luật Viên chức",
+          "article_id": "9",
+          "score": 13.773931503295898,
+          "stage_scores": {
+            "bm25": 44.43391853363644,
+            "bert": 0.6339366436004639,
+            "combined": 13.773931503295898
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_60",
+          "law_id": "Luật Giáo dục",
+          "article_id": "60",
+          "score": 11.19905948638916,
+          "stage_scores": {
+            "bm25": 35.64939152910028,
+            "bert": 0.7203460931777954,
+            "combined": 11.19905948638916
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_55",
+          "law_id": "Luật Giáo dục",
+          "article_id": "55",
+          "score": 8.33145809173584,
+          "stage_scores": {
+            "bm25": 26.151763238708597,
+            "bert": 0.6941841840744019,
+            "combined": 8.33145809173584
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_49",
+          "law_id": "Luật Giáo dục",
+          "article_id": "49",
+          "score": 8.024914741516113,
+          "stage_scores": {
+            "bm25": 25.216196201216416,
+            "bert": 0.6572226285934448,
+            "combined": 8.024914741516113
+          }
+        },
+        {
+          "doc_id": "Luật Viên chức_58",
+          "law_id": "Luật Viên chức",
+          "article_id": "58",
+          "score": 6.814929962158203,
+          "stage_scores": {
+            "bm25": 21.315609335634626,
+            "bert": 0.6003527641296387,
+            "combined": 6.814929962158203
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Giáo dục",
+          "article_id": "60"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.16666666666666666
+      },
+      "processing_time": 0.6625843048095703,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_579",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Trường hợp nào dưới đây tòa án có thể từ chối thụ lý khi các bên tranh chấp đã có thỏa thuận trọng tài?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "A",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trọng tài thương mại_6",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "6",
+          "score": 16.79034996032715,
+          "stage_scores": {
+            "bm25": 54.52512913038879,
+            "bert": 0.6183015704154968,
+            "combined": 16.79034996032715
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_43",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "43",
+          "score": 11.805970191955566,
+          "stage_scores": {
+            "bm25": 38.154179381030346,
+            "bert": 0.5138810873031616,
+            "combined": 11.805970191955566
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_44",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "44",
+          "score": 11.728825569152832,
+          "stage_scores": {
+            "bm25": 37.8067698943656,
+            "bert": 0.5525649785995483,
+            "combined": 11.728825569152832
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_5",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "5",
+          "score": 11.122038841247559,
+          "stage_scores": {
+            "bm25": 35.95432924397364,
+            "bert": 0.4796287715435028,
+            "combined": 11.122038841247559
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_59",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "59",
+          "score": 10.371086120605469,
+          "stage_scores": {
+            "bm25": 33.17536537733537,
+            "bert": 0.5978231430053711,
+            "combined": 10.371086120605469
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "6"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.15789473684210525
+      },
+      "processing_time": 0.6640658378601074,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_465",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Theo quy định của luật Trọng tài thương mại, phán quyết trọng tài phải có bao nhiêu nội dung chủ yếu?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trọng tài thương mại_61",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "61",
+          "score": 9.09325122833252,
+          "stage_scores": {
+            "bm25": 29.324847093725165,
+            "bert": 0.42256778478622437,
+            "combined": 9.09325122833252
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_70",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "70",
+          "score": 8.637691497802734,
+          "stage_scores": {
+            "bm25": 27.60622532346205,
+            "bert": 0.5083194971084595,
+            "combined": 8.637691497802734
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_3",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "3",
+          "score": 8.49622917175293,
+          "stage_scores": {
+            "bm25": 26.968758447808,
+            "bert": 0.5794304609298706,
+            "combined": 8.49622917175293
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_68",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "68",
+          "score": 8.297666549682617,
+          "stage_scores": {
+            "bm25": 26.222966447918793,
+            "bert": 0.6153949499130249,
+            "combined": 8.297666549682617
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_1",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "1",
+          "score": 7.975924015045166,
+          "stage_scores": {
+            "bm25": 24.700307044532078,
+            "bert": 0.8083314895629883,
+            "combined": 7.975924015045166
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "61"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.15
+      },
+      "processing_time": 0.59346604347229,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_707",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Các khu vực nào sau đây cần phải có trong cơ sở cai nghiện ma túy công lập?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Phòng, chống ma túy_35",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "35",
+          "score": 13.953302383422852,
+          "stage_scores": {
+            "bm25": 45.04481006229012,
+            "bert": 0.628371000289917,
+            "combined": 13.953302383422852
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_28",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "28",
+          "score": 13.10204792022705,
+          "stage_scores": {
+            "bm25": 42.282222409031405,
+            "bert": 0.5962589979171753,
+            "combined": 13.10204792022705
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_47",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "47",
+          "score": 12.065797805786133,
+          "stage_scores": {
+            "bm25": 38.786219628260625,
+            "bert": 0.6141879558563232,
+            "combined": 12.065797805786133
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_31",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "31",
+          "score": 11.949395179748535,
+          "stage_scores": {
+            "bm25": 38.34454496244545,
+            "bert": 0.6371873617172241,
+            "combined": 11.949395179748535
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_3",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "3",
+          "score": 11.085441589355469,
+          "stage_scores": {
+            "bm25": 35.777395596114154,
+            "bert": 0.5031742453575134,
+            "combined": 11.085441589355469
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "35"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.14285714285714285
+      },
+      "processing_time": 0.8343949317932129,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_633",
+      "question_type": "Đúng/Sai",
+      "question_text": "Phán quyết trọng tài không bị xem xét lại theo thủ tục phúc thẩm, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trọng tài thương mại_68",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "68",
+          "score": 9.886868476867676,
+          "stage_scores": {
+            "bm25": 31.52918623230623,
+            "bert": 0.6115902066230774,
+            "combined": 9.886868476867676
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_71",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "71",
+          "score": 8.063952445983887,
+          "stage_scores": {
+            "bm25": 25.384944433310938,
+            "bert": 0.6406700015068054,
+            "combined": 8.063952445983887
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_233",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "233",
+          "score": 8.032593727111816,
+          "stage_scores": {
+            "bm25": 25.337472989739105,
+            "bert": 0.6162171363830566,
+            "combined": 8.032593727111816
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_62",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "62",
+          "score": 7.935245990753174,
+          "stage_scores": {
+            "bm25": 24.931956224053867,
+            "bert": 0.6509410738945007,
+            "combined": 7.935245990753174
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_63",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "63",
+          "score": 7.593594074249268,
+          "stage_scores": {
+            "bm25": 24.014261537268332,
+            "bert": 0.5561650395393372,
+            "combined": 7.593594074249268
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "4"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.18181818181818182
+      },
+      "processing_time": 0.8107471466064453,
+      "answer_confidence": 0.6470588235294118
+    },
+    {
+      "question_id": "train_alqac25_717",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch quốc tế không bao gồm thứ gì sau đây?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "C",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Du lịch_60",
+          "law_id": "Luật Du lịch",
+          "article_id": "60",
+          "score": 15.321235656738281,
+          "stage_scores": {
+            "bm25": 49.47258522955518,
+            "bert": 0.6849426031112671,
+            "combined": 15.321235656738281
+          }
+        },
+        {
+          "doc_id": "Luật Du lịch_62",
+          "law_id": "Luật Du lịch",
+          "article_id": "62",
+          "score": 15.277143478393555,
+          "stage_scores": {
+            "bm25": 49.509483621587066,
+            "bert": 0.6061407327651978,
+            "combined": 15.277143478393555
+          }
+        },
+        {
+          "doc_id": "Luật Du lịch_63",
+          "law_id": "Luật Du lịch",
+          "article_id": "63",
+          "score": 14.001340866088867,
+          "stage_scores": {
+            "bm25": 45.24527371145397,
+            "bert": 0.611083984375,
+            "combined": 14.001340866088867
+          }
+        },
+        {
+          "doc_id": "Luật Du lịch_61",
+          "law_id": "Luật Du lịch",
+          "article_id": "61",
+          "score": 13.610735893249512,
+          "stage_scores": {
+            "bm25": 44.02373248325219,
+            "bert": 0.576594352722168,
+            "combined": 13.610735893249512
+          }
+        },
+        {
+          "doc_id": "Luật Du lịch_58",
+          "law_id": "Luật Du lịch",
+          "article_id": "58",
+          "score": 13.318700790405273,
+          "stage_scores": {
+            "bm25": 42.90244868381846,
+            "bert": 0.6399521827697754,
+            "combined": 13.318700790405273
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Du lịch",
+          "article_id": "60"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.17391304347826086
+      },
+      "processing_time": 1.0274782180786133,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_725",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Nguyên tắc bảo đảm quyền tiếp cận thông tin theo quy định của Luật Tiếp cận thông tin bao gồm mấy nguyên tắc?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "A",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_1",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "1",
+          "score": 12.949121475219727,
+          "stage_scores": {
+            "bm25": 41.46408924370461,
+            "bert": 0.7284208536148071,
+            "combined": 12.949121475219727
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_3",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "3",
+          "score": 11.209075927734375,
+          "stage_scores": {
+            "bm25": 35.744181972168704,
+            "bert": 0.6940315961837769,
+            "combined": 11.209075927734375
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_5",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "5",
+          "score": 10.083680152893066,
+          "stage_scores": {
+            "bm25": 31.88991331222376,
+            "bert": 0.7381521463394165,
+            "combined": 10.083680152893066
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_35",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "35",
+          "score": 9.687448501586914,
+          "stage_scores": {
+            "bm25": 31.133629048108187,
+            "bert": 0.4962276220321655,
+            "combined": 9.687448501586914
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_13",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "13",
+          "score": 9.633334159851074,
+          "stage_scores": {
+            "bm25": 30.712904456822514,
+            "bert": 0.5992327332496643,
+            "combined": 9.633334159851074
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "3"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.16666666666666666
+      },
+      "processing_time": 0.809833288192749,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_404",
+      "question_type": "Đúng/Sai",
+      "question_text": "Công ty hóa chất B có cơ sở đặt tại quận Bình Thạnh, thành phố Hồ Chí Minh. Cơ sở này có sử dụng hóa chất độc hại trong quá trình hoạt động nhưng lại không có biện pháp bảo đảm không rò rỉ, phát tán hóa chất độc hại, chất phóng xạ vào nguồn nước dưới đất vì người quản lý cơ sở cho rằng điều này không cần thiết và cơ sở không hề vi phạm luật bảo vệ môi trường. Đúng hay sai?",
+      "predicted_answer": "Sai",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Bảo vệ môi trường_10",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "10",
+          "score": 31.411603927612305,
+          "stage_scores": {
+            "bm25": 103.15665036421977,
+            "bert": 0.6637284755706787,
+            "combined": 31.411603927612305
+          }
+        },
+        {
+          "doc_id": "Luật Tài nguyên nước_27",
+          "law_id": "Luật Tài nguyên nước",
+          "article_id": "27",
+          "score": 19.329496383666992,
+          "stage_scores": {
+            "bm25": 62.963339898463964,
+            "bert": 0.6292787790298462,
+            "combined": 19.329496383666992
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_67",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "67",
+          "score": 19.208086013793945,
+          "stage_scores": {
+            "bm25": 62.52979920319451,
+            "bert": 0.6416387557983398,
+            "combined": 19.208086013793945
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_53",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "53",
+          "score": 17.94428062438965,
+          "stage_scores": {
+            "bm25": 58.280642444649025,
+            "bert": 0.6572694778442383,
+            "combined": 17.94428062438965
+          }
+        },
+        {
+          "doc_id": "Luật Tài nguyên nước_8",
+          "law_id": "Luật Tài nguyên nước",
+          "article_id": "8",
+          "score": 17.31439781188965,
+          "stage_scores": {
+            "bm25": 56.069339377793774,
+            "bert": 0.7051369547843933,
+            "combined": 17.31439781188965
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "10"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.2
+      },
+      "processing_time": 1.1205940246582031,
+      "answer_confidence": 0.4925373134328358
+    },
+    {
+      "question_id": "train_alqac25_356",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Thông tin nào sẽ gây nguy hại đến lợi ích của Nhà nước nếu để công dân tiếp cận?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_6",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "6",
+          "score": 12.1141939163208,
+          "stage_scores": {
+            "bm25": 39.452600018549305,
+            "bert": 0.39773422479629517,
+            "combined": 12.1141939163208
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_3",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "3",
+          "score": 7.470210075378418,
+          "stage_scores": {
+            "bm25": 23.35659879699638,
+            "bert": 0.6617580056190491,
+            "combined": 7.470210075378418
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_15",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "15",
+          "score": 7.303018093109131,
+          "stage_scores": {
+            "bm25": 23.596245941511963,
+            "bert": 0.32020631432533264,
+            "combined": 7.303018093109131
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_5",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "5",
+          "score": 7.178396224975586,
+          "stage_scores": {
+            "bm25": 22.369831993241547,
+            "bert": 0.667780876159668,
+            "combined": 7.178396224975586
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_8",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "8",
+          "score": 7.1197662353515625,
+          "stage_scores": {
+            "bm25": 23.233944936221608,
+            "bert": 0.21368958055973053,
+            "combined": 7.1197662353515625
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "6"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.19230769230769232
+      },
+      "processing_time": 0.7406413555145264,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_153",
+      "question_type": "Đúng/Sai",
+      "question_text": "Cơ sở giáo dục thường xuyên bao gồm trường đại học hay viện nghiên cứu, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Giáo dục_80",
+          "law_id": "Luật Giáo dục",
+          "article_id": "80",
+          "score": 12.007267951965332,
+          "stage_scores": {
+            "bm25": 38.60911178353271,
+            "bert": 0.6064779758453369,
+            "combined": 12.007267951965332
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_44",
+          "law_id": "Luật Giáo dục",
+          "article_id": "44",
+          "score": 9.342987060546875,
+          "stage_scores": {
+            "bm25": 29.994365962442714,
+            "bert": 0.4923957586288452,
+            "combined": 9.342987060546875
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_46",
+          "law_id": "Luật Giáo dục",
+          "article_id": "46",
+          "score": 8.794307708740234,
+          "stage_scores": {
+            "bm25": 27.780171384256096,
+            "bert": 0.6575095057487488,
+            "combined": 8.794307708740234
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_60",
+          "law_id": "Luật Giáo dục",
+          "article_id": "60",
+          "score": 8.505488395690918,
+          "stage_scores": {
+            "bm25": 26.85059021566655,
+            "bert": 0.6433024406433105,
+            "combined": 8.505488395690918
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_65",
+          "law_id": "Luật Giáo dục",
+          "article_id": "65",
+          "score": 8.430144309997559,
+          "stage_scores": {
+            "bm25": 26.554878263060054,
+            "bert": 0.6624014377593994,
+            "combined": 8.430144309997559
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Giáo dục",
+          "article_id": "44"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.18518518518518517
+      },
+      "processing_time": 0.8863644599914551,
+      "answer_confidence": 0.5882352941176471
+    },
+    {
+      "question_id": "train_alqac25_344",
+      "question_type": "Đúng/Sai",
+      "question_text": "Thông tin liên quan đến bí mật gia đình có thể được tiếp cận không cần tất cả các thành viên gia đình đều đồng ý, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_7",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7",
+          "score": 15.107515335083008,
+          "stage_scores": {
+            "bm25": 49.71809157785717,
+            "bert": 0.27441132068634033,
+            "combined": 15.107515335083008
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_38",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "38",
+          "score": 10.596672058105469,
+          "stage_scores": {
+            "bm25": 34.542773487178984,
+            "bert": 0.3340572416782379,
+            "combined": 10.596672058105469
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_23",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "23",
+          "score": 8.36071491241455,
+          "stage_scores": {
+            "bm25": 26.403111617201066,
+            "bert": 0.6282583475112915,
+            "combined": 8.36071491241455
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_212",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "212",
+          "score": 8.05868911743164,
+          "stage_scores": {
+            "bm25": 26.131792831906903,
+            "bert": 0.3130742609500885,
+            "combined": 8.05868911743164
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_17",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "17",
+          "score": 7.649016857147217,
+          "stage_scores": {
+            "bm25": 24.261817611829166,
+            "bert": 0.5292447805404663,
+            "combined": 7.649016857147217
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.17857142857142858
+      },
+      "processing_time": 0.9837777614593506,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_248",
+      "question_type": "Đúng/Sai",
+      "question_text": "Thẩm phán không có quyền xử lý hành vi cản trở hoạt động tố tụng hành chính theo quy định của pháp luật đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_324",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "324",
+          "score": 8.86500358581543,
+          "stage_scores": {
+            "bm25": 27.840915193936535,
+            "bert": 0.7324692010879517,
+            "combined": 8.86500358581543
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_326",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "326",
+          "score": 8.357931137084961,
+          "stage_scores": {
+            "bm25": 26.062883606331233,
+            "bert": 0.7700942754745483,
+            "combined": 8.357931137084961
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_339",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "339",
+          "score": 8.180472373962402,
+          "stage_scores": {
+            "bm25": 26.071332838299778,
+            "bert": 0.5129605531692505,
+            "combined": 8.180472373962402
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_318",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "318",
+          "score": 7.928803443908691,
+          "stage_scores": {
+            "bm25": 24.871953591276718,
+            "bert": 0.6674536466598511,
+            "combined": 7.928803443908691
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_37",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "37",
+          "score": 7.663591384887695,
+          "stage_scores": {
+            "bm25": 23.934045325064414,
+            "bert": 0.6905401349067688,
+            "combined": 7.663591384887695
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "38"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.1724137931034483
+      },
+      "processing_time": 0.7062926292419434,
+      "answer_confidence": 0.52
+    },
+    {
+      "question_id": "train_alqac25_42",
+      "question_type": "Đúng/Sai",
+      "question_text": "Hợp tác quốc tế, nghiên cứu khoa học, chuyển giao công nghệ, cung cấp dịch vụ kỹ thuật số để phát triển điện ảnh là một trong các chính sách của nhà nước về phát triển điện ảnh, công nghiệp điện ảnh là đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Điện ảnh_5",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "5",
+          "score": 23.853313446044922,
+          "stage_scores": {
+            "bm25": 77.92207139682621,
+            "bert": 0.680988073348999,
+            "combined": 23.853313446044922
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_6",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "6",
+          "score": 21.738956451416016,
+          "stage_scores": {
+            "bm25": 70.8678845734012,
+            "bert": 0.6837038993835449,
+            "combined": 21.738956451416016
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_45",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "45",
+          "score": 19.835519790649414,
+          "stage_scores": {
+            "bm25": 64.72158714811661,
+            "bert": 0.598633885383606,
+            "combined": 19.835519790649414
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_4",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "4",
+          "score": 15.710122108459473,
+          "stage_scores": {
+            "bm25": 50.81623307598593,
+            "bert": 0.6646449565887451,
+            "combined": 15.710122108459473
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_3",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "3",
+          "score": 15.474398612976074,
+          "stage_scores": {
+            "bm25": 50.20429313285575,
+            "bert": 0.5901579856872559,
+            "combined": 15.474398612976074
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Điện ảnh",
+          "article_id": "5"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.2
+      },
+      "processing_time": 0.9317581653594971,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_10",
+      "question_type": "Đúng/Sai",
+      "question_text": "Việc sinh con bằng kỹ thuật hỗ trợ sinh sản là hành vi trong đó con người sử dụng phương pháp nhân tạo thụ tinh hoặc thụ tinh trong ống nghiệm để sinh con.",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_93",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "93",
+          "score": 19.47372055053711,
+          "stage_scores": {
+            "bm25": 63.45005011433702,
+            "bert": 0.6267210245132446,
+            "combined": 19.47372055053711
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_100",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "100",
+          "score": 17.886075973510742,
+          "stage_scores": {
+            "bm25": 58.30775278437589,
+            "bert": 0.5624982118606567,
+            "combined": 17.886075973510742
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_99",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "99",
+          "score": 15.39427661895752,
+          "stage_scores": {
+            "bm25": 49.95502048217541,
+            "bert": 0.5825284719467163,
+            "combined": 15.39427661895752
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_3",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "3",
+          "score": 14.427204132080078,
+          "stage_scores": {
+            "bm25": 46.88435584366653,
+            "bert": 0.5169967412948608,
+            "combined": 14.427204132080078
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_95",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "95",
+          "score": 14.030721664428711,
+          "stage_scores": {
+            "bm25": 45.36203421043076,
+            "bert": 0.6030162572860718,
+            "combined": 14.030721664428711
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "3"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.22580645161290322
+      },
+      "processing_time": 0.8377435207366943,
+      "answer_confidence": 0.5714285714285714
+    },
+    {
+      "question_id": "train_alqac25_14",
+      "question_type": "Đúng/Sai",
+      "question_text": "Chồng có nguồn thu nhập nhiều hơn vợ thì chồng có quyền chiếm hữu, sử dụng tài sản chung nhiều hơn so với vợ, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_29",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "29",
+          "score": 17.20721435546875,
+          "stage_scores": {
+            "bm25": 55.692782123511094,
+            "bert": 0.7134010791778564,
+            "combined": 17.20721435546875
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_44",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "44",
+          "score": 16.06416893005371,
+          "stage_scores": {
+            "bm25": 52.51949268861728,
+            "bert": 0.4404594302177429,
+            "combined": 16.06416893005371
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_33",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "33",
+          "score": 15.381338119506836,
+          "stage_scores": {
+            "bm25": 49.91648574361803,
+            "bert": 0.5805596709251404,
+            "combined": 15.381338119506836
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_59",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "59",
+          "score": 15.28978157043457,
+          "stage_scores": {
+            "bm25": 49.53053046062808,
+            "bert": 0.6151744723320007,
+            "combined": 15.28978157043457
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_26",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "26",
+          "score": 13.906871795654297,
+          "stage_scores": {
+            "bm25": 45.21644155440916,
+            "bert": 0.488483726978302,
+            "combined": 13.906871795654297
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "29"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.21875
+      },
+      "processing_time": 0.8864171504974365,
+      "answer_confidence": 0.5652173913043478
+    },
+    {
+      "question_id": "train_alqac25_70",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Trong tố tụng trọng tài, các bên có thể thương lượng, hòa giải với nhau như thế nào?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "B",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trọng tài thương mại_9",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "9",
+          "score": 12.710982322692871,
+          "stage_scores": {
+            "bm25": 40.5982008931477,
+            "bert": 0.7593171000480652,
+            "combined": 12.710982322692871
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_38",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "38",
+          "score": 9.265205383300781,
+          "stage_scores": {
+            "bm25": 29.25400218184887,
+            "bert": 0.6985793113708496,
+            "combined": 9.265205383300781
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_133",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "133",
+          "score": 6.836973190307617,
+          "stage_scores": {
+            "bm25": 21.546731457911825,
+            "bert": 0.5327914357185364,
+            "combined": 6.836973190307617
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ quyền lợi người tiêu dùng_54",
+          "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+          "article_id": "54",
+          "score": 6.022900104522705,
+          "stage_scores": {
+            "bm25": 18.825993016504604,
+            "bert": 0.5358601808547974,
+            "combined": 6.022900104522705
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ quyền lợi người tiêu dùng_60",
+          "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+          "article_id": "60",
+          "score": 5.7571702003479,
+          "stage_scores": {
+            "bm25": 18.025236460820533,
+            "bert": 0.49942752718925476,
+            "combined": 5.7571702003479
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "9"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.21212121212121213
+      },
+      "processing_time": 0.6565306186676025,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_582",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Người xem dưới 16 tuổi được xem phim có nội dung thuộc phân loại nào sau đây?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Điện ảnh_32",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "32",
+          "score": 18.232107162475586,
+          "stage_scores": {
+            "bm25": 59.45296843464406,
+            "bert": 0.566023588180542,
+            "combined": 18.232107162475586
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_21",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "21",
+          "score": 10.116665840148926,
+          "stage_scores": {
+            "bm25": 32.459132167186624,
+            "bert": 0.5413233041763306,
+            "combined": 10.116665840148926
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_18",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "18",
+          "score": 9.927430152893066,
+          "stage_scores": {
+            "bm25": 31.7687410548959,
+            "bert": 0.5668681859970093,
+            "combined": 9.927430152893066
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_19",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "19",
+          "score": 9.715925216674805,
+          "stage_scores": {
+            "bm25": 30.904023602933723,
+            "bert": 0.6353117823600769,
+            "combined": 9.715925216674805
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_50",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "50",
+          "score": 9.24760627746582,
+          "stage_scores": {
+            "bm25": 29.562442719323197,
+            "bert": 0.5412479639053345,
+            "combined": 9.24760627746582
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Điện ảnh",
+          "article_id": "32"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.20588235294117646
+      },
+      "processing_time": 0.9576592445373535,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_661",
+      "question_type": "Đúng/Sai",
+      "question_text": "Hội đồng trọng tài có thể không dùng pháp luật Việt Nam để giải quyết tranh chấp, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trọng tài thương mại_42",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "42",
+          "score": 10.591031074523926,
+          "stage_scores": {
+            "bm25": 33.955857125722545,
+            "bert": 0.5775339007377625,
+            "combined": 10.591031074523926
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_43",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "43",
+          "score": 10.482152938842773,
+          "stage_scores": {
+            "bm25": 33.78262410791934,
+            "bert": 0.49623680114746094,
+            "combined": 10.482152938842773
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_57",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "57",
+          "score": 10.44683837890625,
+          "stage_scores": {
+            "bm25": 33.68181852394426,
+            "bert": 0.4889898896217346,
+            "combined": 10.44683837890625
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_3",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "3",
+          "score": 10.278303146362305,
+          "stage_scores": {
+            "bm25": 33.01290684077399,
+            "bert": 0.5349003076553345,
+            "combined": 10.278303146362305
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_11",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "11",
+          "score": 9.95313835144043,
+          "stage_scores": {
+            "bm25": 32.13449214059854,
+            "bert": 0.4468434453010559,
+            "combined": 9.95313835144043
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "14"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.22857142857142856
+      },
+      "processing_time": 1.0620405673980713,
+      "answer_confidence": 0.65
+    },
+    {
+      "question_id": "train_alqac25_345",
+      "question_type": "Đúng/Sai",
+      "question_text": "Người đứng đầu cơ quan nhà nước có quyền quyết định cung cấp thông tin liên quan đến bí mật kinh doanh, đời sống riêng tư, bí mật cá nhân, bí mật gia đình trong trường hợp cần thiết vì lợi ích công cộng, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_7",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7",
+          "score": 28.400461196899414,
+          "stage_scores": {
+            "bm25": 93.87429350131873,
+            "bert": 0.3402469754219055,
+            "combined": 28.400461196899414
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_17",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "17",
+          "score": 20.910478591918945,
+          "stage_scores": {
+            "bm25": 68.14483542994128,
+            "bert": 0.6671830415725708,
+            "combined": 20.910478591918945
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_38",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "38",
+          "score": 20.02391815185547,
+          "stage_scores": {
+            "bm25": 65.84678319223514,
+            "bert": 0.38554805517196655,
+            "combined": 20.02391815185547
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_21",
+          "law_id": "Hiến pháp",
+          "article_id": "21",
+          "score": 18.943225860595703,
+          "stage_scores": {
+            "bm25": 62.34975371956099,
+            "bert": 0.3404293358325958,
+            "combined": 18.943225860595703
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_23",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "23",
+          "score": 18.2471866607666,
+          "stage_scores": {
+            "bm25": 59.285560936147725,
+            "bert": 0.6593130826950073,
+            "combined": 18.2471866607666
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.25
+      },
+      "processing_time": 1.1162233352661133,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_383",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Điều nào không phải là một trong những quyền hạn và nhiệm vụ của ủy ban thường vụ quốc hội ?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Hiến pháp_73",
+          "law_id": "Hiến pháp",
+          "article_id": "73",
+          "score": 10.9842529296875,
+          "stage_scores": {
+            "bm25": 35.46461356640734,
+            "bert": 0.4926701784133911,
+            "combined": 10.9842529296875
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_76",
+          "law_id": "Hiến pháp",
+          "article_id": "76",
+          "score": 9.744755744934082,
+          "stage_scores": {
+            "bm25": 31.713852394592166,
+            "bert": 0.32942885160446167,
+            "combined": 9.744755744934082
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_120",
+          "law_id": "Hiến pháp",
+          "article_id": "120",
+          "score": 8.977314949035645,
+          "stage_scores": {
+            "bm25": 28.899385819543227,
+            "bert": 0.4392847418785095,
+            "combined": 8.977314949035645
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_96",
+          "law_id": "Hiến pháp",
+          "article_id": "96",
+          "score": 8.856945991516113,
+          "stage_scores": {
+            "bm25": 28.520976733479813,
+            "bert": 0.42950358986854553,
+            "combined": 8.856945991516113
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_372",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "372",
+          "score": 8.642083168029785,
+          "stage_scores": {
+            "bm25": 27.731490613899208,
+            "bert": 0.460907518863678,
+            "combined": 8.642083168029785
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Hiến pháp",
+          "article_id": "74"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.24324324324324326
+      },
+      "processing_time": 0.7118802070617676,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_554",
+      "question_type": "Đúng/Sai",
+      "question_text": "Nhà nước nghiêm cấm việc thực hiện phổ biến phim tại địa điểm chiếu phim công cộng khi không có sự thông báo cho cơ quan nhà nước có thẩm quyền là đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Điện ảnh_22",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "22",
+          "score": 17.86989402770996,
+          "stage_scores": {
+            "bm25": 58.51035343871108,
+            "bert": 0.45255404710769653,
+            "combined": 17.86989402770996
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_9",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "9",
+          "score": 14.28036117553711,
+          "stage_scores": {
+            "bm25": 46.35046133082244,
+            "bert": 0.5360332727432251,
+            "combined": 14.28036117553711
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_30",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "30",
+          "score": 14.134408950805664,
+          "stage_scores": {
+            "bm25": 45.91121627842027,
+            "bert": 0.5157771110534668,
+            "combined": 14.134408950805664
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_47",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "47",
+          "score": 12.845351219177246,
+          "stage_scores": {
+            "bm25": 41.55835304368757,
+            "bert": 0.5397800803184509,
+            "combined": 12.845351219177246
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_19",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "19",
+          "score": 12.49235725402832,
+          "stage_scores": {
+            "bm25": 40.19807419847064,
+            "bert": 0.6184778213500977,
+            "combined": 12.49235725402832
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Điện ảnh",
+          "article_id": "9"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.2631578947368421
+      },
+      "processing_time": 0.8266947269439697,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_520",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Theo Luật Trồng trọt, cơ quan nào của Chính phủ làm nhiệm vụ xây dựng lộ trình và hướng dẫn cấp mã số vùng trồng trên phạm vi toàn quốc?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "B",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trồng trọt_64",
+          "law_id": "Luật Trồng trọt",
+          "article_id": "64",
+          "score": 24.990631103515625,
+          "stage_scores": {
+            "bm25": 81.3712543026982,
+            "bert": 0.8275048136711121,
+            "combined": 24.990631103515625
+          }
+        },
+        {
+          "doc_id": "Luật Trồng trọt_5",
+          "law_id": "Luật Trồng trọt",
+          "article_id": "5",
+          "score": 9.551758766174316,
+          "stage_scores": {
+            "bm25": 30.86998221387491,
+            "bert": 0.41537702083587646,
+            "combined": 9.551758766174316
+          }
+        },
+        {
+          "doc_id": "Luật Trồng trọt_82",
+          "law_id": "Luật Trồng trọt",
+          "article_id": "82",
+          "score": 8.409486770629883,
+          "stage_scores": {
+            "bm25": 26.56711040016266,
+            "bert": 0.6276479959487915,
+            "combined": 8.409486770629883
+          }
+        },
+        {
+          "doc_id": "Luật Trồng trọt_83",
+          "law_id": "Luật Trồng trọt",
+          "article_id": "83",
+          "score": 7.7482829093933105,
+          "stage_scores": {
+            "bm25": 24.291578574295222,
+            "bert": 0.6582989692687988,
+            "combined": 7.7482829093933105
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_45",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "45",
+          "score": 7.180548667907715,
+          "stage_scores": {
+            "bm25": 22.51013793643297,
+            "bert": 0.6107246279716492,
+            "combined": 7.180548667907715
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trồng trọt",
+          "article_id": "64"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2564102564102564
+      },
+      "processing_time": 0.8232829570770264,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_21",
+      "question_type": "Đúng/Sai",
+      "question_text": "Không được phép lợi dụng hoạt động giáo dục để xuyên tạc chủ trương và chống phá nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Giáo dục_21",
+          "law_id": "Luật Giáo dục",
+          "article_id": "21",
+          "score": 13.804742813110352,
+          "stage_scores": {
+            "bm25": 44.35994038962114,
+            "bert": 0.7096573114395142,
+            "combined": 13.804742813110352
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_22",
+          "law_id": "Luật Giáo dục",
+          "article_id": "22",
+          "score": 6.921055316925049,
+          "stage_scores": {
+            "bm25": 21.93352505254682,
+            "bert": 0.4871397018432617,
+            "combined": 6.921055316925049
+          }
+        },
+        {
+          "doc_id": "Luật Viễn thông_9",
+          "law_id": "Luật Viễn thông",
+          "article_id": "9",
+          "score": 6.318213939666748,
+          "stage_scores": {
+            "bm25": 19.59769389958887,
+            "bert": 0.6270081400871277,
+            "combined": 6.318213939666748
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_16",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "16",
+          "score": 6.1695661544799805,
+          "stage_scores": {
+            "bm25": 19.45575705747926,
+            "bert": 0.4754842221736908,
+            "combined": 6.1695661544799805
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_8",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "8",
+          "score": 6.094069957733154,
+          "stage_scores": {
+            "bm25": 18.844819446914844,
+            "bert": 0.6294630765914917,
+            "combined": 6.094069957733154
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Giáo dục",
+          "article_id": "21"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.275
+      },
+      "processing_time": 0.795543909072876,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_453",
+      "question_type": "Đúng/Sai",
+      "question_text": "Viện kiểm sát nhân dân có trách nhiệm bồi dưỡng nâng cao trình độ và kỹ năng giải quyết tranh chấp cho trọng tài viên, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trọng tài thương mại_28",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "28",
+          "score": 14.893424987792969,
+          "stage_scores": {
+            "bm25": 48.164663304251334,
+            "bert": 0.6343227624893188,
+            "combined": 14.893424987792969
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_76",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "76",
+          "score": 13.32781982421875,
+          "stage_scores": {
+            "bm25": 43.066864973562666,
+            "bert": 0.582514762878418,
+            "combined": 13.32781982421875
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_42",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "42",
+          "score": 11.586767196655273,
+          "stage_scores": {
+            "bm25": 37.228972490428596,
+            "bert": 0.5972505807876587,
+            "combined": 11.586767196655273
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_20",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "20",
+          "score": 11.386360168457031,
+          "stage_scores": {
+            "bm25": 36.645461203701736,
+            "bert": 0.5610318183898926,
+            "combined": 11.386360168457031
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_39",
+          "law_id": "Luật Giáo dục",
+          "article_id": "39",
+          "score": 10.011863708496094,
+          "stage_scores": {
+            "bm25": 32.5250127438162,
+            "bert": 0.36337167024612427,
+            "combined": 10.011863708496094
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "28"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2682926829268293
+      },
+      "processing_time": 0.7575089931488037,
+      "answer_confidence": 0.6428571428571429
+    },
+    {
+      "question_id": "train_alqac25_330",
+      "question_type": "Đúng/Sai",
+      "question_text": "Người dưới 18 tuổi yêu cầu cung cấp thông tin không cần phải thông qua người đại diện theo pháp luật, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_4",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "4",
+          "score": 10.147863388061523,
+          "stage_scores": {
+            "bm25": 32.53492376262972,
+            "bert": 0.5534092783927917,
+            "combined": 10.147863388061523
+          }
+        },
+        {
+          "doc_id": "Luật Căn cước_23",
+          "law_id": "Luật Căn cước",
+          "article_id": "23",
+          "score": 8.161282539367676,
+          "stage_scores": {
+            "bm25": 25.945895660380028,
+            "bert": 0.5393060445785522,
+            "combined": 8.161282539367676
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống tác hại của rượu, bia_5",
+          "law_id": "Luật Phòng, chống tác hại của rượu, bia",
+          "article_id": "5",
+          "score": 6.278032302856445,
+          "stage_scores": {
+            "bm25": 19.794926599655682,
+            "bert": 0.48507776856422424,
+            "combined": 6.278032302856445
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ quyền lợi người tiêu dùng_41",
+          "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+          "article_id": "41",
+          "score": 6.191030025482178,
+          "stage_scores": {
+            "bm25": 19.343802028096327,
+            "bert": 0.5541276335716248,
+            "combined": 6.191030025482178
+          }
+        },
+        {
+          "doc_id": "Luật Căn cước_16",
+          "law_id": "Luật Căn cước",
+          "article_id": "16",
+          "score": 6.120367527008057,
+          "stage_scores": {
+            "bm25": 19.44777856589198,
+            "bert": 0.408620148897171,
+            "combined": 6.120367527008057
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "4"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2619047619047619
+      },
+      "processing_time": 0.9365999698638916,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_477",
+      "question_type": "Đúng/Sai",
+      "question_text": "Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện toàn bộ hợp tác quốc tế về an ninh mạng, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật An ninh mạng_7",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "7",
+          "score": 14.156702995300293,
+          "stage_scores": {
+            "bm25": 45.530813903400535,
+            "bert": 0.7106555700302124,
+            "combined": 14.156702995300293
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_37",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "37",
+          "score": 8.536175727844238,
+          "stage_scores": {
+            "bm25": 26.96998842606166,
+            "bert": 0.6359697580337524,
+            "combined": 8.536175727844238
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_36",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "36",
+          "score": 7.947664737701416,
+          "stage_scores": {
+            "bm25": 25.073010565448186,
+            "bert": 0.6082308888435364,
+            "combined": 7.947664737701416
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_25",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "25",
+          "score": 7.333311557769775,
+          "stage_scores": {
+            "bm25": 22.929997690836558,
+            "bert": 0.6490178108215332,
+            "combined": 7.333311557769775
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_33",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "33",
+          "score": 6.977142810821533,
+          "stage_scores": {
+            "bm25": 21.74589128471148,
+            "bert": 0.647679328918457,
+            "combined": 6.977142810821533
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật An ninh mạng",
+          "article_id": "7"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2558139534883721
+      },
+      "processing_time": 0.8929295539855957,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_483",
+      "question_type": "Đúng/Sai",
+      "question_text": "Người đứng đầu bộ phận an ninh thuộc cơ quan, tổ chức có trách nhiệm triển khai hoạt động bảo vệ an ninh mạng thuộc quyền quản lý, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật An ninh mạng_23",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "23",
+          "score": 13.278393745422363,
+          "stage_scores": {
+            "bm25": 42.68813730583401,
+            "bert": 0.6742177605628967,
+            "combined": 13.278393745422363
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_15",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "15",
+          "score": 10.184186935424805,
+          "stage_scores": {
+            "bm25": 32.45879930110778,
+            "bert": 0.6379250288009644,
+            "combined": 10.184186935424805
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_37",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "37",
+          "score": 9.022637367248535,
+          "stage_scores": {
+            "bm25": 28.65552222253075,
+            "bert": 0.608543872833252,
+            "combined": 9.022637367248535
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_13",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "13",
+          "score": 8.793672561645508,
+          "stage_scores": {
+            "bm25": 27.790107735726085,
+            "bert": 0.6523436903953552,
+            "combined": 8.793672561645508
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_21",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "21",
+          "score": 8.727294921875,
+          "stage_scores": {
+            "bm25": 27.717077662498518,
+            "bert": 0.5888164043426514,
+            "combined": 8.727294921875
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật An ninh mạng",
+          "article_id": "23"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.25
+      },
+      "processing_time": 1.015275478363037,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_501",
+      "question_type": "Tự luận",
+      "question_text": "Phạm vi điều chỉnh của Luật An ninh mạng năm 2018 được quy định như thế nào?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "Luật An ninh mạng năm 2018 quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật An ninh mạng_43",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "43",
+          "score": 6.599971771240234,
+          "stage_scores": {
+            "bm25": 20.781801042946377,
+            "bert": 0.5220450162887573,
+            "combined": 6.599971771240234
+          }
+        },
+        {
+          "doc_id": "Luật Viễn thông_73",
+          "law_id": "Luật Viễn thông",
+          "article_id": "73",
+          "score": 6.2427754402160645,
+          "stage_scores": {
+            "bm25": 19.595173785447592,
+            "bert": 0.5203192234039307,
+            "combined": 6.2427754402160645
+          }
+        },
+        {
+          "doc_id": "Luật Viễn thông_72",
+          "law_id": "Luật Viễn thông",
+          "article_id": "72",
+          "score": 6.062381744384766,
+          "stage_scores": {
+            "bm25": 18.96390268261081,
+            "bert": 0.5331582427024841,
+            "combined": 6.062381744384766
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_33",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "33",
+          "score": 5.5793633460998535,
+          "stage_scores": {
+            "bm25": 17.334929725645434,
+            "bert": 0.5412634611129761,
+            "combined": 5.5793633460998535
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_31",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "31",
+          "score": 5.400599956512451,
+          "stage_scores": {
+            "bm25": 17.271922291611727,
+            "bert": 0.31289049983024597,
+            "combined": 5.400599956512451
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật An ninh mạng",
+          "article_id": "1"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.24444444444444444
+      },
+      "processing_time": 0.7364602088928223,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_459",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Nội dung nào dưới đây nếu xảy ra thì bị đơn phải nêu rõ trong bản tự bảo vệ?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trọng tài thương mại_35",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "35",
+          "score": 11.673026084899902,
+          "stage_scores": {
+            "bm25": 37.51655363576695,
+            "bert": 0.5972292423248291,
+            "combined": 11.673026084899902
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_36",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "36",
+          "score": 8.550577163696289,
+          "stage_scores": {
+            "bm25": 27.030329231080195,
+            "bert": 0.6306837201118469,
+            "combined": 8.550577163696289
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_61",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "61",
+          "score": 5.974714279174805,
+          "stage_scores": {
+            "bm25": 19.014777633096937,
+            "bert": 0.3861154317855835,
+            "combined": 5.974714279174805
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_37",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "37",
+          "score": 5.39122200012207,
+          "stage_scores": {
+            "bm25": 17.144655745396225,
+            "bert": 0.3540360629558563,
+            "combined": 5.39122200012207
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_59",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "59",
+          "score": 5.3834710121154785,
+          "stage_scores": {
+            "bm25": 16.72182054891221,
+            "bert": 0.524178147315979,
+            "combined": 5.3834710121154785
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "35"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2391304347826087
+      },
+      "processing_time": 0.7991781234741211,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_231",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Điều nào sau đây KHÔNG đúng về nghĩa vụ của bên vận chuyển?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "C",
+      "retrieved_documents": [
+        {
+          "doc_id": "Bộ luật dân sự_532",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "532",
+          "score": 6.221023082733154,
+          "stage_scores": {
+            "bm25": 19.672512548650452,
+            "bert": 0.45609861612319946,
+            "combined": 6.221023082733154
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_536",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "536",
+          "score": 6.085814476013184,
+          "stage_scores": {
+            "bm25": 18.860537215880573,
+            "bert": 0.6109330058097839,
+            "combined": 6.085814476013184
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_538",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "538",
+          "score": 5.829229831695557,
+          "stage_scores": {
+            "bm25": 18.299116717213394,
+            "bert": 0.48499226570129395,
+            "combined": 5.829229831695557
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_535",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "535",
+          "score": 5.777775764465332,
+          "stage_scores": {
+            "bm25": 17.858795961316154,
+            "bert": 0.6001958847045898,
+            "combined": 5.777775764465332
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_539",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "539",
+          "score": 5.691719055175781,
+          "stage_scores": {
+            "bm25": 17.615855768923993,
+            "bert": 0.5813748836517334,
+            "combined": 5.691719055175781
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Bộ luật dân sự",
+          "article_id": "534"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.23404255319148937
+      },
+      "processing_time": 0.7388386726379395,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_516",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Theo Luật Trồng trọt về khảo nghiệm giống cây trồng, đâu không phải là một trong các hình thức thực hiện việc lưu mẫu giống cây trồng?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "C",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trồng trọt_20",
+          "law_id": "Luật Trồng trọt",
+          "article_id": "20",
+          "score": 23.21360206604004,
+          "stage_scores": {
+            "bm25": 75.72805761907884,
+            "bert": 0.7074061632156372,
+            "combined": 23.21360206604004
+          }
+        },
+        {
+          "doc_id": "Luật Trồng trọt_34",
+          "law_id": "Luật Trồng trọt",
+          "article_id": "34",
+          "score": 17.249319076538086,
+          "stage_scores": {
+            "bm25": 55.98582504232334,
+            "bert": 0.6479582786560059,
+            "combined": 17.249319076538086
+          }
+        },
+        {
+          "doc_id": "Luật Trồng trọt_19",
+          "law_id": "Luật Trồng trọt",
+          "article_id": "19",
+          "score": 16.891376495361328,
+          "stage_scores": {
+            "bm25": 54.623346902504444,
+            "bert": 0.720531702041626,
+            "combined": 16.891376495361328
+          }
+        },
+        {
+          "doc_id": "Luật Trồng trọt_21",
+          "law_id": "Luật Trồng trọt",
+          "article_id": "21",
+          "score": 16.7735652923584,
+          "stage_scores": {
+            "bm25": 54.5886293687271,
+            "bert": 0.5671104788780212,
+            "combined": 16.7735652923584
+          }
+        },
+        {
+          "doc_id": "Luật Trồng trọt_13",
+          "law_id": "Luật Trồng trọt",
+          "article_id": "13",
+          "score": 16.289459228515625,
+          "stage_scores": {
+            "bm25": 52.64966030650914,
+            "bert": 0.706514835357666,
+            "combined": 16.289459228515625
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trồng trọt",
+          "article_id": "20"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.22916666666666666
+      },
+      "processing_time": 0.9240868091583252,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_671",
+      "question_type": "Đúng/Sai",
+      "question_text": "Theo BLDS năm 2015, vật phân biệt được với các vật khác bằng những đặc điểm riêng về ký hiệu, hình dáng, màu sắc, chất liệu, đặc tính, vị trí là vật đặc định, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Bộ luật dân sự_113",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "113",
+          "score": 40.00326156616211,
+          "stage_scores": {
+            "bm25": 132.0284915083449,
+            "bert": 0.5638797879219055,
+            "combined": 40.00326156616211
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_112",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "112",
+          "score": 15.207170486450195,
+          "stage_scores": {
+            "bm25": 49.29368824915665,
+            "bert": 0.5986625552177429,
+            "combined": 15.207170486450195
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_383",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "383",
+          "score": 15.104464530944824,
+          "stage_scores": {
+            "bm25": 48.75296064734717,
+            "bert": 0.6836811900138855,
+            "combined": 15.104464530944824
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_580",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "580",
+          "score": 14.76738166809082,
+          "stage_scores": {
+            "bm25": 48.344902505907655,
+            "bert": 0.37701642513275146,
+            "combined": 14.76738166809082
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_279",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "279",
+          "score": 14.598756790161133,
+          "stage_scores": {
+            "bm25": 47.20084265184845,
+            "bert": 0.6264350414276123,
+            "combined": 14.598756790161133
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Bộ luật dân sự",
+          "article_id": "113"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.24489795918367346
+      },
+      "processing_time": 0.5225851535797119,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_583",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Thời hạn được bổ nhiệm giữ chức vụ quản lý của viên chức tối đa là bao nhiêu năm?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Viên chức_37",
+          "law_id": "Luật Viên chức",
+          "article_id": "37",
+          "score": 14.168423652648926,
+          "stage_scores": {
+            "bm25": 45.85130541971883,
+            "bert": 0.5900448560714722,
+            "combined": 14.168423652648926
+          }
+        },
+        {
+          "doc_id": "Luật Viên chức_38",
+          "law_id": "Luật Viên chức",
+          "article_id": "38",
+          "score": 9.056877136230469,
+          "stage_scores": {
+            "bm25": 29.41357987445796,
+            "bert": 0.3325763940811157,
+            "combined": 9.056877136230469
+          }
+        },
+        {
+          "doc_id": "Luật Viên chức_58",
+          "law_id": "Luật Viên chức",
+          "article_id": "58",
+          "score": 8.753629684448242,
+          "stage_scores": {
+            "bm25": 28.07848547476726,
+            "bert": 0.4715477228164673,
+            "combined": 8.753629684448242
+          }
+        },
+        {
+          "doc_id": "Luật Viên chức_3",
+          "law_id": "Luật Viên chức",
+          "article_id": "3",
+          "score": 8.50477123260498,
+          "stage_scores": {
+            "bm25": 27.3409300556519,
+            "bert": 0.43213167786598206,
+            "combined": 8.50477123260498
+          }
+        },
+        {
+          "doc_id": "Luật Viên chức_33",
+          "law_id": "Luật Viên chức",
+          "article_id": "33",
+          "score": 8.020877838134766,
+          "stage_scores": {
+            "bm25": 25.708489105161206,
+            "bert": 0.4404729902744293,
+            "combined": 8.020877838134766
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Viên chức",
+          "article_id": "37"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.24
+      },
+      "processing_time": 0.8986587524414062,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_543",
+      "question_type": "Đúng/Sai",
+      "question_text": "Chồng giúp đỡ vợ trong việc học tập, chọn nghề nghiệp; nâng cao trình độ văn hoá, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_23",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "23",
+          "score": 19.32721519470215,
+          "stage_scores": {
+            "bm25": 62.67047445083364,
+            "bert": 0.7515329122543335,
+            "combined": 19.32721519470215
+          }
+        },
+        {
+          "doc_id": "Luật Thanh niên_15",
+          "law_id": "Luật Thanh niên",
+          "article_id": "15",
+          "score": 8.493099212646484,
+          "stage_scores": {
+            "bm25": 26.863919107203213,
+            "bert": 0.619890570640564,
+            "combined": 8.493099212646484
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_42",
+          "law_id": "Luật Giáo dục",
+          "article_id": "42",
+          "score": 8.006131172180176,
+          "stage_scores": {
+            "bm25": 25.045871064346812,
+            "bert": 0.7033846974372864,
+            "combined": 8.006131172180176
+          }
+        },
+        {
+          "doc_id": "Luật Giáo dục_36",
+          "law_id": "Luật Giáo dục",
+          "article_id": "36",
+          "score": 7.863918304443359,
+          "stage_scores": {
+            "bm25": 24.443364331160083,
+            "bert": 0.7584414482116699,
+            "combined": 7.863918304443359
+          }
+        },
+        {
+          "doc_id": "Luật Viên chức_17",
+          "law_id": "Luật Viên chức",
+          "article_id": "17",
+          "score": 7.532070159912109,
+          "stage_scores": {
+            "bm25": 24.021286020611655,
+            "bert": 0.4652637541294098,
+            "combined": 7.532070159912109
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "23"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.2549019607843137
+      },
+      "processing_time": 0.6513991355895996,
+      "answer_confidence": 0.65
+    },
+    {
+      "question_id": "train_alqac25_500",
+      "question_type": "Tự luận",
+      "question_text": "Theo Luật An ninh mạng, việc xử lý vi phạm pháp luật về an ninh mạng được quy định thế nào?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "Tùy theo tính chất, mức độ vi phạm mà người có hành vi vi phạm quy định về an ninh mạng sẽ bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật An ninh mạng_21",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "21",
+          "score": 8.581133842468262,
+          "stage_scores": {
+            "bm25": 27.216881694008226,
+            "bert": 0.5943845510482788,
+            "combined": 8.581133842468262
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_24",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "24",
+          "score": 8.563652038574219,
+          "stage_scores": {
+            "bm25": 27.05583078489937,
+            "bert": 0.6384326219558716,
+            "combined": 8.563652038574219
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_5",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "5",
+          "score": 8.305811882019043,
+          "stage_scores": {
+            "bm25": 26.196580468431243,
+            "bert": 0.6383402347564697,
+            "combined": 8.305811882019043
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_23",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "23",
+          "score": 8.228191375732422,
+          "stage_scores": {
+            "bm25": 25.939220573070017,
+            "bert": 0.637751042842865,
+            "combined": 8.228191375732422
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_37",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "37",
+          "score": 7.985147953033447,
+          "stage_scores": {
+            "bm25": 25.137743152891105,
+            "bert": 0.6340357661247253,
+            "combined": 7.985147953033447
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật An ninh mạng",
+          "article_id": "9"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.25
+      },
+      "processing_time": 1.0087757110595703,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_339",
+      "question_type": "Đúng/Sai",
+      "question_text": "Một vài công dân có thể tiếp cận thông tin có thể gây nguy hại đến lợi ích của Nhà nước đúng không?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_6",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "6",
+          "score": 10.3557710647583,
+          "stage_scores": {
+            "bm25": 33.754214250716345,
+            "bert": 0.32786649465560913,
+            "combined": 10.3557710647583
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_3",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "3",
+          "score": 8.310787200927734,
+          "stage_scores": {
+            "bm25": 26.167049934165245,
+            "bert": 0.6581027507781982,
+            "combined": 8.310787200927734
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_33",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "33",
+          "score": 7.296101093292236,
+          "stage_scores": {
+            "bm25": 23.037425996467142,
+            "bert": 0.5498192310333252,
+            "combined": 7.296101093292236
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_5",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "5",
+          "score": 7.259471416473389,
+          "stage_scores": {
+            "bm25": 22.690541505403527,
+            "bert": 0.6461559534072876,
+            "combined": 7.259471416473389
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_8",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "8",
+          "score": 7.214042663574219,
+          "stage_scores": {
+            "bm25": 23.59994791293777,
+            "bert": 0.1915120780467987,
+            "combined": 7.214042663574219
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "6"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.24528301886792453
+      },
+      "processing_time": 0.6274793148040771,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_587",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Hoạt động của cơ sở cai nghiện ma túy công lập bao gồm những hoạt động nào sau đây?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Phòng, chống ma túy_35",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "35",
+          "score": 14.377952575683594,
+          "stage_scores": {
+            "bm25": 46.416373472251976,
+            "bert": 0.6472004652023315,
+            "combined": 14.377952575683594
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_28",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "28",
+          "score": 13.924924850463867,
+          "stage_scores": {
+            "bm25": 44.88565216266838,
+            "bert": 0.6560426354408264,
+            "combined": 13.924924850463867
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_47",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "47",
+          "score": 12.887910842895508,
+          "stage_scores": {
+            "bm25": 41.44902303383587,
+            "bert": 0.6474339962005615,
+            "combined": 12.887910842895508
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_31",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "31",
+          "score": 11.933205604553223,
+          "stage_scores": {
+            "bm25": 38.219098760193155,
+            "bert": 0.6678230166435242,
+            "combined": 11.933205604553223
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_55",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "55",
+          "score": 11.716039657592773,
+          "stage_scores": {
+            "bm25": 37.853564891810244,
+            "bert": 0.5142431259155273,
+            "combined": 11.716039657592773
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "35"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.24074074074074073
+      },
+      "processing_time": 0.7392504215240479,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_690",
+      "question_type": "Đúng/Sai",
+      "question_text": "Người tố cáo có quyền yêu cầu được giữ bí mật địa chỉ của mình",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_338",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "338",
+          "score": 9.991972923278809,
+          "stage_scores": {
+            "bm25": 32.76939774342865,
+            "bert": 0.23021963238716125,
+            "combined": 9.991972923278809
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_16",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "16",
+          "score": 5.525144100189209,
+          "stage_scores": {
+            "bm25": 17.376558536685586,
+            "bert": 0.4459664225578308,
+            "combined": 5.525144100189209
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_182",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "182",
+          "score": 5.283706188201904,
+          "stage_scores": {
+            "bm25": 16.664526470391404,
+            "bert": 0.4062115550041199,
+            "combined": 5.283706188201904
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_22",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "22",
+          "score": 5.257391929626465,
+          "stage_scores": {
+            "bm25": 16.810563528609997,
+            "bert": 0.3060329556465149,
+            "combined": 5.257391929626465
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_23",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "23",
+          "score": 5.192370414733887,
+          "stage_scores": {
+            "bm25": 16.207333775602525,
+            "bert": 0.47167178988456726,
+            "combined": 5.192370414733887
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "338"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.2545454545454545
+      },
+      "processing_time": 0.6576776504516602,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_716",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Bên bán phải chịu trách nhiệm về khuyết tật của vật bán trong trường hợp nào sau đây?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "A",
+      "retrieved_documents": [
+        {
+          "doc_id": "Bộ luật dân sự_445",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "445",
+          "score": 13.3616943359375,
+          "stage_scores": {
+            "bm25": 43.439313315458875,
+            "bert": 0.47128623723983765,
+            "combined": 13.3616943359375
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_448",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "448",
+          "score": 11.02943229675293,
+          "stage_scores": {
+            "bm25": 35.34384763373004,
+            "bert": 0.608968198299408,
+            "combined": 11.02943229675293
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_447",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "447",
+          "score": 10.12215518951416,
+          "stage_scores": {
+            "bm25": 32.068312026997184,
+            "bert": 0.716659426689148,
+            "combined": 10.12215518951416
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_452",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "452",
+          "score": 9.647802352905273,
+          "stage_scores": {
+            "bm25": 30.948389164969534,
+            "bert": 0.5189802646636963,
+            "combined": 9.647802352905273
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_449",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "449",
+          "score": 9.125582695007324,
+          "stage_scores": {
+            "bm25": 29.007029792841248,
+            "bert": 0.6049616932868958,
+            "combined": 9.125582695007324
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Bộ luật dân sự",
+          "article_id": "445"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.25
+      },
+      "processing_time": 0.5462102890014648,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_647",
+      "question_type": "Đúng/Sai",
+      "question_text": "Người tố cáo có nghĩa vụ cung cấp thông tin rõ ràng về họ, tên của mình cho cơ quan có thẩm quyền theo quy định của pháp luật, đúng hay sai?",
+      "predicted_answer": "Sai",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_338",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "338",
+          "score": 11.430204391479492,
+          "stage_scores": {
+            "bm25": 37.21628767698132,
+            "bert": 0.3790258765220642,
+            "combined": 11.430204391479492
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_339",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "339",
+          "score": 10.470887184143066,
+          "stage_scores": {
+            "bm25": 33.680537284239165,
+            "bert": 0.5238937139511108,
+            "combined": 10.470887184143066
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_34",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "34",
+          "score": 6.633820056915283,
+          "stage_scores": {
+            "bm25": 20.75554442459566,
+            "bert": 0.5816525220870972,
+            "combined": 6.633820056915283
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_14",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "14",
+          "score": 6.619792938232422,
+          "stage_scores": {
+            "bm25": 20.80509340678528,
+            "bert": 0.540378212928772,
+            "combined": 6.619792938232422
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_62",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "62",
+          "score": 6.5648274421691895,
+          "stage_scores": {
+            "bm25": 20.22083298883076,
+            "bert": 0.7122535705566406,
+            "combined": 6.5648274421691895
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "338"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.24561403508771928
+      },
+      "processing_time": 0.7482495307922363,
+      "answer_confidence": 0.5
+    },
+    {
+      "question_id": "train_alqac25_578",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Vắng mặt liên tục tại nơi tạm trú từ bao lâu mà không đăng ký tạm trú tại chỗ ở khác thì bị xóa đăng ký tạm trú?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Cư trú_29",
+          "law_id": "Luật Cư trú",
+          "article_id": "29",
+          "score": 25.628246307373047,
+          "stage_scores": {
+            "bm25": 84.04471311480687,
+            "bert": 0.5926195383071899,
+            "combined": 25.628246307373047
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_27",
+          "law_id": "Luật Cư trú",
+          "article_id": "27",
+          "score": 18.58810806274414,
+          "stage_scores": {
+            "bm25": 60.55020372862871,
+            "bert": 0.6043511629104614,
+            "combined": 18.58810806274414
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_7",
+          "law_id": "Luật Cư trú",
+          "article_id": "7",
+          "score": 17.340261459350586,
+          "stage_scores": {
+            "bm25": 56.626444929181574,
+            "bert": 0.5033236742019653,
+            "combined": 17.340261459350586
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_28",
+          "law_id": "Luật Cư trú",
+          "article_id": "28",
+          "score": 17.172733306884766,
+          "stage_scores": {
+            "bm25": 55.92314654933503,
+            "bert": 0.5654157400131226,
+            "combined": 17.172733306884766
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_2",
+          "law_id": "Luật Cư trú",
+          "article_id": "2",
+          "score": 15.732123374938965,
+          "stage_scores": {
+            "bm25": 51.19786109875135,
+            "bert": 0.5325207710266113,
+            "combined": 15.732123374938965
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Cư trú",
+          "article_id": "29"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2413793103448276
+      },
+      "processing_time": 0.7592720985412598,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_414",
+      "question_type": "Đúng/Sai",
+      "question_text": "Nền kinh tế hiện tại của quốc gia là cơ sở để xây dựng quy hoạch bảo vệ môi trường quốc gia, lồng ghép các yêu cầu về bảo vệ môi trường trong chiến lược, quy hoạch phát triển kinh tế - xã hội. Đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Bảo vệ môi trường_22",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "22",
+          "score": 21.163463592529297,
+          "stage_scores": {
+            "bm25": 68.97109422697183,
+            "bert": 0.6744788289070129,
+            "combined": 21.163463592529297
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_23",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "23",
+          "score": 15.178417205810547,
+          "stage_scores": {
+            "bm25": 49.19738083516225,
+            "bert": 0.598861813545227,
+            "combined": 15.178417205810547
+          }
+        },
+        {
+          "doc_id": "Luật Nhà ở_23",
+          "law_id": "Luật Nhà ở",
+          "article_id": "23",
+          "score": 14.99441146850586,
+          "stage_scores": {
+            "bm25": 48.4300925544742,
+            "bert": 0.6648342609405518,
+            "combined": 14.99441146850586
+          }
+        },
+        {
+          "doc_id": "Luật Tài nguyên nước_11",
+          "law_id": "Luật Tài nguyên nước",
+          "article_id": "11",
+          "score": 14.511913299560547,
+          "stage_scores": {
+            "bm25": 46.87682012495105,
+            "bert": 0.6412382125854492,
+            "combined": 14.511913299560547
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_25",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "25",
+          "score": 14.369359970092773,
+          "stage_scores": {
+            "bm25": 46.17129869319578,
+            "bert": 0.7399570941925049,
+            "combined": 14.369359970092773
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "22"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.23728813559322035
+      },
+      "processing_time": 0.6965346336364746,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_5",
+      "question_type": "Đúng/Sai",
+      "question_text": "\"Trọng tại thương mại\" là phương thức giải quyết tranh chấp do các bên thỏa thuận và được tiến hành theo quy định của Luật Trọng tài Thương mại.",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trọng tài thương mại_3",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "3",
+          "score": 11.972203254699707,
+          "stage_scores": {
+            "bm25": 38.265966559072915,
+            "bert": 0.7034481763839722,
+            "combined": 11.972203254699707
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_2",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "2",
+          "score": 10.106108665466309,
+          "stage_scores": {
+            "bm25": 31.843876063903224,
+            "bert": 0.7899230718612671,
+            "combined": 10.106108665466309
+          }
+        },
+        {
+          "doc_id": "Luật Giá_58",
+          "law_id": "Luật Giá",
+          "article_id": "58",
+          "score": 8.893028259277344,
+          "stage_scores": {
+            "bm25": 27.99032469247709,
+            "bert": 0.708472728729248,
+            "combined": 8.893028259277344
+          }
+        },
+        {
+          "doc_id": "Luật Nhà ở_194",
+          "law_id": "Luật Nhà ở",
+          "article_id": "194",
+          "score": 8.389847755432129,
+          "stage_scores": {
+            "bm25": 26.44727991029154,
+            "bert": 0.6509478092193604,
+            "combined": 8.389847755432129
+          }
+        },
+        {
+          "doc_id": "Luật Viễn thông_52",
+          "law_id": "Luật Viễn thông",
+          "article_id": "52",
+          "score": 8.203328132629395,
+          "stage_scores": {
+            "bm25": 25.975095181077627,
+            "bert": 0.5868561267852783,
+            "combined": 8.203328132629395
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "3"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.25
+      },
+      "processing_time": 1.026376724243164,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_643",
+      "question_type": "Đúng/Sai",
+      "question_text": "Người bị tuyên bố là đã chết mà còn sống có quyền yêu cầu những người đã nhận tài sản thừa kế trả lại tài sản, giá trị tài sản được thừa kế, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Bộ luật dân sự_73",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "73",
+          "score": 19.974660873413086,
+          "stage_scores": {
+            "bm25": 65.24643542563513,
+            "bert": 0.572471022605896,
+            "combined": 19.974660873413086
+          }
+        },
+        {
+          "doc_id": "Luật Hôn nhân và gia đình_66",
+          "law_id": "Luật Hôn nhân và gia đình",
+          "article_id": "66",
+          "score": 15.29085922241211,
+          "stage_scores": {
+            "bm25": 49.601665934917264,
+            "bert": 0.5862271785736084,
+            "combined": 15.29085922241211
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_615",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "615",
+          "score": 13.760041236877441,
+          "stage_scores": {
+            "bm25": 44.677152930896796,
+            "bert": 0.5098511576652527,
+            "combined": 13.760041236877441
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_72",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "72",
+          "score": 13.274574279785156,
+          "stage_scores": {
+            "bm25": 43.16582413692424,
+            "bert": 0.4640388488769531,
+            "combined": 13.274574279785156
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_611",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "611",
+          "score": 12.787786483764648,
+          "stage_scores": {
+            "bm25": 41.153229473519715,
+            "bert": 0.6311678886413574,
+            "combined": 12.787786483764648
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Bộ luật dân sự",
+          "article_id": "73"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2459016393442623
+      },
+      "processing_time": 0.7569332122802734,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_540",
+      "question_type": "Đúng/Sai",
+      "question_text": "Chủ sở hữu phim phải có nghĩa vụ mở mã khóa phim để đối chiếu, kiểm tra khi có yêu cầu của cơ quan nhà nước có thẩm quyền là đúng hay sai",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Điện ảnh_36",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "36",
+          "score": 15.560232162475586,
+          "stage_scores": {
+            "bm25": 50.57614417210668,
+            "bert": 0.553412914276123,
+            "combined": 15.560232162475586
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_33",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "33",
+          "score": 8.674450874328613,
+          "stage_scores": {
+            "bm25": 27.563016789588687,
+            "bert": 0.579351544380188,
+            "combined": 8.674450874328613
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_339",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "339",
+          "score": 5.672294616699219,
+          "stage_scores": {
+            "bm25": 17.786378260382712,
+            "bert": 0.4805438816547394,
+            "combined": 5.672294616699219
+          }
+        },
+        {
+          "doc_id": "Luật Khám bệnh, chữa bệnh_63",
+          "law_id": "Luật Khám bệnh, chữa bệnh",
+          "article_id": "63",
+          "score": 5.045753479003906,
+          "stage_scores": {
+            "bm25": 15.578327865581377,
+            "bert": 0.5317935347557068,
+            "combined": 5.045753479003906
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_338",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "338",
+          "score": 4.747686862945557,
+          "stage_scores": {
+            "bm25": 15.110198034437708,
+            "bert": 0.30661043524742126,
+            "combined": 4.747686862945557
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Điện ảnh",
+          "article_id": "35"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.25806451612903225
+      },
+      "processing_time": 0.7469935417175293,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_558",
+      "question_type": "Đúng/Sai",
+      "question_text": "Tổ chức, cá nhân nước ngoài tham gia hoạt động điện ảnh tại Việt Nam không thuộc đối tượng áp dụng của Luật điện ảnh là đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Điện ảnh_2",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "2",
+          "score": 12.322931289672852,
+          "stage_scores": {
+            "bm25": 39.50290926772158,
+            "bert": 0.6743684411048889,
+            "combined": 12.322931289672852
+          }
+        },
+        {
+          "doc_id": "Luật Viễn thông_2",
+          "law_id": "Luật Viễn thông",
+          "article_id": "2",
+          "score": 8.47922420501709,
+          "stage_scores": {
+            "bm25": 26.38747651831872,
+            "bert": 0.8042584657669067,
+            "combined": 8.47922420501709
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_8",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "8",
+          "score": 7.645139217376709,
+          "stage_scores": {
+            "bm25": 23.98422056192221,
+            "bert": 0.6426755785942078,
+            "combined": 7.645139217376709
+          }
+        },
+        {
+          "doc_id": "Luật Du lịch_2",
+          "law_id": "Luật Du lịch",
+          "article_id": "2",
+          "score": 7.431002616882324,
+          "stage_scores": {
+            "bm25": 23.34736130181201,
+            "bert": 0.6097058057785034,
+            "combined": 7.431002616882324
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_5",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "5",
+          "score": 7.385207176208496,
+          "stage_scores": {
+            "bm25": 23.13171323187599,
+            "bert": 0.6367042064666748,
+            "combined": 7.385207176208496
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Điện ảnh",
+          "article_id": "2"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.25396825396825395
+      },
+      "processing_time": 0.5790581703186035,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_532",
+      "question_type": "Đúng/Sai",
+      "question_text": "Trách nhiệm của cơ quan Mặt Trận Tổ Quốc Việt Nam trong việc phòng, chống ma túy là phòng ngừa, và ngăn chặn người của tổ chức mình và mọi công dân vi phạm luật phòng, chống ma túy, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Phòng, chống ma túy_10",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "10",
+          "score": 24.766014099121094,
+          "stage_scores": {
+            "bm25": 81.40411535814732,
+            "bert": 0.4925418496131897,
+            "combined": 24.766014099121094
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_11",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "11",
+          "score": 21.693628311157227,
+          "stage_scores": {
+            "bm25": 70.82093554406804,
+            "bert": 0.6390693187713623,
+            "combined": 21.693628311157227
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_44",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "44",
+          "score": 19.269691467285156,
+          "stage_scores": {
+            "bm25": 62.74877643347294,
+            "bert": 0.6357989311218262,
+            "combined": 19.269691467285156
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_8",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "8",
+          "score": 19.067546844482422,
+          "stage_scores": {
+            "bm25": 62.48093891544428,
+            "bert": 0.4618070721626282,
+            "combined": 19.067546844482422
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_45",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "45",
+          "score": 18.424297332763672,
+          "stage_scores": {
+            "bm25": 60.1030278255867,
+            "bert": 0.561983585357666,
+            "combined": 18.424297332763672
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "10"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.265625
+      },
+      "processing_time": 0.7619342803955078,
+      "answer_confidence": 0.7
+    },
+    {
+      "question_id": "train_alqac25_410",
+      "question_type": "Đúng/Sai",
+      "question_text": "Thành phố Hải Phòng có 1 khu vực đất có nguy cơ ô nhiễm. Theo quy định của pháp luật, khu vực này phải được theo dõi và giám sát. Đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Bảo vệ môi trường_17",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "17",
+          "score": 11.865489959716797,
+          "stage_scores": {
+            "bm25": 37.928113991243535,
+            "bert": 0.6957945823669434,
+            "combined": 11.865489959716797
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_19",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "19",
+          "score": 10.178569793701172,
+          "stage_scores": {
+            "bm25": 32.41761750396942,
+            "bert": 0.6475496292114258,
+            "combined": 10.178569793701172
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_16",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "16",
+          "score": 8.827909469604492,
+          "stage_scores": {
+            "bm25": 27.755725387906043,
+            "bert": 0.7159884572029114,
+            "combined": 8.827909469604492
+          }
+        },
+        {
+          "doc_id": "Luật Tài nguyên nước_26",
+          "law_id": "Luật Tài nguyên nước",
+          "article_id": "26",
+          "score": 8.238456726074219,
+          "stage_scores": {
+            "bm25": 25.97066013483297,
+            "bert": 0.6389400362968445,
+            "combined": 8.238456726074219
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ môi trường_28",
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "28",
+          "score": 8.01862621307373,
+          "stage_scores": {
+            "bm25": 25.222279198921687,
+            "bert": 0.6456325650215149,
+            "combined": 8.01862621307373
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Bảo vệ môi trường",
+          "article_id": "17"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.27692307692307694
+      },
+      "processing_time": 0.6883304119110107,
+      "answer_confidence": 0.6206896551724138
+    },
+    {
+      "question_id": "train_alqac25_458",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Đối với vụ tranh chấp được giải quyết tại Trung tâm trọng tài, nếu các bên không có thoả thuận khác hoặc quy tắc tố tụng của Trung tâm trọng tài không có quy định khác thì kể từ ngày nhận được đơn khởi kiện và các tài liệu kèm theo, bị đơn phải gửi cho trung tâm trọng tài bản tự bảo vệ trong bao nhiêu ngày?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "C",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trọng tài thương mại_35",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "35",
+          "score": 42.0314826965332,
+          "stage_scores": {
+            "bm25": 138.47161488321382,
+            "bert": 0.699999213218689,
+            "combined": 42.0314826965332
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_32",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "32",
+          "score": 35.9660758972168,
+          "stage_scores": {
+            "bm25": 117.90914887227734,
+            "bert": 0.8476172685623169,
+            "combined": 35.9660758972168
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_40",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "40",
+          "score": 35.871822357177734,
+          "stage_scores": {
+            "bm25": 118.19702592551948,
+            "bert": 0.5895942449569702,
+            "combined": 35.871822357177734
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_36",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "36",
+          "score": 35.7380485534668,
+          "stage_scores": {
+            "bm25": 117.41608359661025,
+            "bert": 0.7331739068031311,
+            "combined": 35.7380485534668
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_30",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "30",
+          "score": 31.12249755859375,
+          "stage_scores": {
+            "bm25": 102.77168295115258,
+            "bert": 0.4157029092311859,
+            "combined": 31.12249755859375
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "35"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2727272727272727
+      },
+      "processing_time": 0.6968710422515869,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_469",
+      "question_type": "Tự luận",
+      "question_text": "Chi phí cho người làm chứng được bên nào chi trả theo quy định của luật trọng tài thương mại?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "Bên yêu cầu triệu tập người làm chứng hoặc hội đồng trọng tài phân bổ.",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tố tụng hành chính_352",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "352",
+          "score": 6.804386615753174,
+          "stage_scores": {
+            "bm25": 21.81234424385775,
+            "bert": 0.3724049925804138,
+            "combined": 6.804386615753174
+          }
+        },
+        {
+          "doc_id": "Luật Khám bệnh, chữa bệnh_18",
+          "law_id": "Luật Khám bệnh, chữa bệnh",
+          "article_id": "18",
+          "score": 6.165641784667969,
+          "stage_scores": {
+            "bm25": 19.136203102728974,
+            "bert": 0.6068297624588013,
+            "combined": 6.165641784667969
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_47",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "47",
+          "score": 6.106856346130371,
+          "stage_scores": {
+            "bm25": 18.830417192754176,
+            "bert": 0.6539020538330078,
+            "combined": 6.106856346130371
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_368",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "368",
+          "score": 5.8917388916015625,
+          "stage_scores": {
+            "bm25": 18.34754064014784,
+            "bert": 0.5535386800765991,
+            "combined": 5.8917388916015625
+          }
+        },
+        {
+          "doc_id": "Luật Tố tụng hành chính_370",
+          "law_id": "Luật Tố tụng hành chính",
+          "article_id": "370",
+          "score": 5.806372165679932,
+          "stage_scores": {
+            "bm25": 17.66645228337041,
+            "bert": 0.7234805822372437,
+            "combined": 5.806372165679932
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "47"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.26865671641791045
+      },
+      "processing_time": 0.45047807693481445,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_67",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Đơn vị nào có thẩm quyền cấp giấy phép phân loại phim?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Điện ảnh_29",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "29",
+          "score": 9.88399600982666,
+          "stage_scores": {
+            "bm25": 31.71491330361804,
+            "bert": 0.5278881788253784,
+            "combined": 9.88399600982666
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_28",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "28",
+          "score": 9.572175979614258,
+          "stage_scores": {
+            "bm25": 30.776136601256205,
+            "bert": 0.48476481437683105,
+            "combined": 9.572175979614258
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_27",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "27",
+          "score": 9.367045402526855,
+          "stage_scores": {
+            "bm25": 29.96703681555735,
+            "bert": 0.5384770631790161,
+            "combined": 9.367045402526855
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_34",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "34",
+          "score": 8.92063045501709,
+          "stage_scores": {
+            "bm25": 28.626230164476315,
+            "bert": 0.47537365555763245,
+            "combined": 8.92063045501709
+          }
+        },
+        {
+          "doc_id": "Luật Điện ảnh_31",
+          "law_id": "Luật Điện ảnh",
+          "article_id": "31",
+          "score": 8.904206275939941,
+          "stage_scores": {
+            "bm25": 28.540555834720983,
+            "bert": 0.4886268377304077,
+            "combined": 8.904206275939941
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Điện ảnh",
+          "article_id": "27"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2647058823529412
+      },
+      "processing_time": 0.5694773197174072,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_74",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Điều nào dưới đây nằm trong luật áp dụng giải quyết tranh chấp được quy định trong Luật Trọng tài thương mại?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Trọng tài thương mại_49",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "49",
+          "score": 7.019486427307129,
+          "stage_scores": {
+            "bm25": 21.761539449491377,
+            "bert": 0.7014636993408203,
+            "combined": 7.019486427307129
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_2",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "2",
+          "score": 6.838902473449707,
+          "stage_scores": {
+            "bm25": 21.15314409568515,
+            "bert": 0.7042270302772522,
+            "combined": 6.838902473449707
+          }
+        },
+        {
+          "doc_id": "Luật Nhà ở_194",
+          "law_id": "Luật Nhà ở",
+          "article_id": "194",
+          "score": 6.525447368621826,
+          "stage_scores": {
+            "bm25": 20.308920350598175,
+            "bert": 0.6182442903518677,
+            "combined": 6.525447368621826
+          }
+        },
+        {
+          "doc_id": "Luật Trọng tài thương mại_3",
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "3",
+          "score": 6.473308086395264,
+          "stage_scores": {
+            "bm25": 20.11663915452264,
+            "bert": 0.6261664032936096,
+            "combined": 6.473308086395264
+          }
+        },
+        {
+          "doc_id": "Luật Bảo vệ quyền lợi người tiêu dùng_68",
+          "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+          "article_id": "68",
+          "score": 6.414743423461914,
+          "stage_scores": {
+            "bm25": 19.652011754238213,
+            "bert": 0.7416285872459412,
+            "combined": 6.414743423461914
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Trọng tài thương mại",
+          "article_id": "14"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f2": 0.0
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2608695652173913
+      },
+      "processing_time": 0.5976059436798096,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_490",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Nội dung hợp tác quốc tế về an ninh mạng không bao gồm điều nào sau đây?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật An ninh mạng_7",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "7",
+          "score": 9.22002124786377,
+          "stage_scores": {
+            "bm25": 29.207722281075732,
+            "bert": 0.6538634300231934,
+            "combined": 9.22002124786377
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_32",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "32",
+          "score": 6.796516418457031,
+          "stage_scores": {
+            "bm25": 21.460533618249144,
+            "bert": 0.5119376182556152,
+            "combined": 6.796516418457031
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_3",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "3",
+          "score": 6.503169059753418,
+          "stage_scores": {
+            "bm25": 20.273211244302257,
+            "bert": 0.6017224788665771,
+            "combined": 6.503169059753418
+          }
+        },
+        {
+          "doc_id": "Luật Thanh niên_8",
+          "law_id": "Luật Thanh niên",
+          "article_id": "8",
+          "score": 6.100349426269531,
+          "stage_scores": {
+            "bm25": 19.44483701086903,
+            "bert": 0.38128337264060974,
+            "combined": 6.100349426269531
+          }
+        },
+        {
+          "doc_id": "Luật Trồng trọt_7",
+          "law_id": "Luật Trồng trọt",
+          "article_id": "7",
+          "score": 5.824836730957031,
+          "stage_scores": {
+            "bm25": 17.88171905978627,
+            "bert": 0.6576016545295715,
+            "combined": 5.824836730957031
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật An ninh mạng",
+          "article_id": "7"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2571428571428571
+      },
+      "processing_time": 0.93259596824646,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_368",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Trong trường hợp nào, người đứng đầu cơ quan nhà nước không cần có sự đồng ý để cung cấp thông tin liên quan đến bí mật kinh doanh, đời sống riêng tư, bí mật cá nhân, bí mật gia đình?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "B",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_7",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7",
+          "score": 27.748476028442383,
+          "stage_scores": {
+            "bm25": 91.67775372790605,
+            "bert": 0.350212424993515,
+            "combined": 27.748476028442383
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_38",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "38",
+          "score": 21.337615966796875,
+          "stage_scores": {
+            "bm25": 70.24603830312181,
+            "bert": 0.37686440348625183,
+            "combined": 21.337615966796875
+          }
+        },
+        {
+          "doc_id": "Luật An ninh mạng_17",
+          "law_id": "Luật An ninh mạng",
+          "article_id": "17",
+          "score": 20.560976028442383,
+          "stage_scores": {
+            "bm25": 66.97534311381919,
+            "bert": 0.6691046953201294,
+            "combined": 20.560976028442383
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_21",
+          "law_id": "Hiến pháp",
+          "article_id": "21",
+          "score": 18.648591995239258,
+          "stage_scores": {
+            "bm25": 61.41313057141182,
+            "bert": 0.3209328055381775,
+            "combined": 18.648591995239258
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_23",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "23",
+          "score": 17.199913024902344,
+          "stage_scores": {
+            "bm25": 55.79105765022428,
+            "bert": 0.6608492136001587,
+            "combined": 17.199913024902344
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2535211267605634
+      },
+      "processing_time": 0.758805513381958,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_365",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Ai có quyền quyết định cung cấp thông tin liên quan đến bí mật gia đình trong trường hợp cần thiết vì lợi ích công cộng?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "B",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_7",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7",
+          "score": 12.235310554504395,
+          "stage_scores": {
+            "bm25": 40.13185770119234,
+            "bert": 0.2796477973461151,
+            "combined": 12.235310554504395
+          }
+        },
+        {
+          "doc_id": "Hiến pháp_21",
+          "law_id": "Hiến pháp",
+          "article_id": "21",
+          "score": 8.0960693359375,
+          "stage_scores": {
+            "bm25": 26.232399293739128,
+            "bert": 0.32335585355758667,
+            "combined": 8.0960693359375
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_23",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "23",
+          "score": 7.7503509521484375,
+          "stage_scores": {
+            "bm25": 24.370985879863706,
+            "bert": 0.6272217035293579,
+            "combined": 7.7503509521484375
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_163",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "163",
+          "score": 7.200194358825684,
+          "stage_scores": {
+            "bm25": 22.809592947803207,
+            "bert": 0.5104517936706543,
+            "combined": 7.200194358825684
+          }
+        },
+        {
+          "doc_id": "Bộ luật dân sự_38",
+          "law_id": "Bộ luật dân sự",
+          "article_id": "38",
+          "score": 6.7345662117004395,
+          "stage_scores": {
+            "bm25": 21.699140305744823,
+            "bert": 0.32117724418640137,
+            "combined": 6.7345662117004395
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.25
+      },
+      "processing_time": 0.7342209815979004,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_86",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Cơ sở cai nghiện ma túy công lập phải bố trí các khu gì?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "D",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Phòng, chống ma túy_35",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "35",
+          "score": 16.114137649536133,
+          "stage_scores": {
+            "bm25": 52.13338768727752,
+            "bert": 0.677315354347229,
+            "combined": 16.114137649536133
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_28",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "28",
+          "score": 13.14870548248291,
+          "stage_scores": {
+            "bm25": 42.282222409031405,
+            "bert": 0.6629120707511902,
+            "combined": 13.14870548248291
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_47",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "47",
+          "score": 12.098416328430176,
+          "stage_scores": {
+            "bm25": 38.786219628260625,
+            "bert": 0.6607853770256042,
+            "combined": 12.098416328430176
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_31",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "31",
+          "score": 11.9815034866333,
+          "stage_scores": {
+            "bm25": 38.34454496244545,
+            "bert": 0.6830567121505737,
+            "combined": 11.9815034866333
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_36",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "36",
+          "score": 11.461872100830078,
+          "stage_scores": {
+            "bm25": 36.73064396990361,
+            "bert": 0.6323977708816528,
+            "combined": 11.461872100830078
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "35"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.2465753424657534
+      },
+      "processing_time": 1.0322818756103516,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_93",
+      "question_type": "Tự luận",
+      "question_text": "Thời hạn quản lý người sử dụng trái phép chất ma túy là bao lâu kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã, phường ra quyết định quản lý?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "1 năm",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Phòng, chống ma túy_23",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "23",
+          "score": 23.50544548034668,
+          "stage_scores": {
+            "bm25": 76.80313745761019,
+            "bert": 0.6635780930519104,
+            "combined": 23.50544548034668
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_26",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "26",
+          "score": 19.520566940307617,
+          "stage_scores": {
+            "bm25": 63.563596278504875,
+            "bert": 0.6449840664863586,
+            "combined": 19.520566940307617
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_22",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "22",
+          "score": 17.4856014251709,
+          "stage_scores": {
+            "bm25": 56.68394875796975,
+            "bert": 0.686309278011322,
+            "combined": 17.4856014251709
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_43",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "43",
+          "score": 16.2330265045166,
+          "stage_scores": {
+            "bm25": 52.55037235614882,
+            "bert": 0.6684494614601135,
+            "combined": 16.2330265045166
+          }
+        },
+        {
+          "doc_id": "Luật Phòng, chống ma túy_27",
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "27",
+          "score": 16.056791305541992,
+          "stage_scores": {
+            "bm25": 51.95543344756152,
+            "bert": 0.6716594696044922,
+            "combined": 16.056791305541992
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Phòng, chống ma túy",
+          "article_id": "23"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.24324324324324326
+      },
+      "processing_time": 1.3426945209503174,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_307",
+      "question_type": "Đúng/Sai",
+      "question_text": "Luật Tiếp cận thông tin áp dụng cho một số công dân, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Sai",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_16",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "16",
+          "score": 7.457180976867676,
+          "stage_scores": {
+            "bm25": 23.50416669381537,
+            "bert": 0.5799012780189514,
+            "combined": 7.457180976867676
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_5",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "5",
+          "score": 6.945878028869629,
+          "stage_scores": {
+            "bm25": 21.50227056319535,
+            "bert": 0.7074239253997803,
+            "combined": 6.945878028869629
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_3",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "3",
+          "score": 6.830787658691406,
+          "stage_scores": {
+            "bm25": 21.08061613797561,
+            "bert": 0.723718523979187,
+            "combined": 6.830787658691406
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_1",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "1",
+          "score": 6.615040302276611,
+          "stage_scores": {
+            "bm25": 20.21586759920421,
+            "bert": 0.7861141562461853,
+            "combined": 6.615040302276611
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_13",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "13",
+          "score": 6.568946361541748,
+          "stage_scores": {
+            "bm25": 20.500572600251544,
+            "bert": 0.5982491374015808,
+            "combined": 6.568946361541748
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "1"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.24
+      },
+      "processing_time": 0.6291921138763428,
+      "answer_confidence": 0.6
+    },
+    {
+      "question_id": "train_alqac25_358",
+      "question_type": "Trắc nghiệm",
+      "question_text": "Công dân có quyền tiếp cận thông tin thuộc bí mật nhà nước ngay lập tức sau khi thông tin được giải mật?",
+      "predicted_answer": "Cần thêm thông tin để trả lời",
+      "ground_truth_answer": "A",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Tiếp cận thông tin_6",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "6",
+          "score": 13.334811210632324,
+          "stage_scores": {
+            "bm25": 43.51686867905275,
+            "bert": 0.3996444344520569,
+            "combined": 13.334811210632324
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_7",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "7",
+          "score": 9.520442962646484,
+          "stage_scores": {
+            "bm25": 31.061168950529403,
+            "bert": 0.2887028157711029,
+            "combined": 9.520442962646484
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_1",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "1",
+          "score": 8.418256759643555,
+          "stage_scores": {
+            "bm25": 26.28202660408502,
+            "bert": 0.7623554468154907,
+            "combined": 8.418256759643555
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_5",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "5",
+          "score": 8.408524513244629,
+          "stage_scores": {
+            "bm25": 26.369670000842646,
+            "bert": 0.7108907699584961,
+            "combined": 8.408524513244629
+          }
+        },
+        {
+          "doc_id": "Luật Tiếp cận thông tin_35",
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "35",
+          "score": 8.253660202026367,
+          "stage_scores": {
+            "bm25": 26.434926284255788,
+            "bert": 0.4616888165473938,
+            "combined": 8.253660202026367
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Tiếp cận thông tin",
+          "article_id": "6"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": false,
+        "accuracy": 0.23684210526315788
+      },
+      "processing_time": 0.58846116065979,
+      "answer_confidence": 0.3
+    },
+    {
+      "question_id": "train_alqac25_557",
+      "question_type": "Đúng/Sai",
+      "question_text": "Cơ quan đăng ký cư trú có trách nhiệm quản lý, lưu trữ hồ sơ, giấy tờ, tài liệu về đăng ký, quản lý cư trú và bảo mật thông tin về đăng ký cư trú của công dân, đúng hay sai?",
+      "predicted_answer": "Đúng",
+      "ground_truth_answer": "Đúng",
+      "retrieved_documents": [
+        {
+          "doc_id": "Luật Cư trú_33",
+          "law_id": "Luật Cư trú",
+          "article_id": "33",
+          "score": 23.543062210083008,
+          "stage_scores": {
+            "bm25": 76.78760138770247,
+            "bert": 0.7239755392074585,
+            "combined": 23.543062210083008
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_7",
+          "law_id": "Luật Cư trú",
+          "article_id": "7",
+          "score": 22.890281677246094,
+          "stage_scores": {
+            "bm25": 74.76116439476338,
+            "bert": 0.6599032282829285,
+            "combined": 22.890281677246094
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_9",
+          "law_id": "Luật Cư trú",
+          "article_id": "9",
+          "score": 18.838294982910156,
+          "stage_scores": {
+            "bm25": 61.21529996669573,
+            "bert": 0.6767222881317139,
+            "combined": 18.838294982910156
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_26",
+          "law_id": "Luật Cư trú",
+          "article_id": "26",
+          "score": 18.57210922241211,
+          "stage_scores": {
+            "bm25": 60.258954827052186,
+            "bert": 0.7063198089599609,
+            "combined": 18.57210922241211
+          }
+        },
+        {
+          "doc_id": "Luật Cư trú_28",
+          "law_id": "Luật Cư trú",
+          "article_id": "28",
+          "score": 18.007339477539062,
+          "stage_scores": {
+            "bm25": 58.436049592766,
+            "bert": 0.6807490587234497,
+            "combined": 18.007339477539062
+          }
+        }
+      ],
+      "relevant_articles": [
+        {
+          "law_id": "Luật Cư trú",
+          "article_id": "33"
+        }
+      ],
+      "task1_metrics": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f2": 0.5555555555555556
+      },
+      "task2_metrics": {
+        "correct": true,
+        "accuracy": 0.24675324675324675
+      },
+      "processing_time": 0.7518303394317627,
+      "answer_confidence": 0.7
+    }
+  ],
+  "config": {
+    "bm25_k1": 2,
+    "bm25_b": 0.75,
+    "bm25_top_k": 5,
+    "bert_model": "vinai/phobert-base",
+    "bert_top_k": 5,
+    "bert_alpha": 0.3,
+    "device": "cpu",
+    "llm_api_key": null,
+    "llm_model": "llama3.2-7b-instruct",
+    "llm_local_model_dir": "./finetune_standard"
+  },
+  "timestamp": "2025-07-12 12:45:03"
+}
