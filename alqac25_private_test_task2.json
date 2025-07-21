@@ -1,0 +1,1268 @@
+[
+    {
+        "question_id": "private_test_alquac25_1",
+        "question_type": "Đúng/Sai",
+        "text": "Hợp đồng điện tử được ký kết giữa hai hệ thống thông tin tự động mà không có sự can thiệp của con người sẽ không có giá trị pháp lý trong mọi trường hợp.",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giao dịch điện tử",
+                "article_id": "34"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_2",
+        "question_type": "Trắc nghiệm",
+        "text": "Khi nào áp dụng Luật Giao dịch điện tử 2023?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giao dịch điện tử",
+                "article_id": "52"
+            }
+        ],
+        "choices": {
+            "A": "ngày 01 tháng 01 năm 2023",
+            "B": "ngày 01 tháng 01 năm 2024",
+            "C": "ngày 01 tháng 06 năm 2024",
+            "D": "ngày 01 tháng 07 năm 2024"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_3",
+        "question_type": "Trắc nghiệm",
+        "text": "Các loại hình giao dịch điện tử của cơ quan nhà nước",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giao dịch điện tử",
+                "article_id": "39"
+            }
+        ],
+        "choices": {
+            "A": "nội bộ cơ quan nhà nước",
+            "B": "cơ quan nhà nước thực hiện giao dịch điện tử với nhau",
+            "C": "giao dịch điện tử với cá nhân",
+            "D": "cả ba đáp án đều đúng"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_4",
+        "question_type": "Trắc nghiệm",
+        "text": "yếu tố nào không phải là tiêu chí để phân loại hệ thống thông tin phục vụ giao dịch điện tử?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giao dịch điện tử",
+                "article_id": "45"
+            }
+        ],
+        "choices": {
+            "A": "Chủ quản hệ thống thông tin",
+            "B": "Số lượng người dùng quốc tế",
+            "C": "Tính năng của hệ thống",
+            "D": "Số lượng truy cập hàng tháng từ người sử dụng tại Việt Nam"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_5",
+        "question_type": "Trắc nghiệm",
+        "text": "Đơn vị nào có trách nhiệm xây dựng và vận hành hệ thống tiếp nhận, tổng hợp dữ liệu phục vụ quản lý nhà nước về giao dịch điện tử?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giao dịch điện tử",
+                "article_id": "48"
+            }
+        ],
+        "choices": {
+            "A": "Bộ Tư pháp",
+            "B": "Văn phòng Chính phủ",
+            "C": "Bộ Công an",
+            "D": "Bộ Thông tin và Truyền thông"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_6",
+        "question_type": "Trắc nghiệm",
+        "text": "Cơ quan, tổ chức, cá nhân khi sử dụng dữ liệu mở của cơ quan nhà nước vào mục đích thương mại, có nghĩa vụ nào dưới đây",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giao dịch điện tử",
+                "article_id": "43"
+            }
+        ],
+        "choices": {
+            "A": "Phải xin phép bằng văn bản của cơ quan chủ quản dữ liệu",
+            "B": "Phải đăng ký giấy phép kinh doanh sử dụng dữ liệu mở",
+            "C": "Phải trích dẫn và ghi nhận nguồn dữ liệu mở đã sử dụng",
+            "D": "Không được sử dụng dữ liệu mở vào mục đích thương mại"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_7",
+        "question_type": "Trắc nghiệm",
+        "text": "Tổ chức nào dưới đây không cần giấy phép kinh doanh dịch vụ tin cậy do Bộ Thông tin và Truyền thông cấp, nhưng vẫn phải đáp ứng điều kiện hoạt động theo quy định tại Luật Giao dịch điện tử và pháp luật liên quan?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giao dịch điện tử",
+                "article_id": "28"
+            }
+        ],
+        "choices": {
+            "A": "Tổ chức cung cấp dịch vụ cấp dấu thời gian",
+            "B": "Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại",
+            "C": "Tổ chức cung cấp dịch vụ chứng thực thông điệp dữ liệu",
+            "D": "Tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_8",
+        "question_type": "Đúng/Sai",
+        "text": "Tất cả hình thức khuyến mãi rượu có độ cồn từ 17° trở lên, dù trực tuyến hay ngoại tuyến, đều bị cấm.",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống tác hại của rượu, bia",
+                "article_id": "5"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_9",
+        "question_type": "Đúng/Sai",
+        "text": "Cảnh sát giao thông có thể xử phạt người điều khiển xe đạp nếu phát hiện có nồng độ cồn.",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống tác hại của rượu, bia",
+                "article_id": "5"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_10",
+        "question_type": "Đúng/Sai",
+        "text": "Doanh nghiệp sản xuất rượu dưới 5,5° được phép quảng bá sản phẩm tại trường Tiểu học nếu được UBND cấp xã cho phép",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống tác hại của rượu, bia",
+                "article_id": "12"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_11",
+        "question_type": "Đúng/Sai",
+        "text": "Công dân có quyền phản ánh, tố cáo hành vi vi phạm pháp luật về phòng, chống tác hại của rượu, bia.",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống tác hại của rượu, bia",
+                "article_id": "4"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_12",
+        "question_type": "Trắc nghiệm",
+        "text": "Ai có quyền phản ánh, tố cáo vi phạm pháp luật về phòng, chống tác hại của rượu, bia?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống tác hại của rượu, bia",
+                "article_id": "4"
+            }
+        ],
+        "choices": {
+            "A": "Chỉ cơ quan nhà nước",
+            "B": "Chỉ cá nhân bị thiệt hại",
+            "C": "Mọi cá nhân, tổ chức",
+            "D": "Chỉ các tổ chức xã hội"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_13",
+        "question_type": "Trắc nghiệm",
+        "text": "Trong hoạt động sản xuất, kinh doanh rượu, bia, chủ thể nào bắt buộc phải thực hiện việc niêm yết thông báo không bán sản phẩm cho người chưa đủ 18 tuổi tại địa điểm giao dịch?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống tác hại của rượu, bia",
+                "article_id": "32"
+            }
+        ],
+        "choices": {
+            "A": "Các cơ sở sản xuất rượu không kinh doanh trực tiếp",
+            "B": "Các cơ sở bán rượu, bia tiêu dùng tại chỗ và bán để mang đi",
+            "C": "Các doanh nghiệp nhập khẩu rượu cho mục đích nghiên cứu khoa học",
+            "D": "Tất cả các cơ sở bán hàng qua mạng"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_14",
+        "question_type": "Trắc nghiệm",
+        "text": "Một người điều khiển xe máy trên đường sau khi đã uống bia sẽ bị xử phạt theo quy định của pháp luật. Tuy nhiên, hành vi này cũng bị xem là vi phạm theo quy định nào của luật về phòng, chống tác hại của rượu, bia?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống tác hại của rượu, bia",
+                "article_id": "5"
+            }
+        ],
+        "choices": {
+            "A": "Cấm bán bia sau 22h đêm",
+            "B": "Cấm uống rượu, bia khi tham gia giao thông",
+            "C": "Cấm tiêu thụ rượu, bia không rõ nguồn gốc",
+            "D": "Cấm uống rượu, bia tại nơi công cộng"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_15",
+        "question_type": "Trắc nghiệm",
+        "text": "Khi xây dựng chương trình tuyên truyền tại trường học, nhà trường cần đưa nội dung nào dưới đây vào để phù hợp với luật và giúp học sinh hiểu đúng về rượu, bia?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống tác hại của rượu, bia",
+                "article_id": "7"
+            }
+        ],
+        "choices": {
+            "A": "Cách thưởng thức bia rượu theo văn hoá vùng miền",
+            "B": "Các thương hiệu nổi tiếng trong ngành rượu, bia",
+            "C": "Tác hại của rượu bia và các biện phảm làm giảm tác hại của rượu bia",
+            "D": "Tất cả đều sai"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_16",
+        "question_type": "Tự luận",
+        "text": "Kinh phí cho hoạt động phòng, chống tác hại của rượu, bia có thể sử dụng từ những nguồn kinh phí nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Phòng, chống tác hại của rượu, bia",
+                "article_id": "26"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_17",
+        "question_type": "Đúng/Sai",
+        "text": "Nhà nước chỉ khuyến khích các tổ chức, cá nhân tham gia phát triển nhà ở để bán, không khuyến khích cho thuê.",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Nhà ở",
+                "article_id": "4"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_18",
+        "question_type": "Đúng/Sai",
+        "text": "Việc quản lý, sử dụng nhà ở phải đáp ứng các điều kiện về phòng cháy, chữa cháy, vệ sinh, môi trường, an ninh, trật tự, an toàn xã hội.",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Nhà ở",
+                "article_id": "5"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_19",
+        "question_type": "Trắc nghiệm",
+        "text": "Yêu cầu chung về phát triển nhà ở là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Nhà ở",
+                "article_id": "5"
+            }
+        ],
+        "choices": {
+            "A": "Chỉ cần phù hợp với nhu cầu của các đối tượng, không cần quan tâm đến điều kiện kinh tế - xã hội.",
+            "B": "Phải phù hợp với Chiến lược phát triển nhà ở quốc gia và bảo đảm đồng bộ về hạ tầng kỹ thuật và hạ tầng xã hội.",
+            "C": "Chủ yếu tập trung vào việc tăng cường công tác quản lý xây dựng nhà ở, không cần quan tâm đến quy hoạch.",
+            "D": "Chỉ cần tuân thủ quy định về chất lượng xây dựng, không cần đáp ứng yêu cầu về phòng cháy, chữa cháy."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_20",
+        "question_type": "Trắc nghiệm",
+        "text": "Tại các khu vực đô thị loại I, tại các phường, quận, thành phố thuộc đô thị loại đặc biệt, việc phát triển nhà ở chủ yếu được thực hiện theo hình thức nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Nhà ở",
+                "article_id": "5"
+            }
+        ],
+        "choices": {
+            "A": "Chủ yếu phát triển nhà ở riêng lẻ, biệt thự.",
+            "B": "Chủ yếu phát triển nhà chung cư.",
+            "C": "Chủ yếu phân lô bán nền để cá nhân tự xây dựng.",
+            "D": "Chủ yếu là nhà ở xã hội."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_21",
+        "question_type": "Trắc nghiệm",
+        "text": "Trường hợp mua bán nhà ở có thời hạn, bên mua nhà ở sẽ được cấp Giấy chứng nhận như thế nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Nhà ở",
+                "article_id": "9"
+            }
+        ],
+        "choices": {
+            "A": "Không được cấp Giấy chứng nhận cho đến khi hết thời hạn sở hữu.",
+            "B": "Được cấp Giấy chứng nhận vĩnh viễn không phụ thuộc thời hạn sở hữu.",
+            "C": "Được cấp Giấy chứng nhận trong thời hạn sở hữu theo thỏa thuận.",
+            "D": "Được cấp Giấy chứng nhận nhưng phải thông qua Tòa án."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_22",
+        "question_type": "Trắc nghiệm",
+        "text": "Cơ quan có thẩm quyền cấp Giấy chứng nhận phải ghi rõ những thông tin nào đối với nhà ở là căn hộ chung cư?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Nhà ở",
+                "article_id": "9"
+            }
+        ],
+        "choices": {
+            "A": "Chỉ ghi rõ loại nhà ở và cấp nhà ở.",
+            "B": "Phải ghi rõ diện tích sàn xây dựng và diện tích sử dụng căn hộ.",
+            "C": "Chỉ cần ghi tên dự án đầu tư xây dựng nhà ở.",
+            "D": "Không cần ghi chi tiết diện tích sàn xây dựng và diện tích sử dụng."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_23",
+        "question_type": "Trắc nghiệm",
+        "text": "Đối với nhà ở được đầu tư xây dựng theo dự án để bán, cho thuê mua, việc cấp Giấy chứng nhận được thực hiện như thế nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Nhà ở",
+                "article_id": "9"
+            }
+        ],
+        "choices": {
+            "A": "Luôn cấp Giấy chứng nhận cho chủ đầu tư dự án.",
+            "B": "Không cấp Giấy chứng nhận cho chủ đầu tư mà cấp cho người mua, thuê mua nhà ở.",
+            "C": "Chỉ cấp Giấy chứng nhận cho chủ đầu tư nếu họ có nhu cầu.",
+            "D": "Việc cấp Giấy chứng nhận do người mua tự đăng ký sau khi hoàn thành thanh toán."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_24",
+        "question_type": "Trắc nghiệm",
+        "text": "“Chăn nuôi nông hộ” là hình thức chăn nuôi:",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Chăn nuôi",
+                "article_id": "2"
+            }
+        ],
+        "choices": {
+            "A": "Do doanh nghiệp thực hiện với quy mô nhỏ",
+            "B": " Do hợp tác xã tổ chức trên đất công",
+            "C": "Do hộ gia đình thực hiện, quy mô nhỏ, chủ yếu bằng lao động thủ công",
+            "D": "Do tổ chức nước ngoài thực hiện tại Việt Nam"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_25",
+        "question_type": "Trắc nghiệm",
+        "text": "Hành vi nào sau đây bị nghiêm cấm theo quy định của Luật Chăn nuôi 2018?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Chăn nuôi",
+                "article_id": "3"
+            }
+        ],
+        "choices": {
+            "A": "Sử dụng men vi sinh trong thức ăn chăn nuôi",
+            "B": "Chăn nuôi trong khu vực quy hoạch",
+            "C": "Sử dụng chất cấm trong chăn nuôi",
+            "D": "Nhập khẩu giống vật nuôi quý hiếm theo giấy phép"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_26",
+        "question_type": "Trắc nghiệm",
+        "text": "Hành vi nào được phép theo Luật Chăn nuôi 2018?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Chăn nuôi",
+                "article_id": "34"
+            }
+        ],
+        "choices": {
+            "A": "Sử dụng kháng sinh làm chất kích thích sinh trưởng",
+            "B": "Dùng chất tạo màu hóa học không rõ nguồn gốc",
+            "C": "Ghi sai ngày sản xuất để tăng hạn sử dụng",
+            "D": "Sử dụng phụ gia có trong danh mục được phép"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_27",
+        "question_type": "Trắc nghiệm",
+        "text": "Thức ăn chăn nuôi có chứa kháng sinh phải ghi rõ:",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Chăn nuôi",
+                "article_id": "45"
+            }
+        ],
+        "choices": {
+            "A": "Tên thương hiệu kháng sinh",
+            "B": "Liều lượng và thời gian ngừng sử dụng",
+            "C": "Tác dụng phụ của kháng sinh",
+            "D": "Cơ sở y tế đã kê toa"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_28",
+        "question_type": "Trắc nghiệm",
+        "text": "Danh mục giống vật nuôi cấm xuất khẩu do cơ quan nào ban hành?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Chăn nuôi",
+                "article_id": "19"
+            }
+        ],
+        "choices": {
+            "A": "Bộ Nông nghiệp và Phát triển nông thôn",
+            "B": "Chính phủ",
+            "C": "Quốc hội",
+            "D": "Ủy ban nhân dân cấp tỉnh"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_29",
+        "question_type": "Trắc nghiệm",
+        "text": "Giống vật nuôi quý, hiếm là:",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Chăn nuôi",
+                "article_id": "2"
+            }
+        ],
+        "choices": {
+            "A": "giống vật nuôi có giá trị đặc biệt về khoa học, y tế, kinh tế mà số lượng còn ít hoặc bị đe dọa tuyệt chủng.",
+            "B": "giống vật nuôi lần đầu được tạo ra trong nước hoặc lần đầu được nhập khẩu vào Việt Nam.",
+            "C": "giống vật nuôi được hình thành và tồn tại ở địa\nbàn nhất định trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+            "D": "các loài động vật có vú, có 04 chân được con người thuần hóa và\nchăn nuôi"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_30",
+        "question_type": "Trắc nghiệm",
+        "text": "Cơ sở sản xuất, mua bán sản phẩm giống vật nuôi không có quyền sau đây",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Chăn nuôi",
+                "article_id": "22"
+            },
+            {
+                "law_id": "Luật Chăn nuôi",
+                "article_id": "25"
+            }
+        ],
+        "choices": {
+            "A": "Mua bán các giống vật nuôi không có hồ sơ giống ghi rõ tên giống, cấp giống, xuất xứ, số lượng, các chỉ tiêu kinh tế - kỹ thuật",
+            "B": "Được hưởng chính sách của Nhà nước đối với cơ sở sản xuất, mua bán sản\nphẩm giống vật nuôi",
+            "C": "Khiếu nại, tố cáo, khởi kiện liên quan đến sản xuất, mua bán sản phẩm giống vật nuôi theo quy định của pháp luật",
+            "D": "Được giữ bí mật thông tin về hoạt động sản xuất, mua bán sản phẩm giống vật nuôi, trừ trường hợp có yêu cầu của cơ quan nhà nước có thẩm quyền."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_31",
+        "question_type": "Trắc nghiệm",
+        "text": "Nguyên tắc đặt tên dòng, giống vật nuôi mới cần tuân thủ điều nào sau đây",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Chăn nuôi",
+                "article_id": "29"
+            }
+        ],
+        "choices": {
+            "A": "Trùng hoặc gây nhầm lẫn với tên dòng, giống vật nuôi đã được công nhận",
+            "B": "Chỉ bao gồm chữ số",
+            "C": "Vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của\ndân tộc",
+            "D": "không trùng với cách đọc hoặc cách viết tên của lãnh tụ, anh hùng dân tộc,\ndanh nhân"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_32",
+        "question_type": "Trắc nghiệm",
+        "text": "Hình thức nào sau đây được coi là Bán hàng trực tiếp?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+                "article_id": "3"
+            }
+        ],
+        "choices": {
+            "A": "Bán hàng đa cấp",
+            "B": "Bán hàng online",
+            "C": "Bán hàng tại chợ dân sinh",
+            "D": "Bán hàng tại trung tâm thương mại"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_33",
+        "question_type": "Trắc nghiệm",
+        "text": "Giao dịch nào sau đây được coi là giao dịch đặc thù?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+                "article_id": "3"
+            }
+        ],
+        "choices": {
+            "A": "Giao dịch từ xa",
+            "B": "Giao dịch cung cấp dịch vụ liên tục",
+            "C": "Giao dịch bán hàng trực tiếp giữa tổ chức, cá nhân kinh doanh và người tiêu dùng",
+            "D": "Tất cả các đáp án trên"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_34",
+        "question_type": "Trắc nghiệm",
+        "text": "Trách nhiệm của cá nhân tham gia bán hàng đa cấp bao gồm điều nào sau đây?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+                "article_id": "45"
+            }
+        ],
+        "choices": {
+            "A": "Thực hiện đúng quy tắc hoạt động, kế hoạch trả thưởng",
+            "B": "Xuất hóa đơn theo từng giao dịch bán hàng",
+            "C": "Xuất trình thẻ thành viên trước khi giới thiệu hoặc tiếp thị, bán hàng",
+            "D": "Niêm yết công khai các tài liệu hoạt động tại trụ sở chính, chi nhánh, văn phòng đại diện, địa điểm kinh doanh, trang thông tin điện tử, phần mềm ứng dụng (nếu có) của tổ chức bán hàng đa cấp"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_35",
+        "question_type": "Trắc nghiệm",
+        "text": "Trường hợp nào sau đây không tiếp nhận và giải quyết yêu cầu hỗ trợ thương lượng?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+                "article_id": "58"
+            }
+        ],
+        "choices": {
+            "A": "Người tiêu dùng là người chưa thành niên và có người đại diện hợp pháp",
+            "B": "Yêu cầu hỗ trợ thương lượng đã được cơ quan nhà nước có thẩm quyền, tổ chức xã hội tham gia bảo vệ quyền lợi người tiêu dùng giải quyết",
+            "C": "Người yêu cầu hỗ trợ thương lượng là người đại diện hợp pháp của người tiêu dùng",
+            "D": "Tất cả các trường hợp trên"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_36",
+        "question_type": "Tự luận",
+        "text": "Thông tin liên quan đến việc hòa giải giữa tổ chức, cá nhân kinh doanh và người tiêu dùng không phải bảo đảm nguyên tắc bí mật trong trường hợp nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+                "article_id": "62"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_37",
+        "question_type": "Trắc nghiệm",
+        "text": "Theo Điều 160 Luật Đất đai 2024, trường hợp nào dưới đây KHÔNG phải là trường hợp áp dụng giá đất cụ thể?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Đất đai",
+                "article_id": "160"
+            }
+        ],
+        "choices": {
+            "A": "Tính tiền thuê đất khi Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê, trừ trường hợp thông qua đấu giá quyền sử dụng đất.",
+            "B": "Xác định giá trị quyền sử dụng đất khi cổ phần hóa doanh nghiệp nhà nước.",
+            "C": "Xác định giá đất để tính thuế chuyển quyền sử dụng đất.",
+            "D": "Xác định giá khởi điểm để đấu giá quyền sử dụng đất khi Nhà nước giao đất, cho thuê đất."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_38",
+        "question_type": "Trắc nghiệm",
+        "text": "Khi tỉnh bạn triển khai dự án quy hoạch sử dụng đất mới, để đảm bảo dữ liệu sử dụng trong lập quy hoạch chính xác và đồng bộ theo quy định tại Điều 165 Luật Đất đai 2024, loại dữ liệu nào sau đây KHÔNG phải là thành phần bắt buộc trong cơ sở dữ liệu quốc gia về đất đai?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Đất đai",
+                "article_id": "165"
+            }
+        ],
+        "choices": {
+            "A": "Cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai.",
+            "B": "Cơ sở dữ liệu về tài chính ngân sách liên quan đến dự án sử dụng đất.",
+            "C": "Cơ sở dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất.",
+            "D": "Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_39",
+        "question_type": "Tự luận",
+        "text": "Chính phủ yêu cầu báo cáo kết quả theo dõi, đánh giá việc quản lý và sử dụng đất đai tại các tỉnh có các dự án quy mô lớn sử dụng đất với diện tích lớn. Theo quy định của Luật Đất đai, cơ quan nào có trách nhiệm thực hiện nhiệm vụ này?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Đất đai",
+                "article_id": "232"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_40",
+        "question_type": "Trắc nghiệm",
+        "text": "Công ty G muốn thiết lập một tuyến cáp quang riêng đi các chi nhánh, tự đầu tư mua sợi và trạm thu phát, không thuê bất cứ đường truyền nào từ doanh nghiệp viễn thông khác. Họ không bán thiết bị, không làm đại lý, cũng không dành mạng này cho thành viên trong cùng một tổ chức. Theo Điều 42, trong các phương án sau, công ty G sẽ phải làm gì?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Viễn thông",
+                "article_id": "42"
+            }
+        ],
+        "choices": {
+            "A": "Miễn giấy phép, vì họ tự đầu tư nên không phải đăng ký.",
+            "B": "Làm đại lý dịch vụ viễn thông cho doanh nghiệp khác.",
+            "C": "Nộp hồ sơ đăng ký cấp phép viễn thông mới được triển khai.",
+            "D": "Chỉ cần thông báo cung cấp dịch vụ mà không cần giấy phép."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_41",
+        "question_type": "Trắc nghiệm",
+        "text": "Trong các tiêu chí sau, tiêu chí nào thuộc nhóm ưu tiên khi xét cấp giấy phép viễn thông?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Viễn thông",
+                "article_id": "34"
+            }
+        ],
+        "choices": {
+            "A": "Dự án chỉ triển khai dịch vụ tại đô thị và không có cam kết lâu dài.",
+            "B": "Dự án có khả năng triển khai nhanh, có cam kết cung cấp dịch vụ lâu dài cho đông đảo người sử dụng dịch vụ viễn thông.",
+            "C": "Dự án sử dụng tài nguyên viễn thông không theo quy hoạch đã được phê duyệt.",
+            "D": "Dự án chỉ tập trung vào nâng cấp hạ tầng mà không quan tâm tới vùng sâu, vùng xa."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_42",
+        "question_type": "Trắc nghiệm",
+        "text": "Trong một thành phố lớn, Công ty Viễn thông Z cung cấp cuộc gọi đến số cứu hỏa, công an và cấp cứu nhưng lại áp dụng cước phí bình thường giống như cuộc gọi thông thường. Theo quy định, Công ty Z đã vi phạm nghĩa vụ nào sau đây?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Viễn thông",
+                "article_id": "25"
+            }
+        ],
+        "choices": {
+            "A": "Thông báo công khai các số khẩn cấp cho người dùng.",
+            "B": "Bảo đảm khả năng kết nối đến các số khẩn cấp.",
+            "C": "Cung cấp miễn phí cuộc gọi đến các số khẩn cấp.",
+            "D": " Cập nhật quy hoạch kho số viễn thông."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_43",
+        "question_type": "Trắc nghiệm",
+        "text": "Khi một doanh nghiệp viễn thông muốn tạm dừng một dịch vụ theo Điều 23, bắt buộc phải có bước nào dưới đây",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Viễn thông",
+                "article_id": "23"
+            }
+        ],
+        "choices": {
+            "A": "Xây dựng phương án bảo đảm quyền, lợi ích hợp pháp của người sử dụng.",
+            "B": "Báo cáo phương án chuyển giao mạng lưới cho doanh nghiệp khác.",
+            "C": "Công bố công khai trên trang web trong vòng 7 ngày.",
+            "D": "Xin phép Tòa án nhân dân cấp tỉnh."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_44",
+        "question_type": "Trắc nghiệm",
+        "text": "Khi một doanh nghiệp viễn thông muốn cho thuê mạng hoặc bán lưu lượng cho doanh nghiệp khác, điều nào sau đây là yêu cầu bắt buộc theo quy định?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Viễn thông",
+                "article_id": "16"
+            }
+        ],
+        "choices": {
+            "A": "Chỉ cung cấp dịch vụ nếu bên thuê là doanh nghiệp nước ngoài.",
+            "B": "Chỉ áp dụng với các doanh nghiệp đã hoạt động trên 5 năm.",
+            "C": "iá thuê phải được phê duyệt bởi Chính phủ.",
+            "D": "Việc cung cấp phải minh bạch, không phân biệt đối xử và có thông tin rõ ràng về tiêu chuẩn kỹ thuật."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_45",
+        "question_type": "Trắc nghiệm",
+        "text": "Anh T là thuê bao của Nhà mạng A. Anh T lại đã sử dụng giấy tờ tùy thân của mình để đăng ký hộ cho một người bạn khác nhằm giúp người đó sử dụng số thuê bao dưới tên anh. Sau đó, người bạn sử dụng số thuê bao này cho các mục đích vi phạm pháp luật. Theo quy định hiện hành, ai là người phải chịu trách nhiệm pháp lý về việc sử dụng số thuê bao nói trên?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Viễn thông",
+                "article_id": "15"
+            }
+        ],
+        "choices": {
+            "A": "Người bạn sử dụng thuê bao sai mục đích.",
+            "B": "Nhà mạng A vì không xác minh kỹ thông tin cá nhân.",
+            "C": "Cả anh T và người bạn đều không chịu trách nhiệm.",
+            "D": "Anh T, vì đã giao kết hợp đồng thuê bao và vi phạm quy định về quản lý thuê bao."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_46",
+        "question_type": "Trắc nghiệm",
+        "text": "Theo Luật Tố tụng Hành chính 2015, Thẩm phán và Hội thẩm nhân dân khi xét xử phải tuân theo nguyên tắc nào sau đây?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "13"
+            }
+        ],
+        "choices": {
+            "A": "Chỉ tuân theo pháp luật",
+            "B": "Tuân theo sự chỉ đạo của cơ quan hành chính.",
+            "C": " Tuân theo ý kiến của Viện kiểm sát.",
+            "D": "Tuân theo phân công của Chánh án Tòa án."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_47",
+        "question_type": "Trắc nghiệm",
+        "text": "Ngôn ngữ và chữ viết được sử dụng trong tố tụng hành chính theo Luật Tố tụng Hành chính 2015 là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "21"
+            }
+        ],
+        "choices": {
+            "A": "Tiếng Việt.",
+            "B": "Tiếng Anh.",
+            "C": "Ngôn ngữ bất kỳ do đương sự lựa chọn.",
+            "D": "Tiếng Việt, nhưng có thể dùng tiếng nước ngoài nếu có phiên dịch."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_48",
+        "question_type": "Trắc nghiệm",
+        "text": "Người khởi kiện có bắt buộc phải khiếu nại tới cơ quan hành chính có thẩm quyền trước khi khởi kiện vụ án hành chính theo Luật Tố tụng Hành chính 2015 hay không?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "115"
+            }
+        ],
+        "choices": {
+            "A": "Không bắt buộc, có thể khởi kiện trực tiếp ra Tòa án mà không cần khiếu nại trước.",
+            "B": "Bắt buộc phải khiếu nại và chờ kết quả giải quyết khiếu nại trước khi kiện ra Tòa.",
+            "C": "Chỉ được khởi kiện nếu đã khiếu nại lần đầu và không đồng ý với kết quả. ",
+            "D": "Tùy từng trường hợp do luật chuyên ngành quy định, có vụ việc phải khiếu nại trước."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_49",
+        "question_type": "Trắc nghiệm",
+        "text": "Thời hiệu khởi kiện vụ án hành chính đối với quyết định hành chính hoặc hành vi hành chính (không thuộc trường hợp đặc biệt) theo Luật Tố tụng Hành chính 2015 là bao lâu kể từ ngày người khởi kiện nhận được hoặc biết được quyết định/hành vi đó?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "116"
+            }
+        ],
+        "choices": {
+            "A": "30 ngày.",
+            "B": "60 ngày.",
+            "C": "1 năm.",
+            "D": "2 năm."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_50",
+        "question_type": "Trắc nghiệm",
+        "text": "Theo Luật Tố tụng Hành chính 2015, Hội đồng xét xử sơ thẩm vụ án hành chính thông thường bao gồm thành phần nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "154"
+            }
+        ],
+        "choices": {
+            "A": "Một Thẩm phán và hai Hội thẩm nhân dân.",
+            "B": "Một Thẩm phán và hai Hội thẩm nhân dân hoặc một Thẩm phán nếu vụ án đơn giản.",
+            "C": "Ba Thẩm phán (không có Hội thẩm).",
+            "D": "Hai Thẩm phán và ba Hội thẩm nhân dân."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_51",
+        "question_type": "Trắc nghiệm",
+        "text": "Thời hạn kháng cáo bản án sơ thẩm của tòa án trong tố tụng hành chính theo Luật Tố tụng Hành chính 2015 là bao lâu?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "206"
+            }
+        ],
+        "choices": {
+            "A": "15 ngày kể từ ngày tuyên án (hoặc từ ngày nhận được bản án đối với trường hợp vắng mặt có lý do).",
+            "B": "30 ngày kể từ ngày tuyên án.",
+            "C": "10 ngày kể từ ngày nhận được bản án.",
+            "D": "20 ngày kể từ ngày tuyên án."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_52",
+        "question_type": "Trắc nghiệm",
+        "text": "Những ai có thẩm quyền kháng nghị bản án, quyết định đã có hiệu lực pháp luật theo thủ tục giám đốc thẩm trong tố tụng hành chính?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "260"
+            }
+        ],
+        "choices": {
+            "A": "Chánh án Tòa án nhân dân tối cao; Viện trưởng Viện kiểm sát nhân dân tối cao; Chánh án Tòa án nhân dân cấp cao; Viện trưởng Viện kiểm sát nhân dân cấp cao.",
+            "B": "Chánh án Tòa án nhân dân cấp tỉnh; Viện trưởng Viện kiểm sát nhân dân cấp tỉnh.",
+            "C": "Hội đồng Thẩm phán Tòa án nhân dân tối cao.",
+            "D": "Thẩm phán chủ tọa phiên tòa sơ thẩm hoặc phúc thẩm."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_53",
+        "question_type": "Tự luận",
+        "text": "Tòa án triệu tập hợp lệ lần thứ hai, người khởi kiện và người đại diện theo pháp luật của người khởi kiện vắng mặt không vì sự kiện bất khả kháng, trở ngại khách quan thì Tòa án xử lý như thể nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Tố tụng hành chính",
+                "article_id": "157"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_54",
+        "question_type": "Đúng/Sai",
+        "text": "Luật Giá áp dụng cho cả người tiêu dùng và tổ chức kinh doanh hàng hóa, dịch vụ trên lãnh thổ Việt Nam.",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giá",
+                "article_id": "2"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_55",
+        "question_type": "Trắc nghiệm",
+        "text": "Quản lý, điều tiết giá của Nhà nước cần đảm bảo nguyên tắc nào sau đây?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giá",
+                "article_id": "5"
+            }
+        ],
+        "choices": {
+            "A": "Áp dụng một mức giá cố định với mọi hàng hóa",
+            "B": "Loại bỏ hoàn toàn yếu tố thị trường",
+            "C": "Theo cơ chế thị trường, bảo đảm công khai, minh bạch",
+            "D": "Tăng giá để thu nhiều thuế hơn"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_56",
+        "question_type": "Trắc nghiệm",
+        "text": "Giá đất được định giá theo quy định của pháp luật nào sau đây?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giá",
+                "article_id": "3"
+            }
+        ],
+        "choices": {
+            "A": "Luật Giá",
+            "B": "Luật Nhà ở",
+            "C": "Luật Đất đai",
+            "D": "Luật Tài chính"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_57",
+        "question_type": "Trắc nghiệm",
+        "text": "Dịch vụ nào dưới đây không được định giá theo Luật Giá mà theo pháp luật chuyên ngành?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giá",
+                "article_id": "3"
+            }
+        ],
+        "choices": {
+            "A": "Dịch vụ vận tải",
+            "B": "Giá điện",
+            "C": "Dịch vụ logistics",
+            "D": "Dịch vụ bảo vệ"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_58",
+        "question_type": "Trắc nghiệm",
+        "text": "Theo Luật Giá, hàng hóa là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giá",
+                "article_id": "4"
+            }
+        ],
+        "choices": {
+            "A": "Dịch vụ mang tính vô hình",
+            "B": "Tài sản không thể trao đổi",
+            "C": "Sản phẩm có thể trao đổi, mua, bán trên thị trường",
+            "D": "Các văn bản pháp luật về định giá"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_59",
+        "question_type": "Trắc nghiệm",
+        "text": "Đâu là một trong các hành vi bị nghiêm cấm đối với cá nhân theo Luật Giá?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giá",
+                "article_id": "7"
+            }
+        ],
+        "choices": {
+            "A": "Cạnh tranh lành mạnh về giá",
+            "B": "Kê khai giá minh bạch",
+            "C": "Loan tin sai sự thật gây nhiễu loạn giá",
+            "D": "Niêm yết giá công khai"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_60",
+        "question_type": "Trắc nghiệm",
+        "text": "Theo Luật Giá, phương án giá là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giá",
+                "article_id": "4"
+            }
+        ],
+        "choices": {
+            "A": "Văn bản xác định giá đất",
+            "B": "Bản thuyết minh về căn cứ định giá và yếu tố hình thành giá",
+            "C": "Giấy chứng nhận điều kiện kinh doanh",
+            "D": "Quyết định xử phạt vi phạm về giá"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_61",
+        "question_type": "Tự luận",
+        "text": "Theo Luật Giá, hàng hóa là gì?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giá",
+                "article_id": "4"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_62",
+        "question_type": "Trắc nghiệm",
+        "text": "Việc xây dựng công trình hạ tầng kỹ thuật sử dụng chung với đường bộ cần phải đáp ứng các yêu cầu nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Đường bộ",
+                "article_id": "20"
+            }
+        ],
+        "choices": {
+            "A": "Phù hợp với quy hoạch, quy mô của dự án, cấp kỹ thuật của đường bộ;",
+            "B": "Bảo đảm quy chuẩn, tiêu chuẩn kỹ thuật trong xây dựng; bảo đảm quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ; bảo đảm an toàn công trình, bảo đảm cảnh quan và môi trường;",
+            "C": "Tuân thủ quy định của Luật này, quy định của pháp luật về xây dựng và quy định khác của pháp luật có liên quan.",
+            "D": "Tất cả đáp án trên"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_63",
+        "question_type": "Trắc nghiệm",
+        "text": "Việc thẩm định an toàn giao thông của cơ quan có thẩm quyền được thực hiện trên cơ sở báo cáo thẩm tra an toàn giao thông của tổ chức tư vấn thẩm tra an toàn giao thông để phục vụ hoạt động nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Đường bộ",
+                "article_id": "29"
+            }
+        ],
+        "choices": {
+            "A": "Phê duyệt dự án;",
+            "B": "Phê duyệt thiết kế xây dựng triển khai sau thiết kế cơ sở;",
+            "C": "Đáp án A và B đúng",
+            "D": "Tổ chức thực hiện các giải pháp nhằm giảm thiểu điều kiện bảo đảm giao thông thông suốt, an toàn đối với công trình đang khai thác."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_64",
+        "question_type": "Trắc nghiệm",
+        "text": "Đáp án nào không bao gồm trong quy định kết nối giao thông đường bộ?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Đường bộ",
+                "article_id": "30"
+            }
+        ],
+        "choices": {
+            "A": "Kết nối các tuyến đường bộ;",
+            "B": "Kết nối đường bộ đến các vùng, khu vực, địa bàn khu dân cư, cơ quan, tổ chức, cơ sở sản xuất, kinh doanh và các địa điểm khác;",
+            "C": "Kết nối các tuyến đường sắt;",
+            "D": "Kết nối giao thông đường bộ với đầu mối giao thông của các phương thức vận tải khác."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_65",
+        "question_type": "Trắc nghiệm",
+        "text": "Việc sử dụng đất hành lang an toàn đường bộ không phải đảm bảo quy định nào sau đây?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Đường bộ",
+                "article_id": "16"
+            }
+        ],
+        "choices": {
+            "A": "Bảo đảm văn hóa, phong tục tập quán của dân tộc thiểu số",
+            "B": "Bảo đảm an toàn công trình đường bộ và công trình khác trong hành lang an toàn đường bộ;",
+            "C": "Không che lấp báo hiệu đường bộ, không ảnh hưởng đến tầm nhìn xe chạy, bảo đảm trật tự, an toàn giao thông đường bộ;",
+            "D": "Bảo vệ cảnh quan, môi trường theo quy định của pháp luật."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_66",
+        "question_type": "Trắc nghiệm",
+        "text": "Trong phạm vi bảo vệ kết cấu hạ tầng đường bộ, không được xây dựng công trình khác, trừ trường hợp nào sau đây?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Đường bộ",
+                "article_id": "19"
+            }
+        ],
+        "choices": {
+            "A": "Quán ăn, quán cà phê",
+            "B": "Công trình thủy lợi, đê điều, phòng, chống thiên tai, thủy điện;",
+            "C": "Công trình nhà văn hóa, nhà cộng đồng",
+            "D": "Tòa nhà văn phòng, chung cư cao cấp"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_67",
+        "question_type": "Trắc nghiệm",
+        "text": "Việc xây dựng, lắp đặt biển quảng cáo phải đáp ứng yêu cầu nào sau đây?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Đường bộ",
+                "article_id": "18"
+            }
+        ],
+        "choices": {
+            "A": "Không được che khuất báo hiệu đường bộ; không ảnh hưởng đến tầm nhìn của người điều khiển phương tiện tham gia giao thông đường bộ;",
+            "B": "Không ảnh hưởng đến việc quản lý, khai thác, sử dụng và bảo trì đường bộ, không ảnh hưởng đến an toàn công trình hạ tầng trong phạm vi bảo vệ kết cấu hạ tầng đường bộ, an toàn giao thông đường bộ;",
+            "C": "Biển quảng cáo phải được lắp đặt bảo đảm bền vững, an toàn, chịu được tác động của tải trọng và các tác động khác; phải được thiết kế, thẩm định và xây dựng theo quy định của Luật này, quy định của pháp luật về xây dựng, pháp luật về quảng cáo.",
+            "D": "Tất cả các đáp án"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_68",
+        "question_type": "Đúng/Sai",
+        "text": "Công dân Việt Nam dưới 14 tuổi bắt buộc phải thực hiện thủ tục cấp thẻ căn cước là đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Căn cước",
+                "article_id": "19"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_69",
+        "question_type": "Đúng/Sai",
+        "text": "Nếu thông tin trong thẻ căn cước bị sai, công dân có quyền yêu cầu cơ quan quản lý căn cước cập nhật và điều chỉnh thông tin, đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Căn cước",
+                "article_id": "5"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_70",
+        "question_type": "Đúng/Sai",
+        "text": "Trong trường hợp bị tạm giữ để phục vụ điều tra, thẻ căn cước của công dân bị thu hồi, đúng hay sai?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Căn cước",
+                "article_id": "29"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_71",
+        "question_type": "Trắc nghiệm",
+        "text": "Trong các câu sau, câu nào KHÔNG ĐÚNG với quy định của Luật Căn cước  về người được cấp thẻ căn cước?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Căn cước",
+                "article_id": "19"
+            }
+        ],
+        "choices": {
+            "A": "Người được cấp thẻ căn cước là công dân Việt Nam.",
+            "B": "Công dân Việt Nam từ đủ 14 tuổi trở lên phải thực hiện thủ tục cấp thẻ căn cước.",
+            "C": "Công dân Việt Nam dưới 06 tuổi thì không được cấp thẻ căn cước ",
+            "D": "Công dân Việt Nam dưới 14 tuổi được cấp thẻ căn cước theo nhu cầu."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_72",
+        "question_type": "Trắc nghiệm",
+        "text": "Chứng minh thư Nhân dân đã được cấp và còn hạn sử dụng đến sau ngày 31 tháng 12 năm 2024 sẽ có giá trị sử dụng đến khi nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Căn cước",
+                "article_id": "46"
+            }
+        ],
+        "choices": {
+            "A": "Có giá trị sử dụng 15 năm kể từ ngày cấp.",
+            "B": "Có giá trị sử dụng đến hết ngày 01/7/2024.",
+            "C": "Có giá trị sử dụng đến hết ngày 31/12/2024.",
+            "D": "Có giá trị sử dụng vĩnh viễn thay cho Căn cước công dân"
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_73",
+        "question_type": "Trắc nghiệm",
+        "text": "Trong Cơ sở dữ liệu quốc gia về dân cư, thông tin nào sau đây thuộc các trường thông tin cần có của một công dân?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Căn cước",
+                "article_id": "9"
+            }
+        ],
+        "choices": {
+            "A": "Số định danh cá nhân",
+            "B": "Nơi thường trú",
+            "C": "Số hồ sơ cư trú",
+            "D": "Cả 3 đều đúng "
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_74",
+        "question_type": "Trắc nghiệm",
+        "text": "Theo luật Căn cước, hành vi nào sau đây là hành vi không bị nghiêm cấm?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Căn cước",
+                "article_id": "7"
+            }
+        ],
+        "choices": {
+            "A": "Cấp, cấp đổi, cấp lại, thu hồi thẻ căn cước, giấy chứng nhận căn cước theo quy định của pháp luật.",
+            "B": "Giữ thẻ căn cước, giấy chứng nhận căn cước trái quy định của pháp luật.",
+            "C": "Nhũng nhiễu, gây phiền hà, phân biệt đối xử khi giải quyết thủ tục về căn cước, Cơ sở dữ liệu quốc gia về dân cư và Cơ sở dữ liệu căn cước.",
+            "D": "Khai thác, chia sẻ, mua, bán, trao đổi, chiếm đoạt, sử dụng trái phép thông tin thẻ Căn cước."
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_75",
+        "question_type": "Trắc nghiệm",
+        "text": "Theo quy định, căn cước điện tử bị khóa trong trường hợp nào sau đây?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Căn cước",
+                "article_id": "34"
+            }
+        ],
+        "choices": {
+            "A": "Khi người được cấp căn cước điện tử yêu cầu khóa hoặc bị thu hồi, bị giữ thẻ căn cước hoặc khi người được cấp căn cước điện tử chết",
+            "B": "Khi người được cấp căn cước điện tử vi phạm thỏa thuận sử dụng ứng dụng định danh quốc gia.",
+            "C": "Khi có yêu cầu của cơ quan tiến hành tố tụng hoặc cơ quan khác có thẩm quyền.",
+            "D": "Cả 3 đều đúng "
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_76",
+        "question_type": "Trắc nghiệm",
+        "text": "Anh A đã được cơ quan có thẩm quyền cấp Giấy chứng nhận căn cước. Như vậy, anh A có thể sử dụng Giấy chứng nhận căn cước trong phạm vi nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Căn cước",
+                "article_id": "30"
+            }
+        ],
+        "choices": {
+            "A": "Trong phạm vi lãnh thổ Việt Nam.",
+            "B": "Phạm vi lãnh thổ Việt Nam và các nước mà Việt Nam có ký kết các điều ước quốc tế.",
+            "C": "Phạm vi trên toàn thế giới.",
+            "D": "Cả 3 đều đúng "
+        }
+    },
+    {
+        "question_id": "private_test_alquac25_77",
+        "question_type": "Tự luận",
+        "text": "Anh N là Công dân Việt Nam sinh năm 1996. Năm nay là năm 2025, vậy, năm gần nhất mà anh N đủ tuổi thực hiện thủ tục cấp đổi Thẻ căn cước là năm nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Căn cước",
+                "article_id": "21"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_78",
+        "question_type": "Tự luận",
+        "text": "Khi thay đổi người giám hộ thì trong thời hạn bao nhiêu ngày, kể từ ngày có người giám hộ mới, người đã thực hiện việc giám hộ phải chuyển giao giám hộ cho người thay thế mình?",
+        "relevant_articles": [
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "61"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_79",
+        "question_type": "Tự luận",
+        "text": "Theo BLDS năm 2015, nếu quyền đại diện được xác lập trên cơ sở một hợp đồng nhưng không thể xác định được thời hạn đại diện theo hợp đồng đó và cũng không có bất cứ thỏa thuận nào khác giữa các bên về thời hạn đại diện thì thời hạn đại diện trong trường hợp này là bao lâu và kể từ thời điểm nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Bộ luật dân sự",
+                "article_id": "140"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_80",
+        "question_type": "Tự luận",
+        "text": "Nếu nội dung hợp đồng ký kết giữa doanh nghiệp và người tiêu dùng được hai bên hiểu theo hai cách khác nhau thì việc giải thích hợp đồng đó được thực hiện như thế nào?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+                "article_id": "24"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_81",
+        "question_type": "Tự luận",
+        "text": "Khi nào âm thanh được coi là dữ liệu điện tử theo Luật Giao dịch điện tử năm 2023?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Giao dịch điện tử",
+                "article_id": "3"
+            }
+        ]
+    },
+    {
+        "question_id": "private_test_alquac25_82",
+        "question_type": "Tự luận",
+        "text": "Ông A đủ điều kiện để được mua nhà ở xã hội và vừa ký hợp đồng với Chủ đầu tư của Dự án X để mua một căn nhà ở xã hội có tổng diện tích 65m2 tại Dự án X với giá 21 triệu đồng/m2. Trước thời điểm căn nhà được bàn giao cho ông A, Chủ đầu tư của Dự án X được phép nhận của ông A tối đa bao nhiêu tiền từ việc ông A thanh toán tiền mua căn nhà đó?",
+        "relevant_articles": [
+            {
+                "law_id": "Luật Nhà ở",
+                "article_id": "89"
+            }
+        ]
+    }
+]
