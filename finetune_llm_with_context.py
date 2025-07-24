@@ -71,20 +71,13 @@ def build_prompt(q, law_dict):
         )
     elif qtype == "Trắc nghiệm":
         choices = q.get("choices")
-        if choices:
-            choices_str = "\n".join([f"{k}: {v}" for k, v in choices.items()])
-            prompt = (
-                f"{context}Bạn là chuyên gia pháp luật. Hãy chọn đáp án đúng nhất (A, B, C hoặc D) cho câu hỏi sau, chỉ trả lời ký tự đáp án, không cần giải thích.\n"
-                f"Câu hỏi: {text}\n"
-                f"Các lựa chọn:\n{choices_str}\n"
-                f"Đáp án:"
-            )
-        else:
-            prompt = (
-                f"{context}Bạn là chuyên gia pháp luật. Hãy chọn đáp án đúng nhất cho câu hỏi sau, chỉ trả lời ký tự đáp án, không cần giải thích.\n"
-                f"Câu hỏi: {text}\n"
-                f"Đáp án:"
-            )
+        choices_str = "\n".join([f"{k}: {v}" for k, v in choices.items()])
+        prompt = (
+            f"{context}Bạn là chuyên gia pháp luật. Hãy chọn đáp án đúng nhất (A, B, C hoặc D) cho câu hỏi sau, chỉ trả lời ký tự đáp án, không cần giải thích.\n"
+            f"Câu hỏi: {text}\n"
+            f"Các lựa chọn:\n{choices_str}\n"
+            f"Đáp án:"
+        )
     elif qtype == "Tự luận":
         prompt = (
             f"{context}Bạn là chuyên gia pháp luật. Hãy trả lời ngắn gọn, chính xác và đầy đủ cho câu hỏi sau.\n"

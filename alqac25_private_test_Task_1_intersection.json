@@ -6,14 +6,6 @@
       {
         "law_id": "Luật Giao dịch điện tử",
         "article_id": "34"
-      },
-      {
-        "law_id": "Luật Giao dịch điện tử",
-        "article_id": "38"
-      },
-      {
-        "law_id": "Luật Giao dịch điện tử",
-        "article_id": "23"
       }
     ]
   },
@@ -42,14 +34,6 @@
       {
         "law_id": "Luật Giao dịch điện tử",
         "article_id": "39"
-      },
-      {
-        "law_id": "Bộ luật dân sự",
-        "article_id": "119"
-      },
-      {
-        "law_id": "Luật Giao dịch điện tử",
-        "article_id": "1"
       }
     ]
   },
@@ -60,14 +44,6 @@
       {
         "law_id": "Luật Giao dịch điện tử",
         "article_id": "45"
-      },
-      {
-        "law_id": "Luật Giao dịch điện tử",
-        "article_id": "39"
-      },
-      {
-        "law_id": "Luật Giao dịch điện tử",
-        "article_id": "48"
       }
     ]
   },
@@ -78,10 +54,6 @@
       {
         "law_id": "Luật Giao dịch điện tử",
         "article_id": "48"
-      },
-      {
-        "law_id": "Luật Giao dịch điện tử",
-        "article_id": "50"
       },
       {
         "law_id": "Luật Giao dịch điện tử",
@@ -100,10 +72,6 @@
       {
         "law_id": "Luật Giao dịch điện tử",
         "article_id": "41"
-      },
-      {
-        "law_id": "Luật Viễn thông",
-        "article_id": "29"
       }
     ]
   },
@@ -118,10 +86,6 @@
       {
         "law_id": "Luật Giao dịch điện tử",
         "article_id": "28"
-      },
-      {
-        "law_id": "Luật Giao dịch điện tử",
-        "article_id": "51"
       }
     ]
   },
@@ -136,10 +100,6 @@
       {
         "law_id": "Luật Phòng, chống tác hại của rượu, bia",
         "article_id": "13"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "12"
       }
     ]
   },
@@ -149,15 +109,7 @@
     "relevant_articles": [
       {
         "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "28"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
         "article_id": "35"
-      },
-      {
-        "law_id": "Bộ luật dân sự",
-        "article_id": "418"
       }
     ]
   },
@@ -165,14 +117,6 @@
     "question_id": "private_test_alquac25_10",
     "text": "Doanh nghiệp sản xuất rượu dưới 5,5° được phép quảng bá sản phẩm tại trường Tiểu học nếu được UBND cấp xã cho phép",
     "relevant_articles": [
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "13"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "12"
-      },
       {
         "law_id": "Luật Phòng, chống tác hại của rượu, bia",
         "article_id": "15"
@@ -186,14 +130,6 @@
       {
         "law_id": "Luật Phòng, chống tác hại của rượu, bia",
         "article_id": "4"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
-        "article_id": "337"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "24"
       }
     ]
   },
@@ -204,14 +140,6 @@
       {
         "law_id": "Luật Phòng, chống tác hại của rượu, bia",
         "article_id": "4"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "7"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "23"
       }
     ]
   },
@@ -221,7 +149,7 @@
     "relevant_articles": [
       {
         "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "32"
+        "article_id": "5"
       },
       {
         "law_id": "Luật Phòng, chống tác hại của rượu, bia",
@@ -229,7 +157,7 @@
       },
       {
         "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "5"
+        "article_id": "32"
       }
     ]
   },
@@ -240,14 +168,6 @@
       {
         "law_id": "Luật Phòng, chống tác hại của rượu, bia",
         "article_id": "28"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "5"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "21"
       }
     ]
   },
@@ -276,14 +196,6 @@
       {
         "law_id": "Luật Phòng, chống tác hại của rượu, bia",
         "article_id": "26"
-      },
-      {
-        "law_id": "Luật Phòng, chống ma túy",
-        "article_id": "4"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "28"
       }
     ]
   },
@@ -294,14 +206,6 @@
       {
         "law_id": "Luật Nhà ở",
         "article_id": "4"
-      },
-      {
-        "law_id": "Luật Nhà ở",
-        "article_id": "113"
-      },
-      {
-        "law_id": "Luật Nhà ở",
-        "article_id": "189"
       }
     ]
   },
@@ -311,15 +215,7 @@
     "relevant_articles": [
       {
         "law_id": "Luật Nhà ở",
-        "article_id": "118"
-      },
-      {
-        "law_id": "Luật Nhà ở",
         "article_id": "5"
-      },
-      {
-        "law_id": "Luật Nhà ở",
-        "article_id": "189"
       }
     ]
   },
@@ -330,14 +226,6 @@
       {
         "law_id": "Luật Nhà ở",
         "article_id": "5"
-      },
-      {
-        "law_id": "Luật Nhà ở",
-        "article_id": "54"
-      },
-      {
-        "law_id": "Luật Nhà ở",
-        "article_id": "31"
       }
     ]
   },
@@ -348,14 +236,6 @@
       {
         "law_id": "Luật Nhà ở",
         "article_id": "5"
-      },
-      {
-        "law_id": "Luật Nhà ở",
-        "article_id": "30"
-      },
-      {
-        "law_id": "Luật Nhà ở",
-        "article_id": "31"
       }
     ]
   },
@@ -365,15 +245,15 @@
     "relevant_articles": [
       {
         "law_id": "Luật Nhà ở",
-        "article_id": "166"
-      },
-      {
-        "law_id": "Luật Nhà ở",
         "article_id": "9"
       },
       {
         "law_id": "Luật Nhà ở",
         "article_id": "165"
+      },
+      {
+        "law_id": "Luật Nhà ở",
+        "article_id": "166"
       }
     ]
   },
@@ -384,14 +264,6 @@
       {
         "law_id": "Luật Nhà ở",
         "article_id": "9"
-      },
-      {
-        "law_id": "Luật Nhà ở",
-        "article_id": "58"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "30"
       }
     ]
   },
@@ -402,14 +274,6 @@
       {
         "law_id": "Luật Nhà ở",
         "article_id": "9"
-      },
-      {
-        "law_id": "Luật Nhà ở",
-        "article_id": "162"
-      },
-      {
-        "law_id": "Luật Đất đai",
-        "article_id": "148"
       }
     ]
   },
@@ -419,15 +283,7 @@
     "relevant_articles": [
       {
         "law_id": "Luật Chăn nuôi",
-        "article_id": "52"
-      },
-      {
-        "law_id": "Luật Chăn nuôi",
         "article_id": "2"
-      },
-      {
-        "law_id": "Luật Chăn nuôi",
-        "article_id": "56"
       }
     ]
   },
@@ -438,14 +294,6 @@
       {
         "law_id": "Luật Chăn nuôi",
         "article_id": "12"
-      },
-      {
-        "law_id": "Luật Hôn nhân và gia đình",
-        "article_id": "5"
-      },
-      {
-        "law_id": "Luật An ninh mạng",
-        "article_id": "8"
       }
     ]
   },
@@ -456,14 +304,6 @@
       {
         "law_id": "Luật Chăn nuôi",
         "article_id": "12"
-      },
-      {
-        "law_id": "Luật Chăn nuôi",
-        "article_id": "69"
-      },
-      {
-        "law_id": "Luật Hôn nhân và gia đình",
-        "article_id": "5"
       }
     ]
   },
@@ -474,14 +314,6 @@
       {
         "law_id": "Luật Chăn nuôi",
         "article_id": "45"
-      },
-      {
-        "law_id": "Luật Chăn nuôi",
-        "article_id": "46"
-      },
-      {
-        "law_id": "Luật Chăn nuôi",
-        "article_id": "47"
       }
     ]
   },
@@ -514,10 +346,6 @@
       {
         "law_id": "Luật Chăn nuôi",
         "article_id": "2"
-      },
-      {
-        "law_id": "Luật Chăn nuôi",
-        "article_id": "22"
       }
     ]
   },
@@ -528,14 +356,6 @@
       {
         "law_id": "Luật Chăn nuôi",
         "article_id": "25"
-      },
-      {
-        "law_id": "Luật Chăn nuôi",
-        "article_id": "49"
-      },
-      {
-        "law_id": "Luật Chăn nuôi",
-        "article_id": "31"
       }
     ]
   },
@@ -550,10 +370,6 @@
       {
         "law_id": "Luật Chăn nuôi",
         "article_id": "30"
-      },
-      {
-        "law_id": "Luật Chăn nuôi",
-        "article_id": "3"
       }
     ]
   },
@@ -562,16 +378,12 @@
     "text": "Hình thức nào sau đây được coi là Bán hàng trực tiếp?",
     "relevant_articles": [
       {
-        "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
-        "article_id": "3"
-      },
-      {
-        "law_id": "Luật Viễn thông",
-        "article_id": "10"
-      },
-      {
         "law_id": "Bộ luật dân sự",
         "article_id": "119"
+      },
+      {
+        "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
+        "article_id": "3"
       }
     ]
   },
@@ -600,14 +412,6 @@
       {
         "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
         "article_id": "45"
-      },
-      {
-        "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
-        "article_id": "9"
-      },
-      {
-        "law_id": "Luật Phòng, chống ma túy",
-        "article_id": "24"
       }
     ]
   },
@@ -640,10 +444,6 @@
       {
         "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
         "article_id": "55"
-      },
-      {
-        "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
-        "article_id": "19"
       }
     ]
   },
@@ -654,14 +454,6 @@
       {
         "law_id": "Luật Đất đai",
         "article_id": "160"
-      },
-      {
-        "law_id": "Luật Đất đai",
-        "article_id": "159"
-      },
-      {
-        "law_id": "Luật Đất đai",
-        "article_id": "249"
       }
     ]
   },
@@ -675,10 +467,6 @@
       },
       {
         "law_id": "Luật Đất đai",
-        "article_id": "163"
-      },
-      {
-        "law_id": "Luật Đất đai",
         "article_id": "166"
       }
     ]
@@ -689,15 +477,11 @@
     "relevant_articles": [
       {
         "law_id": "Luật Đất đai",
-        "article_id": "232"
-      },
-      {
-        "law_id": "Luật Đất đai",
         "article_id": "55"
       },
       {
         "law_id": "Luật Đất đai",
-        "article_id": "170"
+        "article_id": "232"
       }
     ]
   },
@@ -705,10 +489,6 @@
     "question_id": "private_test_alquac25_40",
     "text": "Công ty G muốn thiết lập một tuyến cáp quang riêng đi các chi nhánh, tự đầu tư mua sợi và trạm thu phát, không thuê bất cứ đường truyền nào từ doanh nghiệp viễn thông khác. Họ không bán thiết bị, không làm đại lý, cũng không dành mạng này cho thành viên trong cùng một tổ chức. Theo Điều 42, trong các phương án sau, công ty G sẽ phải làm gì?",
     "relevant_articles": [
-      {
-        "law_id": "Luật Viễn thông",
-        "article_id": "13"
-      },
       {
         "law_id": "Luật Viễn thông",
         "article_id": "19"
@@ -725,14 +505,6 @@
     "relevant_articles": [
       {
         "law_id": "Luật Viễn thông",
-        "article_id": "34"
-      },
-      {
-        "law_id": "Luật Viễn thông",
-        "article_id": "36"
-      },
-      {
-        "law_id": "Luật Viễn thông",
         "article_id": "39"
       }
     ]
@@ -743,15 +515,7 @@
     "relevant_articles": [
       {
         "law_id": "Luật Viễn thông",
-        "article_id": "62"
-      },
-      {
-        "law_id": "Luật Viễn thông",
         "article_id": "25"
-      },
-      {
-        "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
-        "article_id": "36"
       }
     ]
   },
@@ -762,10 +526,6 @@
       {
         "law_id": "Luật Viễn thông",
         "article_id": "23"
-      },
-      {
-        "law_id": "Luật Viễn thông",
-        "article_id": "22"
       },
       {
         "law_id": "Luật Viễn thông",
@@ -783,10 +543,6 @@
       },
       {
         "law_id": "Luật Viễn thông",
-        "article_id": "36"
-      },
-      {
-        "law_id": "Luật Viễn thông",
         "article_id": "16"
       }
     ]
@@ -796,16 +552,8 @@
     "text": "Anh T là thuê bao của Nhà mạng A. Anh T lại đã sử dụng giấy tờ tùy thân của mình để đăng ký hộ cho một người bạn khác nhằm giúp người đó sử dụng số thuê bao dưới tên anh. Sau đó, người bạn sử dụng số thuê bao này cho các mục đích vi phạm pháp luật. Theo quy định hiện hành, ai là người phải chịu trách nhiệm pháp lý về việc sử dụng số thuê bao nói trên?",
     "relevant_articles": [
       {
-        "law_id": "Luật An ninh mạng",
-        "article_id": "42"
-      },
-      {
         "law_id": "Luật Viễn thông",
         "article_id": "15"
-      },
-      {
-        "law_id": "Luật Phòng, chống ma túy",
-        "article_id": "24"
       }
     ]
   },
@@ -815,15 +563,11 @@
     "relevant_articles": [
       {
         "law_id": "Luật Tố tụng hành chính",
-        "article_id": "13"
+        "article_id": "46"
       },
       {
         "law_id": "Hiến pháp",
         "article_id": "103"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
-        "article_id": "46"
       }
     ]
   },
@@ -838,10 +582,6 @@
       {
         "law_id": "Luật Trọng tài thương mại",
         "article_id": "10"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
-        "article_id": "100"
       }
     ]
   },
@@ -870,14 +610,6 @@
       {
         "law_id": "Luật Tố tụng hành chính",
         "article_id": "116"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
-        "article_id": "8"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
-        "article_id": "330"
       }
     ]
   },
@@ -888,14 +620,6 @@
       {
         "law_id": "Luật Tố tụng hành chính",
         "article_id": "154"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
-        "article_id": "222"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
-        "article_id": "12"
       }
     ]
   },
@@ -909,10 +633,6 @@
       },
       {
         "law_id": "Luật Tố tụng hành chính",
-        "article_id": "251"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
         "article_id": "307"
       }
     ]
@@ -923,15 +643,11 @@
     "relevant_articles": [
       {
         "law_id": "Luật Tố tụng hành chính",
-        "article_id": "283"
+        "article_id": "255"
       },
       {
         "law_id": "Luật Tố tụng hành chính",
         "article_id": "260"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
-        "article_id": "255"
       }
     ]
   },
@@ -941,15 +657,15 @@
     "relevant_articles": [
       {
         "law_id": "Luật Tố tụng hành chính",
+        "article_id": "168"
+      },
+      {
+        "law_id": "Luật Tố tụng hành chính",
         "article_id": "157"
       },
       {
         "law_id": "Luật Tố tụng hành chính",
         "article_id": "225"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
-        "article_id": "168"
       }
     ]
   },
@@ -960,14 +676,6 @@
       {
         "law_id": "Luật Giá",
         "article_id": "2"
-      },
-      {
-        "law_id": "Luật Giá",
-        "article_id": "1"
-      },
-      {
-        "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
-        "article_id": "1"
       }
     ]
   },
@@ -981,10 +689,6 @@
       },
       {
         "law_id": "Luật Giá",
-        "article_id": "22"
-      },
-      {
-        "law_id": "Luật Giá",
         "article_id": "12"
       }
     ]
@@ -995,15 +699,7 @@
     "relevant_articles": [
       {
         "law_id": "Luật Đất đai",
-        "article_id": "249"
-      },
-      {
-        "law_id": "Luật Đất đai",
         "article_id": "160"
-      },
-      {
-        "law_id": "Luật Đất đai",
-        "article_id": "159"
       }
     ]
   },
@@ -1013,15 +709,11 @@
     "relevant_articles": [
       {
         "law_id": "Luật Giá",
-        "article_id": "73"
+        "article_id": "21"
       },
       {
         "law_id": "Luật Giá",
         "article_id": "3"
-      },
-      {
-        "law_id": "Luật Giá",
-        "article_id": "21"
       }
     ]
   },
@@ -1103,15 +795,11 @@
     "relevant_articles": [
       {
         "law_id": "Luật Đường bộ",
-        "article_id": "20"
-      },
-      {
-        "law_id": "Luật Viễn thông",
-        "article_id": "66"
+        "article_id": "28"
       },
       {
         "law_id": "Luật Đường bộ",
-        "article_id": "28"
+        "article_id": "20"
       }
     ]
   },
@@ -1122,14 +810,6 @@
       {
         "law_id": "Luật Đường bộ",
         "article_id": "29"
-      },
-      {
-        "law_id": "Luật An ninh mạng",
-        "article_id": "11"
-      },
-      {
-        "law_id": "Luật Đường bộ",
-        "article_id": "49"
       }
     ]
   },
@@ -1140,14 +820,6 @@
       {
         "law_id": "Luật Đường bộ",
         "article_id": "30"
-      },
-      {
-        "law_id": "Luật Đường bộ",
-        "article_id": "6"
-      },
-      {
-        "law_id": "Luật Đường bộ",
-        "article_id": "84"
       }
     ]
   },
@@ -1158,10 +830,6 @@
       {
         "law_id": "Luật Đường bộ",
         "article_id": "16"
-      },
-      {
-        "law_id": "Luật Đất đai",
-        "article_id": "210"
       },
       {
         "law_id": "Luật Đường bộ",
@@ -1175,15 +843,11 @@
     "relevant_articles": [
       {
         "law_id": "Luật Đường bộ",
-        "article_id": "19"
-      },
-      {
-        "law_id": "Luật Đường bộ",
         "article_id": "21"
       },
       {
         "law_id": "Luật Đường bộ",
-        "article_id": "17"
+        "article_id": "19"
       }
     ]
   },
@@ -1194,14 +858,6 @@
       {
         "law_id": "Luật Đường bộ",
         "article_id": "18"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "12"
-      },
-      {
-        "law_id": "Luật Phòng, chống tác hại của rượu, bia",
-        "article_id": "13"
       }
     ]
   },
@@ -1211,7 +867,7 @@
     "relevant_articles": [
       {
         "law_id": "Luật Căn cước",
-        "article_id": "19"
+        "article_id": "21"
       },
       {
         "law_id": "Luật Căn cước",
@@ -1219,7 +875,7 @@
       },
       {
         "law_id": "Luật Căn cước",
-        "article_id": "21"
+        "article_id": "19"
       }
     ]
   },
@@ -1230,14 +886,6 @@
       {
         "law_id": "Luật Căn cước",
         "article_id": "5"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "24"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "6"
       }
     ]
   },
@@ -1248,14 +896,6 @@
       {
         "law_id": "Luật Căn cước",
         "article_id": "29"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "24"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "20"
       }
     ]
   },
@@ -1284,14 +924,6 @@
       {
         "law_id": "Luật Căn cước",
         "article_id": "46"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "30"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "33"
       }
     ]
   },
@@ -1320,14 +952,6 @@
       {
         "law_id": "Luật Căn cước",
         "article_id": "7"
-      },
-      {
-        "law_id": "Luật Hôn nhân và gia đình",
-        "article_id": "5"
-      },
-      {
-        "law_id": "Luật Giáo dục",
-        "article_id": "22"
       }
     ]
   },
@@ -1338,10 +962,6 @@
       {
         "law_id": "Luật Căn cước",
         "article_id": "34"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "31"
       },
       {
         "law_id": "Luật Căn cước",
@@ -1356,14 +976,6 @@
       {
         "law_id": "Luật Căn cước",
         "article_id": "30"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "20"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "33"
       }
     ]
   },
@@ -1378,10 +990,6 @@
       {
         "law_id": "Luật Căn cước",
         "article_id": "19"
-      },
-      {
-        "law_id": "Luật Căn cước",
-        "article_id": "27"
       }
     ]
   },
@@ -1391,15 +999,15 @@
     "relevant_articles": [
       {
         "law_id": "Bộ luật dân sự",
-        "article_id": "61"
-      },
-      {
-        "law_id": "Bộ luật dân sự",
         "article_id": "60"
       },
       {
         "law_id": "Bộ luật dân sự",
         "article_id": "63"
+      },
+      {
+        "law_id": "Bộ luật dân sự",
+        "article_id": "61"
       }
     ]
   },
@@ -1410,14 +1018,6 @@
       {
         "law_id": "Bộ luật dân sự",
         "article_id": "140"
-      },
-      {
-        "law_id": "Bộ luật dân sự",
-        "article_id": "135"
-      },
-      {
-        "law_id": "Bộ luật dân sự",
-        "article_id": "563"
       }
     ]
   },
@@ -1426,16 +1026,16 @@
     "text": "Nếu nội dung hợp đồng ký kết giữa doanh nghiệp và người tiêu dùng được hai bên hiểu theo hai cách khác nhau thì việc giải thích hợp đồng đó được thực hiện như thế nào?",
     "relevant_articles": [
       {
-        "law_id": "Bộ luật dân sự",
-        "article_id": "404"
-      },
-      {
         "law_id": "Luật Bảo vệ quyền lợi người tiêu dùng",
         "article_id": "24"
       },
       {
         "law_id": "Bộ luật dân sự",
         "article_id": "121"
+      },
+      {
+        "law_id": "Bộ luật dân sự",
+        "article_id": "404"
       }
     ]
   },
@@ -1446,14 +1046,6 @@
       {
         "law_id": "Luật Giao dịch điện tử",
         "article_id": "3"
-      },
-      {
-        "law_id": "Luật Giao dịch điện tử",
-        "article_id": "7"
-      },
-      {
-        "law_id": "Luật Tố tụng hành chính",
-        "article_id": "82"
       }
     ]
   },
@@ -1468,10 +1060,6 @@
       {
         "law_id": "Luật Nhà ở",
         "article_id": "89"
-      },
-      {
-        "law_id": "Luật Nhà ở",
-        "article_id": "87"
       }
     ]
   }

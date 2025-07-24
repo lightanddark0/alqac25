@@ -52,23 +52,21 @@ def build_context(q, law_dict):
 def build_prompt(q, law_dict):
     context = build_context(q, law_dict)
     qtype = q.get("question_type", "")
-    text = q["prompt"]
+    text = q["text"]
     if qtype == "Đúng/Sai":
-        prompt = (
-            f"{context}Bạn là chuyên gia pháp luật. Hãy trả lời Đúng hoặc Sai cho câu sau, không cần giải thích thêm.\n"
-            f"Câu hỏi: {text}\n"
-            f"Đáp án:"
-        )
+        prompt = "Dựa vào nội dung sau đây hãy trả lời đúng hoặc sai cho câu hỏi sau: tôi yêu em? nội dung liên quan: tôi rất mến em và yêu em"
+        # prompt = (
+        #     f"{context}Bạn là chuyên gia pháp luật. Hãy trả lời Đúng hoặc Sai cho câu sau, không cần giải thích thêm.\n"
+        #     f"Câu hỏi: {text}\n"
+        #     f"Đáp án:"
+        # )
     elif qtype == "Trắc nghiệm":
         choices = q.get("choices")
         if choices:
             choices_str = "\n".join([f"{k}: {v}" for k, v in choices.items()])
-            prompt = (
-                f"{context}Bạn là chuyên gia pháp luật. Hãy chọn đáp án đúng nhất (A, B, C hoặc D) cho câu hỏi sau, chỉ trả lời ký tự đáp án, không cần giải thích.\n"
-                f"Câu hỏi: {text}\n"
-                f"Các lựa chọn:\n{choices_str}\n"
-                f"Đáp án:"
-            )
+            prompt = f"{context}Bạn là chuyên gia pháp luật. Hãy chọn đáp án đúng nhất (A, B, C hoặc D) cho câu hỏi sau, chỉ trả lời ký tự đáp án, không cần giải thích.\n" + f"Câu hỏi: {text}\n" + f"Các lựa chọn:\n{choices_str}\n" + f"Đáp án:"
+                
+            
         else:
             prompt = (
                 f"{context}Bạn là chuyên gia pháp luật. Hãy chọn đáp án đúng nhất cho câu hỏi sau, chỉ trả lời ký tự đáp án, không cần giải thích.\n"
@@ -85,13 +83,13 @@ def build_prompt(q, law_dict):
         prompt = f"{context}Câu hỏi: {text}\nĐáp án:"
     return prompt
 
-MODEL_NAME = "AITeamVN/Vi-Qwen2-1.5B-RAG"  # Đường dẫn model đã fine-tune (chỉnh lại nếu cần)
+MODEL_NAME = "AITeamVN/Vi-Qwen2-1.5B-RAG"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 DTYPE = torch.float16 if DEVICE == "cuda" else torch.float32
 
 if __name__ == "__main__":
     print(f"Using device: {DEVICE}")
-    questions = load_questions("alqac25_private_test_task2.json")
+    questions = load_questions("alqac25_test_split.json")
     law_dict = load_law_corpus("alqac25_law.json")
 
     # Load model & tokenizer
@@ -107,10 +105,12 @@ if __name__ == "__main__":
 
     # Chuẩn bị prompt phù hợp từng loại câu hỏi, có context
     inputs = [build_prompt(q, law_dict) for q in questions]
+    #inputs = ["Dựa vào nội dung sau đây hãy trả lời đúng hoặc sai, không lặp lại câu hỏi và không giải thích cho câu hỏi sau: tôi yêu em? nội dung liên quan: tôi rất mến em và yêu em", "Dựa vào nội dung sau đây hãy trả lời đúng hoặc sai cho câu hỏi sau: tôi yêu em? nội dung liên quan: tôi rất mến em và yêu em"]
     encodings = tokenizer(inputs, return_tensors="pt", padding=True, truncation=True, max_length=512)
     encodings = {k: v.to(DEVICE) for k, v in encodings.items()}
 
     with torch.no_grad():
+        outputs = ""
         outputs = model.generate(
             input_ids=encodings["input_ids"],
             attention_mask=encodings["attention_mask"],
@@ -122,9 +122,9 @@ if __name__ == "__main__":
 
     # Lưu kết quả
     results = [
-        {"question_id": q["question_id"], "question": q["prompt"], "prediction": pred}
-        for q, pred in zip(questions, predictions)
+        {"prediction": pred}
+        for pred in predictions
     ]
-    with open("alqac25_private_test_task2_predictions.json", "w", encoding="utf-8") as f:
+    with open("alqac25_test_task2_predictions.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
-    print("Đã lưu kết quả dự đoán vào alqac25_private_test_task2_predictions.json") 
+    print("Đã lưu kết quả dự đoán vào alqac25_test_predictions.json")

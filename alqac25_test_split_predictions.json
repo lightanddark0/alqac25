@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": "train_alqac25_381",
+    "question": "Bảo vệ tổ quốc Việt Nam xã hội chủ nghĩa là sự nghiệp của ai?",
+    "prediction": "D"
+  },
+  {
+    "question_id": "train_alqac25_439",
+    "question": "việc theo dõi liên tục, định kỳ, đột xuất, có hệ thống về thành phần môi trường, các nhân tố tác động đến môi trường, chất thải nhằm cung cấp thông tin đánh giá hiện trạng môi trường, diễn biến chất lượng môi trường và tác động xấu đến môi trường là gì?",
+    "prediction": "26"
+  },
+  {
+    "question_id": "train_alqac25_475",
+    "question": "Chính phủ quy định mọi trình tự, thủ tục áp dụng biện pháp bảo vệ an ninh mạng, đúng hay sai?",
+    "prediction": "Sai  "
+  },
+  {
+    "question_id": "train_alqac25_386",
+    "question": "Chỉ có một người nắm quyền làm chủ nhà nước, tất cả quyền lực nhà nước tập trung trong tay chủ tịch nước, đúng hay sai?",
+    "prediction": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_284",
+    "question": "Vụ án có điều kiện nào sẽ được giải quyết theo thủ tục rút gọn?",
+    "prediction": "a) Vụ án có tình tiết đơn giản, tài liệu, chứng cứ đầy đủ, rõ ràng, bảo đảm đủ căn cứ giải quyết vụ án và Tòa án không phải thu thập tài liệu, chứng cứ; b) Các đương sự đều có địa chỉ nơi cư trú, trụ sở rõ ràng; c) Không có đương sự cư trú ở nước ngoài, trừ trường hợp đương sự ở nước ngoài có thỏa thuận với đương sự ở Việt Nam đề nghị Tòa án giải quyết theo thủ tục rút gọn. "
+  },
+  {
+    "question_id": "train_alqac25_250",
+    "question": "Tại phiên tòa, quyền quyết định việc thay đổi thẩm phán, hội thẩm nhân dân, thư kí tòa án là của ai?",
+    "prediction": "D"
+  },
+  {
+    "question_id": "train_alqac25_263",
+    "question": "Tất cả mọi người khi vào phòng xử án đều phải chấp hành kiểm tra an ninh của lực lượng bảo vệ phiên tòa đúng hay sai?",
+    "prediction": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_261",
+    "question": "Trường hợp đơn khởi kiện thể hiện nội dung yêu cầu giải quyết tranh chấp đất đai, nhưng người khởi kiện chỉ yêu cầu Tòa án hủy giấy chứng nhận quyền sử dụng đất đã cấp. Trường hợp này thụ lý vụ án dân sự hay vụ án hành chính để xem xét giải quyết?",
+    "prediction": "Vụ án hành chính."
+  },
+  {
+    "question_id": "train_alqac25_252",
+    "question": "Trong quá trình giải quyết vụ án, đương sự có quyền gì liên quan đến tài liệu, chứng cứ?",
+    "prediction": "C"
+  },
+  {
+    "question_id": "train_alqac25_279",
+    "question": "Khi người đại diện theo pháp luật của đương sự là người chưa thành niên hoặc người mất năng lực hành vi dân sự, ai phải ký tên hoặc điểm chỉ trong đơn kháng cáo?",
+    "prediction": "B"
+  },
+  {
+    "question_id": "train_alqac25_390",
+    "question": "Một trong những tiêu chí xây dựng nền kinh tế của nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam được là độc lập và tự chủ.",
+    "prediction": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_269",
+    "question": "Hành vi nào liên quan đến phiên dịch được coi là hành vi cản trở thu thập xác minh chứng cớ của tòa án?",
+    "prediction": "B"
+  },
+  {
+    "question_id": "train_alqac25_362",
+    "question": "Ai có quyền quyết định việc cung cấp thông tin liên quan đến bí mật kinh doanh, đời sống riêng tư, bí mật cá nhân, bí mật gia đình trong trường hợp cần thiết vì lợi ích công cộng?",
+    "prediction": "B"
+  },
+  {
+    "question_id": "train_alqac25_597",
+    "question": "Thời hạn đăng ký tạm trú tối đa là bao lâu?",
+    "prediction": "C"
+  },
+  {
+    "question_id": "train_alqac25_570",
+    "question": "Chung sống như vợ chồng là việc nam, nữ tổ chức cuộc sống chung và coi nhau là vợ chồng, đúng hay sai?",
+    "prediction": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_420",
+    "question": "Ông X là chủ dự án đầu tư của 1 dự án tại khu dân cư Y, huyện Z, tỉnh A. Ông X không cần phải thực hiện tham vấn cộng đồng dân cư, cá nhân chịu tác động trực tiếp bởi dự án của ông vì đấy không phải chuyên môn của ông. Đúng hay sai?",
+    "prediction": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_498",
+    "question": "Luật An ninh mạng năm 2018 có hiệu lực từ ngày nào?",
+    "prediction": "C"
+  },
+  {
+    "question_id": "train_alqac25_175",
+    "question": "Việc thực hiện nhiệm vụ, tổ chức bộ máy, nhân sự và tài chính của trường công lập được quy định như thế nào?",
+    "prediction": "C"
+  },
+  {
+    "question_id": "train_alqac25_579",
+    "question": "Trường hợp nào dưới đây tòa án có thể từ chối thụ lý khi các bên tranh chấp đã có thỏa thuận trọng tài?",
+    "prediction": "D"
+  },
+  {
+    "question_id": "train_alqac25_465",
+    "question": "Theo quy định của luật Trọng tài thương mại, phán quyết trọng tài phải có bao nhiêu nội dung chủ yếu?",
+    "prediction": "A"
+  },
+  {
+    "question_id": "train_alqac25_707",
+    "question": "Các khu vực nào sau đây cần phải có trong cơ sở cai nghiện ma túy công lập?",
+    "prediction": "D"
+  },
+  {
+    "question_id": "train_alqac25_633",
+    "question": "Phán quyết trọng tài không bị xem xét lại theo thủ tục phúc thẩm, đúng hay sai?",
+    "prediction": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_717",
+    "question": "Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch quốc tế không bao gồm thứ gì sau đây?",
+    "prediction": "C"
+  },
+  {
+    "question_id": "train_alqac25_725",
+    "question": "Nguyên tắc bảo đảm quyền tiếp cận thông tin theo quy định của Luật Tiếp cận thông tin bao gồm mấy nguyên tắc?",
+    "prediction": "C"
+  },
+  {
+    "question_id": "train_alqac25_404",
+    "question": "Công ty hóa chất B có cơ sở đặt tại quận Bình Thạnh, thành phố Hồ Chí Minh. Cơ sở này có sử dụng hóa chất độc hại trong quá trình hoạt động nhưng lại không có biện pháp bảo đảm không rò rỉ, phát tán hóa chất độc hại, chất phóng xạ vào nguồn nước dưới đất vì người quản lý cơ sở cho rằng điều này không cần thiết và cơ sở không hề vi phạm luật bảo vệ môi trường. Đúng hay sai?",
+    "prediction": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_356",
+    "question": "Thông tin nào sẽ gây nguy hại đến lợi ích của Nhà nước nếu để công dân tiếp cận?",
+    "prediction": "D"
+  },
+  {
+    "question_id": "train_alqac25_153",
+    "question": "Cơ sở giáo dục thường xuyên bao gồm trường đại học hay viện nghiên cứu, đúng hay sai?",
+    "prediction": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_344",
+    "question": "Thông tin liên quan đến bí mật gia đình có thể được tiếp cận không cần tất cả các thành viên gia đình đều đồng ý, đúng hay sai?",
+    "prediction": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_248",
+    "question": "Thẩm phán không có quyền xử lý hành vi cản trở hoạt động tố tụng hành chính theo quy định của pháp luật đúng hay sai?",
+    "prediction": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_42",
+    "question": "Hợp tác quốc tế, nghiên cứu khoa học, chuyển giao công nghệ, cung cấp dịch vụ kỹ thuật số để phát triển điện ảnh là một trong các chính sách của nhà nước về phát triển điện ảnh, công nghiệp điện ảnh là đúng hay sai?",
+    "prediction": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_10",
+    "question": "Việc sinh con bằng kỹ thuật hỗ trợ sinh sản là hành vi trong đó con người sử dụng phương pháp nhân tạo thụ tinh hoặc thụ tinh trong ống nghiệm để sinh con.",
+    "prediction": "Đúng"
+  },
+  {
+    "question_id": "train_alqac25_14",
+    "question": "Chồng có nguồn thu nhập nhiều hơn vợ thì chồng có quyền chiếm hữu, sử dụng tài sản chung nhiều hơn so với vợ, đúng hay sai?",
+    "prediction": "Sai"
+  },
+  {
+    "question_id": "train_alqac25_70",
+    "question": "Trong tố tụng trọng tài, các bên có thể thương lượng, hòa giải với nhau như thế nào?",
+    "prediction": "B "
+  },
+  {
+    "question_id": "train_alqac25_582",
+    "question": "Người xem dưới 16 tuổi được xem phim có nội dung thuộc phân loại nào sau đây?",
+    "prediction": "B "
+  },
+  {
+    "question_id": "train_alqac25_661",
+    "question": "Hội đồng trọng tài có thể không dùng pháp luật Việt Nam để giải quyết tranh chấp, đúng hay sai?",
+    "prediction": "Sai "
+  },
+  {
+    "question_id": "train_alqac25_345",
+    "question": "Người đứng đầu cơ quan nhà nước có quyền quyết định cung cấp thông tin liên quan đến bí mật kinh doanh, đời sống riêng tư, bí mật cá nhân, bí mật gia đình trong trường hợp cần thiết vì lợi ích công cộng, đúng hay sai?",
+    "prediction": "Sai "
+  }
+]
